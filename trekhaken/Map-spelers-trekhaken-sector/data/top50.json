@@ -49,6 +49,42 @@
   },
   {
     "rang": 5,
+    "naam": "Eurorepar Dumarey",
+    "score": 100,
+    "fte": 3,
+    "est_ebitda": "€182K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0864.202.791",
+    "plaats": "Torhout",
+    "provincie": "wvl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen). | SWEET SPOT - EBITDA EUR182K, marge 31%. Torhout (WVL). Citroen-dealer."
+  },
+  {
+    "rang": 6,
+    "naam": "Eurorepar Koen de Maeyer",
+    "score": 100,
+    "fte": 3,
+    "est_ebitda": "€160K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0464.072.348",
+    "plaats": "Bazel",
+    "provincie": "ovl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen). | SWEET SPOT - EBITDA EUR160K, winst EUR123K. Bazel (OVL). Gezond."
+  },
+  {
+    "rang": 7,
+    "naam": "Remorques Moreau",
+    "score": 100,
+    "fte": 3,
+    "est_ebitda": "€234K",
+    "activiteit": "Plaatser + Verkoper",
+    "btw": "BE0474.258.041",
+    "plaats": "Lives-sur-Meuse",
+    "provincie": "nam",
+    "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lives-sur-Meuse (Namen). | TOP SWEET SPOT - EBITDA EUR234K op EUR407K omzet, 58% marge. Lives-sur-Meuse (NAM). Beste marge/schaal-ratio."
+  },
+  {
+    "rang": 8,
     "naam": "Garage Goetmaekere",
     "score": 76,
     "fte": 2,
@@ -60,7 +96,7 @@
     "notitie": "Garage met trekhaak-installatie. gevestigd in Gentbrugge (Gent) (Oost-Vlaanderen). opgericht 2011."
   },
   {
-    "rang": 6,
+    "rang": 9,
     "naam": "DN Trailers",
     "score": 76,
     "fte": 2,
@@ -72,7 +108,127 @@
     "notitie": "Bijna sweet spot - EBITDA EUR144K, 2 FTE, clean balance, Temse (OVL)."
   },
   {
-    "rang": 7,
+    "rang": 10,
+    "naam": "Eurorepar 4all cars bvba",
+    "score": 76,
+    "fte": 7,
+    "est_ebitda": "€886K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0415.940.849",
+    "plaats": "Sint-Gillis-Waas",
+    "provincie": "ovl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen). | EBITDA EUR886K - uitzonderlijk hoog jaar of multipele BV's gecombineerd? Nader bekijken. Sint-Gillis-Waas (OVL)."
+  },
+  {
+    "rang": 11,
+    "naam": "Eurorepar Peelaerts bv",
+    "score": 76,
+    "fte": 3,
+    "est_ebitda": "€90K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0894.603.482",
+    "plaats": "Boortmeerbeek",
+    "provincie": "vbr",
+    "notitie": "Erkende installateur (Brink). gevestigd in Boortmeerbeek (Vlaams-Brabant)."
+  },
+  {
+    "rang": 12,
+    "naam": "Aanhangwagens Accu&Co",
+    "score": 75,
+    "fte": 7,
+    "est_ebitda": "€186K",
+    "activiteit": "Plaatser",
+    "btw": "BE0817.325.661",
+    "plaats": "Testelt",
+    "provincie": "vbr",
+    "notitie": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Testelt (Vlaams-Brabant). | SWEET SPOT - EBITDA EUR186K op EUR2.6M omzet. Testelt (VBR). Trailerspecialist."
+  },
+  {
+    "rang": 13,
+    "naam": "Eurorepar Boone Tom",
+    "score": 74,
+    "fte": 3,
+    "est_ebitda": "€83K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0862.438.579",
+    "plaats": "Lierde",
+    "provincie": "ovl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Lierde (Oost-Vlaanderen)."
+  },
+  {
+    "rang": 14,
+    "naam": "Garage Naeyaert",
+    "score": 72,
+    "fte": 3,
+    "est_ebitda": "€120K",
+    "activiteit": "Garage + Plaatser",
+    "btw": "BE0894.049.196",
+    "plaats": "Izegem",
+    "provincie": "wvl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Izegem (West-Vlaanderen). | Net onder sweet spot. Brink-erkende Eurorepar partner. Izegem (WVL)."
+  },
+  {
+    "rang": 15,
+    "naam": "Eurorepar Maene",
+    "score": 70,
+    "fte": 3,
+    "est_ebitda": "€36K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0879.733.778",
+    "plaats": "Bekegem",
+    "provincie": "wvl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Bekegem (West-Vlaanderen)."
+  },
+  {
+    "rang": 16,
+    "naam": "Eurorepar MC Motors NV",
+    "score": 69,
+    "fte": 7,
+    "est_ebitda": "€88K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0449.482.162",
+    "plaats": "Mechelen",
+    "provincie": "ant",
+    "notitie": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen). | 32 jaar bedrijf. Mechelen (ANT)."
+  },
+  {
+    "rang": 17,
+    "naam": "Eurorepar FL Motor",
+    "score": 67,
+    "fte": 3,
+    "est_ebitda": "€22K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0550.819.646",
+    "plaats": "Florenville",
+    "provincie": "lux",
+    "notitie": "Erkende installateur (Brink). gevestigd in Florenville (Luxemburg (BE))."
+  },
+  {
+    "rang": 18,
+    "naam": "Pashuysen NV (HQ Aarschot)",
+    "score": 66,
+    "fte": 35,
+    "est_ebitda": "€651K",
+    "activiteit": "Plaatser",
+    "btw": "BE0416.578.970",
+    "plaats": "Aarschot",
+    "provincie": "vbr",
+    "notitie": "Brink-erkende dealer, 6 BE-vestigingen. NIET Elbicon Industries (andere entiteit). | TE GROOT - omzet EUR59.5M, 20-49 FTE. Aarschot (VBR), 6 vestigingen. Brink-dealer + multi-merk."
+  },
+  {
+    "rang": 19,
+    "naam": "Lavrijsen NV",
+    "score": 66,
+    "fte": 35,
+    "est_ebitda": "€352K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0406.353.289",
+    "plaats": "Geel",
+    "provincie": "ant",
+    "notitie": "Erkende installateur (Brink). gevestigd in Geel (Antwerpen). | TE GROOT - omzet EUR16.3M, 20-49 FTE. 57 jaar bedrijf. Geel (ANT)."
+  },
+  {
+    "rang": 20,
     "naam": "Costo Remorques",
     "score": 65,
     "fte": 2,
@@ -84,7 +240,55 @@
     "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lierneux (Luik). opgericht 2009."
   },
   {
-    "rang": 8,
+    "rang": 21,
+    "naam": "Eurorepar Cremers",
+    "score": 64,
+    "fte": 3,
+    "est_ebitda": "€43K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0441.937.938",
+    "plaats": "Kortessem",
+    "provincie": "lim",
+    "notitie": "Erkende installateur (Brink). gevestigd in Kortessem (Limburg (BE))."
+  },
+  {
+    "rang": 22,
+    "naam": "Cartronic Maaseik BV",
+    "score": 64,
+    "fte": 3,
+    "est_ebitda": "€13K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0462.826.986",
+    "plaats": "Maaseik",
+    "provincie": "lim",
+    "notitie": "Erkende installateur (Brink). gevestigd in Maaseik (Limburg (BE))."
+  },
+  {
+    "rang": 23,
+    "naam": "Eurorepar Bariseau Mottrie",
+    "score": 63,
+    "fte": 75,
+    "est_ebitda": "€442K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0554.705.980",
+    "plaats": "Roeselare",
+    "provincie": "wvl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen). | TE GROOT - omzet EUR52.9M, EBITDA EUR442K maar 50-99 FTE. Roeselare (WVL)."
+  },
+  {
+    "rang": 24,
+    "naam": "Eurorepar Preumont",
+    "score": 63,
+    "fte": 3,
+    "est_ebitda": "€5K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0431.343.162",
+    "plaats": "Couvin",
+    "provincie": "nam",
+    "notitie": "Erkende installateur (Brink). gevestigd in Couvin (Namen)."
+  },
+  {
+    "rang": 25,
     "naam": "GDW Group",
     "score": 63,
     "fte": 100,
@@ -96,7 +300,19 @@
     "notitie": "Belgische marktleider. ~31M EUR omzet (GDW nv). 5 productiesites in BE/FR/DK. Familie-bedrijf."
   },
   {
-    "rang": 9,
+    "rang": 26,
+    "naam": "Eurorepar Vervoort",
+    "score": 62,
+    "fte": 3,
+    "est_ebitda": "€46K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0839.545.490",
+    "plaats": "Oelegem",
+    "provincie": "ant",
+    "notitie": "Erkende installateur (Brink). gevestigd in Oelegem (Antwerpen)."
+  },
+  {
+    "rang": 27,
     "naam": "REMORQUES DECKERS",
     "score": 61,
     "fte": 7,
@@ -108,7 +324,7 @@
     "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Liege (Luik). 28 jaar bedrijf (sinds 1998)."
   },
   {
-    "rang": 10,
+    "rang": 28,
     "naam": "Trekhaak Punt",
     "score": 60,
     "fte": 1,
@@ -120,7 +336,7 @@
     "notitie": "Meerdere locaties BE. Montage vanaf 369 EUR. | Innotex Invest BV."
   },
   {
-    "rang": 11,
+    "rang": 29,
     "naam": "Autoparts De Smet",
     "score": 60,
     "fte": 2,
@@ -132,7 +348,7 @@
     "notitie": "Trekhaak-plaatser. gevestigd in Gent (Oost-Vlaanderen). 30 jaar bedrijf (sinds 1996)."
   },
   {
-    "rang": 12,
+    "rang": 30,
     "naam": "Vlb Cars (Autocrew VLB Cars)",
     "score": 60,
     "fte": 1,
@@ -144,7 +360,7 @@
     "notitie": "Garage + trekhaken Wetteren. Autocrew partner."
   },
   {
-    "rang": 13,
+    "rang": 31,
     "naam": "AANHANGWAGENS SUPERMARKT FRANK VERMEIR",
     "score": 60,
     "fte": null,
@@ -156,7 +372,19 @@
     "notitie": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Wezemaal (Vlaams-Brabant). 26 jaar bedrijf (sinds 2000). | SWEET SPOT - EBITDA EUR169K, marge 38,8%. Wezemaal (VBR)."
   },
   {
-    "rang": 14,
+    "rang": 32,
+    "naam": "Eurorepar Vanhulle Menen bvba",
+    "score": 60,
+    "fte": 3,
+    "est_ebitda": "€24K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0831.981.569",
+    "plaats": "Menen",
+    "provincie": "wvl",
+    "notitie": "Erkende installateur (Brink). gevestigd in Menen (West-Vlaanderen)."
+  },
+  {
+    "rang": 33,
     "naam": "D C REMORQUES",
     "score": 60,
     "fte": null,
@@ -168,7 +396,7 @@
     "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry-Rance (Henegouwen). opgericht 2011. | SWEET SPOT - EBITDA EUR214K (2023), piek 2022 EUR486K. Sivry-Rance (HAI)."
   },
   {
-    "rang": 15,
+    "rang": 34,
     "naam": "AWZ (A-Traction)",
     "score": 60,
     "fte": null,
@@ -180,7 +408,7 @@
     "notitie": "Pure trekhaak-specialist La Louvière. | SWEET SPOT - Omzet EUR1.1M, EBITDA EUR179K. La Louvière (HAI)."
   },
   {
-    "rang": 16,
+    "rang": 35,
     "naam": "Aanhangwagencentrale Arendonk",
     "score": 60,
     "fte": null,
@@ -192,7 +420,7 @@
     "notitie": "Aanhangwagen dealer multi-merk. | TOP SWEET SPOT - EBITDA EUR391K. Schuldenvrij. Eigen vermogen EUR3.1M. 42 jaar bedrijf. Arendonk (ANT)."
   },
   {
-    "rang": 17,
+    "rang": 36,
     "naam": "Motor Service Huy (Les Remorques de Huy)",
     "score": 60,
     "fte": null,
@@ -204,7 +432,7 @@
     "notitie": "In 2024 overgenomen door Motor Service Huy. | SWEET SPOT - EBITDA EUR209K, 5-9 FTE, equity EUR1.5M, stabiele groei. Wanze (LUI). Nam Les Remorques de Huy over in 2024."
   },
   {
-    "rang": 18,
+    "rang": 37,
     "naam": "Limburgse Auto-onderdelen (L.A.O.)",
     "score": 60,
     "fte": 2,
@@ -216,7 +444,7 @@
     "notitie": "Auto-onderdelen groothandel incl. trekhaken."
   },
   {
-    "rang": 19,
+    "rang": 38,
     "naam": "Autex",
     "score": 59,
     "fte": 2,
@@ -228,7 +456,7 @@
     "notitie": "Trekhaak-plaatser. gevestigd in Geel (Antwerpen). 53+ jaar bedrijf (sinds 1973)."
   },
   {
-    "rang": 20,
+    "rang": 39,
     "naam": "Les Attaches Hennuyeres",
     "score": 57,
     "fte": 2,
@@ -240,7 +468,31 @@
     "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lodelinsart (Henegouwen). 20 jaar bedrijf (sinds 2006)."
   },
   {
-    "rang": 21,
+    "rang": 40,
+    "naam": "Schrooten Autotechnics",
+    "score": 57,
+    "fte": 7,
+    "est_ebitda": "€44K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0777.721.155",
+    "plaats": "Bree",
+    "provincie": "lim",
+    "notitie": "Erkende installateur (Brink). gevestigd in Bree (Limburg (BE))."
+  },
+  {
+    "rang": 41,
+    "naam": "Eurorepar D.N. Cars",
+    "score": 56,
+    "fte": 3,
+    "est_ebitda": "€45K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0773.742.274",
+    "plaats": "Bastogne",
+    "provincie": "lux",
+    "notitie": "Erkende installateur (Brink). gevestigd in Bastogne (Luxemburg (BE))."
+  },
+  {
+    "rang": 42,
     "naam": "RSM Automaterialen",
     "score": 55,
     "fte": 3,
@@ -252,7 +504,7 @@
     "notitie": "Groothandel auto-onderdelen incl. GDW. 45 jaar actief."
   },
   {
-    "rang": 22,
+    "rang": 43,
     "naam": "Trekhaakdokter",
     "score": 53,
     "fte": 2,
@@ -264,7 +516,7 @@
     "notitie": "B2B-gericht (voor garages), codering + montage. Oprichter Steven Peeters. | Can Solutions BV."
   },
   {
-    "rang": 23,
+    "rang": 44,
     "naam": "DK Autoparts",
     "score": 51,
     "fte": 2,
@@ -276,7 +528,7 @@
     "notitie": "Online + B2B groothandel. Brede range trekhaken."
   },
   {
-    "rang": 24,
+    "rang": 45,
     "naam": "Autoservice Bilzen (Fascomad)",
     "score": 48,
     "fte": 4,
@@ -288,7 +540,7 @@
     "notitie": "Trekhaken + uitlaat + banden Bilzen."
   },
   {
-    "rang": 25,
+    "rang": 46,
     "naam": "VDL Weweler-Colaert",
     "score": 47,
     "fte": 98,
@@ -300,7 +552,7 @@
     "notitie": "Producent verenophanging/trekhaken zware voertuigen. VDL Group dochter."
   },
   {
-    "rang": 26,
+    "rang": 47,
     "naam": "NOISET Remorques-Automobiles Fauvillers",
     "score": 41,
     "fte": 7,
@@ -312,7 +564,19 @@
     "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Fauvillers (Luxemburg (BE)). 53+ jaar bedrijf (sinds 1973)."
   },
   {
-    "rang": 27,
+    "rang": 48,
+    "naam": "Eurorepar Van Humbeeck",
+    "score": 41,
+    "fte": 3,
+    "est_ebitda": "€17K",
+    "activiteit": "Plaatser + Garage",
+    "btw": "BE0420.036.229",
+    "plaats": "Brussegem",
+    "provincie": "vbr",
+    "notitie": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant). | Verlies 2023. SC Motors handelsnaam."
+  },
+  {
+    "rang": 49,
     "naam": "Inter-Parts Europe",
     "score": 38,
     "fte": 1,
@@ -324,7 +588,7 @@
     "notitie": "Trekhaak-plaatser. gevestigd in Menen (West-Vlaanderen). 38 jaar bedrijf (sinds 1988)."
   },
   {
-    "rang": 28,
+    "rang": 50,
     "naam": "Eurauto",
     "score": 37,
     "fte": 1,
@@ -334,269 +598,5 @@
     "plaats": "De Pinte (Nazareth)",
     "provincie": "ovl",
     "notitie": "Trekhaak-plaatser. gevestigd in De Pinte (Nazareth) (Oost-Vlaanderen). 50+ jaar bedrijf (sinds 1976)."
-  },
-  {
-    "rang": 29,
-    "naam": "RD Attache-Remorque",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€118K",
-    "activiteit": "Plaatser",
-    "btw": "BE0414.643.029",
-    "plaats": "Namur",
-    "provincie": "nam",
-    "notitie": "50+ jaar bedrijf, pure trekhaak-specialist Namur. | Bijna sweet spot. Sterke groei: EBITDA EUR29K (2022) -> EUR118K (2024). 50+ jaar. Namur."
-  },
-  {
-    "rang": 30,
-    "naam": "Trekhakencenter Kortrijk",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€16K",
-    "activiteit": "Plaatser",
-    "btw": "BE0426.803.463",
-    "plaats": "Kortrijk",
-    "provincie": "wvl",
-    "notitie": "Juridische naam: Aanhangwagenbouw Deblaere. Klein bedrijf."
-  },
-  {
-    "rang": 31,
-    "naam": "RPV Vanpevenaeyge",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€30K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0455.835.761",
-    "plaats": "Velaines",
-    "provincie": "hai",
-    "notitie": "Trekhaak-plaatser. gevestigd in Velaines (Henegouwen)."
-  },
-  {
-    "rang": 32,
-    "naam": "AANHANGWAGEN STOCK",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€74K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0541.897.131",
-    "plaats": "Oostende",
-    "provincie": "wvl",
-    "notitie": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Oostende (West-Vlaanderen). opgericht 2013. | EBITDA-marge 73,9% - zeer efficient. Oostende (WVL)."
-  },
-  {
-    "rang": 33,
-    "naam": "DROWA AANHANGWAGENS",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€44K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0416.951.827",
-    "plaats": "Sint-Niklaas",
-    "provincie": "ovl",
-    "notitie": "50+ jaar bedrijf, aanhangwagen-specialist Sint-Niklaas. | 48 jaar familiebedrijf. Sint-Niklaas (OVL)."
-  },
-  {
-    "rang": 34,
-    "naam": "AANHANGWAGENS LOUBEN",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€35K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0459.397.740",
-    "plaats": "Wommelgem",
-    "provincie": "ant",
-    "notitie": "Wommelgem - in straat naast Carloma. | Dalende EBITDA tov 2020 (EUR89K). Wommelgem (ANT) - naast Carloma."
-  },
-  {
-    "rang": 35,
-    "naam": "AANHANGWAGENS PATTYN STEFAAN",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€62K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0821.832.795",
-    "plaats": "Zonnebeke",
-    "provincie": "wvl",
-    "notitie": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonnebeke (West-Vlaanderen). opgericht 2009. | Sterke daling vs 2022 (EUR158K EBITDA). Zonnebeke (WVL)."
-  },
-  {
-    "rang": 36,
-    "naam": "Carr. Brugghemans (VAG Aanhangwagens)",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€83K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0747.518.127",
-    "plaats": "Sint-Katelijne-Waver",
-    "provincie": "ant",
-    "notitie": "Eveneens VAG Aanhangwagens handelsnaam. | Jong bedrijf, sterke groei +150% in 2021. Sint-Katelijne-Waver (ANT)."
-  },
-  {
-    "rang": 37,
-    "naam": "Attache Remorque Coenen",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€18K",
-    "activiteit": "Plaatser",
-    "btw": "BE0820.354.734",
-    "plaats": "Gembloux",
-    "provincie": "nam",
-    "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gembloux (Namen). opgericht 2009. | 5-9 FTE. Lage marge na verliesjaar 2022. Gembloux (NAM)."
-  },
-  {
-    "rang": 38,
-    "naam": "LES REMORQUES DE HUY",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€8K",
-    "activiteit": "Plaatser",
-    "btw": "BE0727.624.615",
-    "plaats": "Wanze",
-    "provincie": "lui",
-    "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Wanze (Luik). opgericht 2019. | Sterk gedaald van EUR87K (2020). Wanze (LUI)."
-  },
-  {
-    "rang": 39,
-    "naam": "GGM REMORQUE",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€14K",
-    "activiteit": "Plaatser",
-    "btw": "BE0792.416.457",
-    "plaats": "Gedinne",
-    "provincie": "nam",
-    "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gedinne (Namen). opgericht 2023. | Klein startend bedrijf. Te vroeg om te beoordelen."
-  },
-  {
-    "rang": 40,
-    "naam": "REMORQUES-FERRONNERIES",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€82K",
-    "activiteit": "Plaatser",
-    "btw": "BE0730.974.479",
-    "plaats": "Yvoir",
-    "provincie": "nam",
-    "notitie": "Trekhaak- en aanhangwagen-specialist. gevestigd in Yvoir (Namen). opgericht 2019. | Hoge winstmarge 60%. Yvoir (NAM)."
-  },
-  {
-    "rang": 41,
-    "naam": "Mathieu Kerckhofs Trailers",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€108K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0891.035.169",
-    "plaats": "Bree",
-    "provincie": "lim",
-    "notitie": "Aanhangwagen dealer + importeur Ifor Williams. | Bijna sweet spot. Piek 2022 EUR234K EBITDA. Ifor Williams dealer. Bree (LIM)."
-  },
-  {
-    "rang": 42,
-    "naam": "KSA-Aanhangwagens",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€53K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0831.407.487",
-    "plaats": "Geel",
-    "provincie": "ant",
-    "notitie": "Aanhangwagen dealer multi-merk (9 merken). | Groei +284% in 2023. 9 merken (Anssems/Ifor Williams/Eduard/etc). Geel (ANT)."
-  },
-  {
-    "rang": 43,
-    "naam": "Vandamme Aanhangwagens BV",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€150K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0839.130.469",
-    "plaats": "Ichtegem",
-    "provincie": "wvl",
-    "notitie": "Aanhangwagen dealer multi-merk. | SWEET SPOT - EBITDA EUR150K. Stabiele groei. Equity EUR674K. Ichtegem (WVL)."
-  },
-  {
-    "rang": 44,
-    "naam": "West Trailers",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€47K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0415.166.433",
-    "plaats": "Waregem",
-    "provincie": "wvl",
-    "notitie": "Aanhangwagen dealer paardentrailers. | 50 jaar bedrijf. LET OP: 2024 EBITDA negatief (-EUR76K). Waregem (WVL)."
-  },
-  {
-    "rang": 45,
-    "naam": "TACK Aanhangwagens NV",
-    "score": 36,
-    "fte": null,
-    "est_ebitda": "€17K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0433.435.293",
-    "plaats": "Aarsele",
-    "provincie": "wvl",
-    "notitie": "Aanhangwagen fabrikant + dealer. | Zware daling: omzet -47% in 2023. Was EUR118K EBITDA in 2021. Aarsele (WVL)."
-  },
-  {
-    "rang": 46,
-    "naam": "Truck & Trailer Industry",
-    "score": 35,
-    "fte": 1,
-    "est_ebitda": "€5K (winst)",
-    "activiteit": "Distributeur",
-    "btw": "BE0415.964.803",
-    "plaats": "Poperinge",
-    "provincie": "wvl",
-    "notitie": "Trekhaken/koppelingen zwaar transport (VBG Group)."
-  },
-  {
-    "rang": 47,
-    "naam": "Lokerse Auto Service",
-    "score": 28,
-    "fte": 1,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser + Garage",
-    "btw": "BE0465.165.973",
-    "plaats": "Lokeren",
-    "provincie": "ovl",
-    "notitie": "LIQUIDATIE 28/04/2025 — niet actief target."
-  },
-  {
-    "rang": 48,
-    "naam": "GDW Group (holding)",
-    "score": 26,
-    "fte": 0,
-    "est_ebitda": "€34K",
-    "activiteit": "Plaatser",
-    "btw": "BE0801.770.326",
-    "plaats": "Waregem",
-    "provincie": "wvl",
-    "notitie": "Trekhaak-plaatser. gevestigd in Waregem (West-Vlaanderen). opgericht 2023."
-  },
-  {
-    "rang": 49,
-    "naam": "Luc Auto (Lucar bvba)",
-    "score": 20,
-    "fte": 0,
-    "est_ebitda": "€28K (winst)",
-    "activiteit": "Plaatser",
-    "btw": "BE0554.786.055",
-    "plaats": "Assenede",
-    "provincie": "ovl",
-    "notitie": "25+ jaar ervaring, voordelig tarief. | Trekhaken + Thule specialist."
-  },
-  {
-    "rang": 50,
-    "naam": "Tecno-Parts",
-    "score": 20,
-    "fte": 0,
-    "est_ebitda": "€10K (winst)",
-    "activiteit": "Plaatser",
-    "btw": "BE0432.090.260",
-    "plaats": "Merelbeke",
-    "provincie": "ovl",
-    "notitie": "Trekhaak-plaatser. gevestigd in Merelbeke (Oost-Vlaanderen). 39 jaar bedrijf (sinds 1987)."
   }
 ]

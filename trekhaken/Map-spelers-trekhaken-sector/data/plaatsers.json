@@ -816,7 +816,8 @@
     "bron": [
       "agent_research_2026_05_29",
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "grootte": null,
     "webshop": null,
@@ -824,13 +825,20 @@
     "merken_gevoerd": [
       "Brink"
     ],
-    "info": "Erkende installateur (Brink). gevestigd in Izegem (West-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Izegem (West-Vlaanderen). | Net onder sweet spot. Brink-erkende Eurorepar partner. Izegem (WVL).",
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9192171,
     "lng": 3.1882934,
     "_info_auto": true,
-    "btw": "BE0894.049.196"
+    "btw": "BE0894.049.196",
+    "cw_brutomarge": 248500,
+    "cw_winst": 47700,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 119900,
+    "oprichting": "2007",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Alfa Auto Shop",
@@ -1675,15 +1683,17 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.7576337,
     "lng": 4.2032812,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Halle (Vlaams-Brabant).",
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Halle (Vlaams-Brabant). | Eenmanszaak, geen jaarrekening publiek. 50 jaar bedrijf. Halle (VBR).",
     "_info_auto": true,
-    "oprichting": "1974"
+    "oprichting": "1974",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "DN Trailers",
@@ -1822,14 +1832,22 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0183203,
     "lng": 4.9491741,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Testelt (Vlaams-Brabant).",
-    "_info_auto": true
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Testelt (Vlaams-Brabant). | SWEET SPOT - EBITDA EUR186K op EUR2.6M omzet. Testelt (VBR). Trailerspecialist.",
+    "_info_auto": true,
+    "cw_omzet": 2600000,
+    "cw_winst": 104000,
+    "cw_fte": 7,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 185900,
+    "oprichting": "2009",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "VMV Group BVBA",
@@ -1847,15 +1865,22 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
-    "info": "Erkende installateur (Brink). gevestigd in Haaltert (Oost-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Haaltert (Oost-Vlaanderen). | INSOLVENT sinds 23/09/2024 - NIET BEREIKBAAR ALS TARGET.",
     "_info_auto": true,
     "btw": "BE0684.543.549",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "cw_brutomarge": 53500,
+    "cw_winst": 4900,
+    "cw_jaar": 2021,
+    "bizzy_ebitda": 13100,
+    "oprichting": "2017",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Garage Alain",
@@ -1901,7 +1926,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -1909,7 +1935,14 @@
     "lng": 3.1229164,
     "info": "Erkende installateur (Brink). gevestigd in Menen (West-Vlaanderen).",
     "_info_auto": true,
-    "btw": "BE0831.981.569"
+    "btw": "BE0831.981.569",
+    "cw_brutomarge": 110400,
+    "cw_winst": 14400,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 24200,
+    "oprichting": "2010",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Autoservice Geuens",
@@ -1956,7 +1989,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -1965,7 +1999,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Bree (Limburg (BE)).",
     "_info_auto": true,
     "btw": "BE0777.721.155",
-    "website": "schrooten-autotechnics.be"
+    "website": "schrooten-autotechnics.be",
+    "cw_brutomarge": 175300,
+    "cw_winst": 30300,
+    "cw_fte": 7,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 44300,
+    "oprichting": "2021",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Boone Tom",
@@ -1984,7 +2025,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -1993,7 +2035,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Lierde (Oost-Vlaanderen).",
     "_info_auto": true,
     "btw": "BE0862.438.579",
-    "website": "boonetom.be"
+    "website": "boonetom.be",
+    "cw_brutomarge": 273700,
+    "cw_winst": 60500,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 82600,
+    "oprichting": "2003",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar MC Motors NV",
@@ -2012,16 +2061,24 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0464582,
     "lng": 4.4169254,
-    "info": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen).",
+    "info": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen). | 32 jaar bedrijf. Mechelen (ANT).",
     "_info_auto": true,
     "btw": "BE0449.482.162",
-    "website": "euroreparmechelen.be"
+    "website": "euroreparmechelen.be",
+    "cw_brutomarge": 491900,
+    "cw_winst": 38400,
+    "cw_fte": 7,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 87700,
+    "oprichting": "1993",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Bariseau Mottrie",
@@ -2040,16 +2097,24 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.975549,
     "lng": 3.1201307,
-    "info": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen). | TE GROOT - omzet EUR52.9M, EBITDA EUR442K maar 50-99 FTE. Roeselare (WVL).",
     "_info_auto": true,
     "btw": "BE0554.705.980",
-    "website": "bariseaumottrie.be"
+    "website": "bariseaumottrie.be",
+    "cw_omzet": 52900000,
+    "cw_winst": 52200,
+    "cw_fte": 75,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 441600,
+    "oprichting": "2014",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Cremers",
@@ -2068,7 +2133,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2077,7 +2143,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Kortessem (Limburg (BE)).",
     "_info_auto": true,
     "btw": "BE0441.937.938",
-    "website": "garage-cremers.be"
+    "website": "garage-cremers.be",
+    "cw_brutomarge": 155800,
+    "cw_winst": 19700,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 42700,
+    "oprichting": "1990",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Pashuysen NV (HQ Aarschot)",
@@ -2093,17 +2166,25 @@
     "categorieen": [
       "plaatser"
     ],
-    "info": "Brink-erkende dealer, 6 BE-vestigingen. NIET Elbicon Industries (andere entiteit).",
+    "info": "Brink-erkende dealer, 6 BE-vestigingen. NIET Elbicon Industries (andere entiteit). | TE GROOT - omzet EUR59.5M, 20-49 FTE. Aarschot (VBR), 6 vestigingen. Brink-dealer + multi-merk.",
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9846649,
     "lng": 4.8081811,
     "btw": "BE0416.578.970",
-    "website": "pashuysen.be"
+    "website": "pashuysen.be",
+    "cw_omzet": 59500000,
+    "cw_winst": 146100,
+    "cw_fte": 35,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 651400,
+    "oprichting": "1976",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Maene",
@@ -2122,7 +2203,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2132,7 +2214,13 @@
     "_info_auto": true,
     "btw": "BE0879.733.778",
     "website": "garage-maene.be",
-    "oprichting": "2006"
+    "oprichting": "2006",
+    "cw_brutomarge": 232200,
+    "cw_winst": 28300,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 36100,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar 4all cars bvba",
@@ -2151,16 +2239,25 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2275695,
     "lng": 4.0895287,
-    "info": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen). | EBITDA EUR886K - uitzonderlijk hoog jaar of multipele BV's gecombineerd? Nader bekijken. Sint-Gillis-Waas (OVL).",
     "_info_auto": true,
     "btw": "BE0415.940.849",
-    "website": "4allcars.be"
+    "website": "4allcars.be",
+    "cw_omzet": 1580000,
+    "cw_brutomarge": 1600000,
+    "cw_winst": 776800,
+    "cw_fte": 7,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 886000,
+    "oprichting": "1976",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Peelaerts bv",
@@ -2179,7 +2276,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2188,7 +2286,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Boortmeerbeek (Vlaams-Brabant).",
     "_info_auto": true,
     "btw": "BE0894.603.482",
-    "website": "peelaerts.be"
+    "website": "peelaerts.be",
+    "cw_brutomarge": 399900,
+    "cw_winst": 30800,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 90200,
+    "oprichting": "2007",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Van Humbeeck",
@@ -2207,15 +2312,23 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9304979,
     "lng": 4.2691213,
-    "info": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant).",
+    "info": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant). | Verlies 2023. SC Motors handelsnaam.",
     "_info_auto": true,
-    "btw": "BE0420.036.229"
+    "btw": "BE0420.036.229",
+    "cw_omzet": 890700,
+    "cw_winst": -1100,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 17200,
+    "oprichting": "1979",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Luc De Thaey BVBA",
@@ -2234,15 +2347,23 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0633541,
     "lng": 4.0233443,
-    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen). | GESLOTEN - eigenaar gepensioneerd. Geen target.",
+    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen). | GESLOTEN - eigenaar gepensioneerd. Geen target. | Wave 2-info: 'gesloten - eigenaar gepensioneerd' maar 2023 data toont actief. Verifieren.",
     "_info_auto": true,
-    "btw": "BE0870.526.795"
+    "btw": "BE0870.526.795",
+    "cw_omzet": 1680000,
+    "cw_brutomarge": 168300,
+    "cw_winst": 4500,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 21600,
+    "oprichting": "2004",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Dumarey",
@@ -2261,16 +2382,24 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0819597,
     "lng": 3.1111808,
-    "info": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen). | SWEET SPOT - EBITDA EUR182K, marge 31%. Torhout (WVL). Citroen-dealer.",
     "_info_auto": true,
     "btw": "BE0864.202.791",
-    "website": "citroendumarey.be"
+    "website": "citroendumarey.be",
+    "cw_brutomarge": 387100,
+    "cw_winst": 121200,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 181600,
+    "oprichting": "2004",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Vervoort",
@@ -2289,7 +2418,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2298,7 +2428,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Oelegem (Antwerpen).",
     "_info_auto": true,
     "btw": "BE0839.545.490",
-    "oprichting": "2011"
+    "oprichting": "2011",
+    "cw_omzet": 1353000,
+    "cw_brutomarge": 135900,
+    "cw_winst": 27900,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 45600,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Koen de Maeyer",
@@ -2317,16 +2454,24 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1448178,
     "lng": 4.2842254,
-    "info": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen).",
+    "info": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen). | SWEET SPOT - EBITDA EUR160K, winst EUR123K. Bazel (OVL). Gezond.",
     "_info_auto": true,
     "btw": "BE0464.072.348",
-    "website": "gar-demaeyer.be"
+    "website": "gar-demaeyer.be",
+    "cw_brutomarge": 360800,
+    "cw_winst": 122900,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 159500,
+    "oprichting": "1998",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Thomaco Services BV",
@@ -2344,7 +2489,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2353,7 +2499,13 @@
     "info": "Erkende installateur (Brink). gevestigd in Hooglede (West-Vlaanderen).",
     "_info_auto": true,
     "btw": "BE0730.772.264",
-    "website": "thomaco-services.com"
+    "website": "thomaco-services.com",
+    "cw_brutomarge": 48000,
+    "cw_winst": 26200,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 33900,
+    "oprichting": "2019",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Cartronic Maaseik BV",
@@ -2372,7 +2524,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2382,7 +2535,13 @@
     "_info_auto": true,
     "btw": "BE0462.826.986",
     "website": "cartronic.be",
-    "oprichting": "1998"
+    "oprichting": "1998",
+    "cw_brutomarge": 157400,
+    "cw_winst": 3300,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 12800,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Lavrijsen NV",
@@ -2401,16 +2560,24 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1651977,
     "lng": 5.0315127,
-    "info": "Erkende installateur (Brink). gevestigd in Geel (Antwerpen).",
+    "info": "Erkende installateur (Brink). gevestigd in Geel (Antwerpen). | TE GROOT - omzet EUR16.3M, 20-49 FTE. 57 jaar bedrijf. Geel (ANT).",
     "_info_auto": true,
     "btw": "BE0406.353.289",
-    "website": "lavrijsen-geel.be"
+    "website": "lavrijsen-geel.be",
+    "cw_omzet": 16300000,
+    "cw_winst": 190900,
+    "cw_fte": 35,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 352500,
+    "oprichting": "1968",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar Preumont",
@@ -2429,7 +2596,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2438,7 +2606,14 @@
     "info": "Erkende installateur (Brink). gevestigd in Couvin (Namen).",
     "_info_auto": true,
     "btw": "BE0431.343.162",
-    "website": "garage-preumont.be"
+    "website": "garage-preumont.be",
+    "cw_brutomarge": 148200,
+    "cw_winst": 136,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 4900,
+    "oprichting": "1987",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar D.N. Cars",
@@ -2457,7 +2632,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2465,7 +2641,14 @@
     "lng": 5.6902087,
     "info": "Erkende installateur (Brink). gevestigd in Bastogne (Luxemburg (BE)).",
     "_info_auto": true,
-    "btw": "BE0773.742.274"
+    "btw": "BE0773.742.274",
+    "cw_brutomarge": 61500,
+    "cw_winst": 30100,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 44600,
+    "oprichting": "2021",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Eurorepar FL Motor",
@@ -2484,7 +2667,8 @@
     ],
     "bron": [
       "brink_dealer_locator",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
@@ -2493,7 +2677,14 @@
     "btw": "BE0550.819.646",
     "website": "flmotor.be",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "cw_brutomarge": 196500,
+    "cw_winst": 13000,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 21600,
+    "oprichting": "2014",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "AANHANGWAGEN STOCK",
@@ -3459,18 +3650,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer met 12 merken.",
+    "info": "Aanhangwagen dealer met 12 merken. | Geen jaarrekeningen gepubliceerd. Ravels (ANT). 12 merken.",
     "bron": [
       "ifor_williams_dealer",
       "atec_dealer",
       "branche_niche_2026_05_29",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.3932973,
     "lng": 4.9394388,
-    "btw": "BE0644.424.052"
+    "btw": "BE0644.424.052",
+    "oprichting": "2015",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "West Trailers",
@@ -3609,7 +3803,8 @@
     "bron": [
       "ifor_williams_dealer",
       "branche_niche_2026_05_29",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -3617,7 +3812,14 @@
     "_info_auto": true,
     "btw": "BE0713.690.465",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "cw_omzet": 288500,
+    "cw_brutomarge": 144300,
+    "cw_winst": 32100,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 41300,
+    "oprichting": "2018",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Remorques Moreau",
@@ -3638,16 +3840,24 @@
     "bron": [
       "ifor_williams_dealer",
       "branche_niche_2026_05_29",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lives-sur-Meuse (Namen).",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lives-sur-Meuse (Namen). | TOP SWEET SPOT - EBITDA EUR234K op EUR407K omzet, 58% marge. Lives-sur-Meuse (NAM). Beste marge/schaal-ratio.",
     "_info_auto": true,
     "btw": "BE0474.258.041",
     "oprichting": "2001",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "cw_omzet": 407200,
+    "cw_brutomarge": 372200,
+    "cw_winst": 179500,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 233800,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "LOJI Trailers & Van Solutions",
@@ -3978,18 +4188,21 @@
     "categorieen": [
       "plaatser"
     ],
-    "info": "Brussels pure trekhaak-specialist. | Familiezaak opgericht 1950, huidig rechtspersoon 2018.",
+    "info": "Brussels pure trekhaak-specialist. | Familiezaak opgericht 1950, huidig rechtspersoon 2018. | Geen financials publiek. Oprichting 2018 (NIET 1950 als eerder vermeld). Schaerbeek (BRU).",
     "bron": [
       "google_maps",
       "wave3_wallonie",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8544614,
     "lng": 4.3957077,
     "btw": "BE0715.571.077",
-    "oprichting": "2018"
+    "oprichting": "2018",
+    "cw_fte": 3,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "BCM Remorques",
