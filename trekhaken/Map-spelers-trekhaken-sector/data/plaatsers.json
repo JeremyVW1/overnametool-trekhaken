@@ -694,13 +694,15 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "agent_research_2026_05_29_wave2"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0445.719.849"
   },
   {
     "naam": "Garage Goetmaekere",
@@ -1415,7 +1417,8 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "agent_research_2026_05_29_wave2"
     ],
     "grootte": null,
     "webshop": null,
@@ -2497,5 +2500,1858 @@
     "cw_jaar": 2025,
     "oprichting": "2023",
     "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "PAUWELS BART",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Winksele",
+    "adres": "Mechelsesteenweg 1107, 3020 Winksele",
+    "telefoon": "+3216490263",
+    "website": "bartpauwels.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Danny",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Herent",
+    "adres": "Mechelsesteenweg 131, 3020 Herent",
+    "telefoon": "+3216237373",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "PERK MOTORS",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Steenokkerzeel",
+    "adres": "Tervuursesteenweg 318, 1820 Steenokkerzeel",
+    "telefoon": "+3215617805",
+    "website": "perkmotors.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "ACB",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Heverlee",
+    "adres": "Ambachtenlaan 2, 3001 Heverlee",
+    "telefoon": "+3216389152",
+    "website": "lacom.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "DE ROOVER EN ZONEN",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Heverlee",
+    "adres": "Tiensesteenweg 374, 3000 Heverlee",
+    "telefoon": "+3216250196",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AUTO'S KOEN",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Wilsele",
+    "adres": "Aarschotsesteenweg 626, 3012 Wilsele",
+    "telefoon": "+3216445880",
+    "website": "autoskoen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "STAR REPAIR",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Boortmeerbeek",
+    "adres": "Leuvensesteenweg 236, 3190 Boortmeerbeek",
+    "telefoon": "+3234511320",
+    "website": "mabimobility.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "MAXEL 2004",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Rotselaar",
+    "adres": "Torenstraat 5, 3110 Rotselaar",
+    "telefoon": "+3216443102",
+    "website": "garage-vanderborght.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GARAGE FEYAERTS",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Haacht",
+    "adres": "Keerbergsesteenweg 27, 3150 Haacht",
+    "telefoon": "+3216601136",
+    "website": "feyaerts.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AUTOMOTIVE BELGIAN COMPANY",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Vilvoorde",
+    "adres": "Harensesteenweg 515, 1800 Vilvoorde",
+    "telefoon": "+3222532410",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "S.E.T. TUNING",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Eppegem",
+    "adres": "Hoge Buizen 61, 1980 Eppegem",
+    "telefoon": "+3227571901",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Vilvoords Uitlaatcenter",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Vilvoorde",
+    "adres": "Den Haeckstraat 3, 1800 Vilvoorde",
+    "telefoon": "+3222521122",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Luytens Dirk",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Hever",
+    "adres": "Leuvensesteenweg 73, 3191 Hever",
+    "telefoon": "+3215512673",
+    "website": "garageluytens.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GARAGE AMEEL",
+    "land": "BE",
+    "provincie": "bru",
+    "plaats": "Watermaal-Bosvoorde",
+    "adres": "Gemeentelijke Godshuisstraat 112, 1170 Watermaal-Bosvoorde",
+    "telefoon": "+3226723743",
+    "website": "garageameel.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Autocenter De Rudder",
+    "land": "BE",
+    "provincie": "bru",
+    "plaats": "Hoeilaart",
+    "adres": "J. B. Charlierlaan 74, 1560 Hoeilaart",
+    "telefoon": "+3226577760",
+    "website": "autocenterderudder.be",
+    "btw": "BE0899.506.041",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "FIRMA DE COCK",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Lubbeek",
+    "adres": "Ambachtenstraat 14, 3210 Lubbeek",
+    "telefoon": "+3216620381",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AANHANGWAGENS SUPERMARKT FRANK VERMEIR",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Wezemaal",
+    "adres": "Aarschotsesteenweg 355, 3111 Wezemaal",
+    "telefoon": "+3216581771",
+    "website": "vermeir.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "BC MOTOR",
+    "land": "BE",
+    "provincie": "bru",
+    "plaats": "Anderlecht",
+    "adres": "Bergense Steenweg 206, 1070 Anderlecht",
+    "telefoon": "+3225212697",
+    "website": "",
+    "btw": "BE0420.285.261",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AUTO-IMMO JABBOUR",
+    "land": "BE",
+    "provincie": "bru",
+    "plaats": "Groot-Bijgaarden",
+    "adres": "Robert Dansaertlaan 161, 1702 Groot-Bijgaarden",
+    "telefoon": "+3224655707",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Cardoen Vilvoorde",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Vilvoorde",
+    "adres": "Hendrik I-lei 247, 1800 Vilvoorde",
+    "telefoon": "+3222535353",
+    "website": "cardoen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Autopro",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Waudrez",
+    "adres": "Route de Mons 165, 7131 Waudrez",
+    "telefoon": "+32475617891",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AJM FRAMERIES",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Frameries",
+    "adres": "Route de Bavay 25, 7080 Frameries",
+    "telefoon": "+3265663488",
+    "website": "ajm-frameries.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GARAGE PISCINA",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Saint-Ghislain",
+    "adres": "Rue de Sas 79, 7330 Saint-Ghislain",
+    "telefoon": "+3265600101",
+    "website": "garage-piscina.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "TZmotors",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Strepy-Bracquegnies",
+    "adres": "Rue de Trivieres 127, 7110 Strepy-Bracquegnies",
+    "telefoon": "+3264285365",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Sutera Cars",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Haine-Saint-Paul",
+    "adres": "Avenue de la Mutualite 98, 7100 Haine-Saint-Paul",
+    "telefoon": "+3264282335",
+    "website": "",
+    "btw": "BE0844.229.305",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "DYNA MOTORS",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Ecaussinnes-d'Enghien",
+    "adres": "Rue d'Henripont 3, 7190 Ecaussinnes-d'Enghien",
+    "telefoon": "",
+    "website": "garagedynamotors.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Caramanna Carmelo",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Quievrain",
+    "adres": "Chaussee Brunehault 92, 7380 Quievrain",
+    "telefoon": "+3265656337",
+    "website": "carmelautos.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Universal Pneu",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Mons",
+    "adres": "Chaussee de Bruxelles 124, 7000 Mons",
+    "telefoon": "+3265336017",
+    "website": "universalpneu.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "IMMOBAT.BE",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Boussu",
+    "adres": "Rue Neuve 138, 7300 Boussu",
+    "telefoon": "+3265779422",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Amsi",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Estinnes-au-Val",
+    "adres": "Rue de Mons 16, 7120 Estinnes-au-Val",
+    "telefoon": "+32498379552",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Les Attaches Hennuyeres",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Lodelinsart",
+    "adres": "Chaussee de Bruxelles 328 bte 11, 6042 Lodelinsart",
+    "telefoon": "+3271159042",
+    "website": "attaches-remorques-hennuyeres.be",
+    "btw": "BE0880.722.782",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "MBE Auto Pieces Services",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Montignies-sur-Sambre",
+    "adres": "Rue Grimard 1, 6061 Montignies-sur-Sambre",
+    "telefoon": "+3271553312",
+    "website": "mbe-auto.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "LOCAMAT-LOCASOL",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Chatelineau",
+    "adres": "Rue de Montigny 127, 6200 Chatelineau",
+    "telefoon": "+3271305885",
+    "website": "locamat.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "ETABLISSEMENTS PATER ET CIE",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Souvret",
+    "adres": "Rue Paul Janson 83, 6182 Souvret",
+    "telefoon": "+3271451378",
+    "website": "peugeotpater.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AUTO KIT ABELOOS",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Fontaine-l'Eveque",
+    "adres": "Route de Mons 381, 6140 Fontaine-l'Eveque",
+    "telefoon": "+3271525344",
+    "website": "autokitabeloos.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "RSC Car Parts",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Courcelles",
+    "adres": "Rue Winston Churchill 286, 6180 Courcelles",
+    "telefoon": "+3271462490",
+    "website": "auto-attelage.com",
+    "btw": "BE0843.810.819",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "RADDIX",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Lobbes",
+    "adres": "Rue du Calvaire 42, 6540 Lobbes",
+    "telefoon": "+3267794070",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "BPS Attache Remorque",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Mons",
+    "adres": "Parc Saint-Gobain 63, 7000 Mons",
+    "telefoon": "+32475325271",
+    "website": "bpsattacheremorque.com",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Comptoir du Pneu Ghlin",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Ghlin",
+    "adres": "Route de Wallonie 4A, 7011 Ghlin",
+    "telefoon": "+3265348344",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Profile Tyrecenter Forrez",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Leuze-en-Hainaut",
+    "adres": "Zone industrielle du Vieux-Pont 1/A, 7900 Leuze-en-Hainaut",
+    "telefoon": "+3269343628",
+    "website": "forrez.com",
+    "btw": "BE0872.213.904",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GHISTELINCK AUTOBEDRIJVEN MOUSCRON",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Mouscron",
+    "adres": "Chaussee de Lille 63, 7700 Mouscron",
+    "telefoon": "+3256333681",
+    "website": "ghistelinck.be",
+    "btw": "BE0443.936.039",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Centrauto Sport",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Rue Gretry 201, 4020 Liege",
+    "telefoon": "+3243411516",
+    "website": "centreautosportliege.be",
+    "btw": "BE0431.451.941",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Nadin Mathonet",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Rue Natalis 54, 4020 Liege",
+    "telefoon": "+3243430775",
+    "website": "nadin-mathonet.be",
+    "btw": "BE0628.779.932",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "REMORQUES DECKERS",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Quai du Roi Albert 40, 4020 Liege",
+    "telefoon": "+3243412155",
+    "website": "remorques-deckers.be",
+    "btw": "BE0463.237.059",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "RTS Trailer",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Herstal",
+    "adres": "Rue Ernest Solvay 20, 4040 Herstal",
+    "telefoon": "+32472335714",
+    "website": "rts-trailer.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Attaches Consult",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Petit-Rechain",
+    "adres": "Rue de Battice 52, 4800 Petit-Rechain",
+    "telefoon": "+3287338161",
+    "website": "attachesconsult.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Carrera Cars Concept",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Herstal",
+    "adres": "Boulevard Zenobe Gramme 96, 4040 Herstal",
+    "telefoon": "+3243550200",
+    "website": "carreracars.be",
+    "btw": "BE0819.616.247",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Attache Remorque Vito",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Rue de Moresnet 14, 4000 Liege",
+    "telefoon": "+32470660198",
+    "website": "attacheremorquevito.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GE.NI.CO",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Rue Saint-Leonard 469, 4000 Liege",
+    "telefoon": "+32472335714",
+    "website": "123genico.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Car Alliance Eupen",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Eupen",
+    "adres": "Herbesthaler Strasse 132, 4700 Eupen",
+    "telefoon": "+3287598459",
+    "website": "caralliance.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "CM Auto",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Montzen",
+    "adres": "Chaussee de Liege 9, 4850 Montzen",
+    "telefoon": "+3287880300",
+    "website": "cm-auto.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Autogamma Services",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Ans",
+    "adres": "Rue des Francais 48, 4430 Ans",
+    "telefoon": "+3242634594",
+    "website": "",
+    "btw": "BE0861.768.685",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "REMORQUES BECKERS",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Henri-Chapelle",
+    "adres": "Chaussee de Liege 8, 4841 Henri-Chapelle",
+    "telefoon": "+3287882300",
+    "website": "remorques-beckers.be",
+    "btw": "BE0465.226.252",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Costo Remorques",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Lierneux",
+    "adres": "Au Point du Jour 5, 4990 Lierneux",
+    "telefoon": "+3280319062",
+    "website": "costo.be",
+    "btw": "BE0809.434.613",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Marrazza",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Erpent",
+    "adres": "Chaussee de Marche 601, 5101 Erpent",
+    "telefoon": "+3281307080",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "B.E.J. CAR",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Vedrin",
+    "adres": "Rue de la Sitree 45, 5020 Vedrin",
+    "telefoon": "+3281214151",
+    "website": "bejcar.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "JTC",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Profondeville",
+    "adres": "Chaussee de Namur 11, 5170 Profondeville",
+    "telefoon": "+3281260500",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Devillers Automobiles",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Saint-Germain",
+    "adres": "Rue de Libut 58, 5310 Saint-Germain",
+    "telefoon": "+3281201487",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "B.M CARS",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Arsimont",
+    "adres": "Rue de Fosses 145, 5060 Arsimont",
+    "telefoon": "+3271179514",
+    "website": "bm-cars.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "ANHEE MOTOR SC",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Anhee",
+    "adres": "Chaussee de Dinant 1, 5537 Anhee",
+    "telefoon": "+3282613847",
+    "website": "anheemotors.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "STEVENY",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Sauveniere",
+    "adres": "Chaussee de Tirlemont 91, 5030 Sauveniere",
+    "telefoon": "+3281611626",
+    "website": "steveny.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Coenen Serge",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Corroy-le-Chateau",
+    "adres": "Chaussee de Charleroi 282, 5032 Corroy-le-Chateau",
+    "telefoon": "+3281614337",
+    "website": "garage-coenen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Pneus Mosan Erpent",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Erpent",
+    "adres": "Chaussee de Marche 472, 5101 Erpent",
+    "telefoon": "+3281303620",
+    "website": "pneus-mosan.be",
+    "btw": "BE0401.410.942",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Pneus Mosan Bouge",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Bouge",
+    "adres": "Route de Hannut 34, 5004 Bouge",
+    "telefoon": "",
+    "website": "pneus-mosan.be",
+    "btw": "BE0401.410.942",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "RD Attache-Remorque",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Namur",
+    "adres": "Chaussee de Marche 654, 5100 Namur",
+    "telefoon": "+32475457849",
+    "website": "rd-attache-remorque.com",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "M.J.S. Auto-Service",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Sorinnes",
+    "adres": "Zoning de la Voie Cuivree 4, 5503 Sorinnes",
+    "telefoon": "+3282678541",
+    "website": "mjs-attache-remorque.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Attache Remorque Coenen",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Corroy-le-Chateau",
+    "adres": "Chaussee de Charleroi 282, 5032 Corroy-le-Chateau",
+    "telefoon": "+3281614337",
+    "website": "attacheremorquecoenen.eu",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Remorque Californie Bastogne",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Bastogne",
+    "adres": "Rue de Wiltz 47A, 6600 Bastogne",
+    "telefoon": "+3261213825",
+    "website": "remorque-californie.be",
+    "btw": "BE1014.378.389",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "NOISET Remorques-Automobiles Fauvillers",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Fauvillers",
+    "adres": "La Chaussee N4, Malmaison 49, 6637 Fauvillers",
+    "telefoon": "+3261230300",
+    "website": "remorques-noiset.be",
+    "btw": "BE0412.917.617",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Remorques Noiset Arlon",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Arlon",
+    "adres": "Route de Bastogne 319, 6700 Arlon",
+    "telefoon": "+3263457595",
+    "website": "remorques-noiset.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Carrosserie de la Famenne",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Marche-en-Famenne",
+    "adres": "Rue de Bastogne 20, 6900 Marche-en-Famenne",
+    "telefoon": "+3284366886",
+    "website": "carrosseriedelafamenne.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AV MOTORSPORT",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Rixensart",
+    "adres": "Avenue John-Fitzgerald Kennedy 35, 1330 Rixensart",
+    "telefoon": "+3226539417",
+    "website": "avmotorsport.be",
+    "btw": "BE0465.810.925",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Cockaerts & Co II",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Waterloo",
+    "adres": "Chaussee de Nivelles 8A, 1410 Waterloo",
+    "telefoon": "+3223849971",
+    "website": "cockaerts.be",
+    "btw": "BE0808.942.485",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "FLIES & CO WAVRE",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Braine-l'Alleud",
+    "adres": "Chaussee de Nivelles 26/A, 1420 Braine-l'Alleud",
+    "telefoon": "+3223870006",
+    "website": "suzuki-flies.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "VANSPRINGEL AUTOMOBILES",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Wavre",
+    "adres": "Chaussee de Louvain 516, 1300 Wavre",
+    "telefoon": "+3210237080",
+    "website": "vanspringel.com",
+    "btw": "BE0424.853.862",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Pneu Vanhamme",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Waterloo",
+    "adres": "Chaussee de Bruxelles 724, 1410 Waterloo",
+    "telefoon": "+3223860310",
+    "website": "pneuvanhamme.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "ACM GROUP",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Braine-l'Alleud",
+    "adres": "Avenue de l'Artisanat 8B, 1420 Braine-l'Alleud",
+    "telefoon": "+32470978405",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "PROCOTECH",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Rhode-Saint-Genese",
+    "adres": "Chaussee de Waterloo 48A, 1640 Rhode-Saint-Genese",
+    "telefoon": "+3223518191",
+    "website": "",
+    "btw": "BE0425.158.819",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AMEC",
+    "land": "BE",
+    "provincie": "bwa",
+    "plaats": "Rhode-Saint-Genese",
+    "adres": "Chaussee de Hal 230, 1640 Rhode-Saint-Genese",
+    "telefoon": "+3223806130",
+    "website": "alvarezcenter.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Aarschot",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Aarschot",
+    "adres": "Gaston Geenslaan 10-12, 3200 Aarschot",
+    "telefoon": "+3216567084",
+    "website": "pashuysen.be",
+    "btw": "BE0428.293.404",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Diest",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Diest",
+    "adres": "Leuvensesteenweg 200, 3290 Diest",
+    "telefoon": "+3213327669",
+    "website": "pashuysen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Leuven",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Leuven",
+    "adres": "Aarschotsesteenweg 110, 3012 Leuven",
+    "telefoon": "+3216270080",
+    "website": "pashuysen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Tienen",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Tienen",
+    "adres": "St.-Truidensesteenweg 125, 3300 Tienen",
+    "telefoon": "+3216781940",
+    "website": "pashuysen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Sint-Truiden",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Sint-Truiden",
+    "adres": "Zoutleeuwsesteenweg 2, 3800 Sint-Truiden",
+    "telefoon": "+3211687991",
+    "website": "pashuysen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Group Pashuysen Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Genk",
+    "adres": "Vaartstraat 9, 3600 Genk",
+    "telefoon": "+3289358401",
+    "website": "pashuysen.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "GaragE HTC Hofstade",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Hofstade",
+    "adres": "Muizenstraat 12, 1981 Hofstade",
+    "telefoon": "+3215415809",
+    "website": "",
+    "btw": "BE0648.915.152",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Pascal Autoservice Walem",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Mechelen",
+    "adres": "Koning Albertstraat 36, 2800 Mechelen",
+    "telefoon": "+3215204484",
+    "website": "garagepascal.be",
+    "btw": "BE0537.314.474",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "A&M Car Services Mechelen",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Mechelen",
+    "adres": "Motstraat 72 bus 10, 2800 Mechelen",
+    "telefoon": "+3215411010",
+    "website": "anm.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Aanhangwagens Ronny",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Mechelen",
+    "adres": "Hombeeksesteenweg 201, 2800 Mechelen",
+    "telefoon": "+32486936528",
+    "website": "aanhangwagens-ronny.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Aanhangwagens & Trekhaken Maillard",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Halle",
+    "adres": "Lenniksesteenweg 552, 1500 Halle",
+    "telefoon": "+3223561448",
+    "website": "maillard.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Autorama Hamme NV",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Hamme",
+    "adres": "Loystraat 125, 9220 Hamme",
+    "telefoon": "+3252259995",
+    "website": "autorama.be",
+    "btw": "BE0424.807.045",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "DN Trailers",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Temse",
+    "adres": "Krijgsbaan 254, 9140 Temse",
+    "telefoon": "+3237711935",
+    "website": "dn-trailers.be",
+    "btw": "BE0446.251.072",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "AUTO-ONDERDELEN TAS LUC",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Aalst",
+    "adres": "Dendermondse steenweg 88, 9300 Aalst",
+    "telefoon": "+3253785656",
+    "website": "tasnv.be",
+    "btw": "BE0420.138.474",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Cornu",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Sint-Niklaas",
+    "adres": "Oostjachtpark 2, 9100 Sint-Niklaas",
+    "telefoon": "+3237779197",
+    "website": "garagecornu.be",
+    "btw": "BE0456.609.286",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Garage Van Buynder",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Sint-Niklaas",
+    "adres": "Plezantstraat 314, 9100 Sint-Niklaas",
+    "telefoon": "+3237775922",
+    "website": "garagevanbuynder.be",
+    "btw": "BE0428.180.467",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Willy Notenbaert & Zoon",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Sint-Niklaas",
+    "adres": "Begijnenstraat 82, 9100 Sint-Niklaas",
+    "telefoon": "+3237665064",
+    "website": "notenbaert.be",
+    "btw": "BE0420.152.728",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Thibaut-Tech",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Appelterre-Eichem",
+    "adres": "Appelterre-Eichem, 9400 Ninove",
+    "telefoon": "",
+    "website": "thibaut-tech.com",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Janssens-Geerinck",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Turnhout",
+    "adres": "Noord-Brabantlaan 16, 2300 Turnhout",
+    "telefoon": "+3214453796",
+    "website": "janssens-geerinck.be",
+    "btw": "BE0404.161.584",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Trekhakencenter Kortrijk",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Kortrijk",
+    "adres": "Stasegemsesteenweg 82C, 8500 Kortrijk",
+    "telefoon": "+3256203216",
+    "website": "trekhakencenter.be",
+    "btw": "BE0426.803.463",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "De Schepper Aanhangwagens",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Brugge",
+    "adres": "Monnikenwerve 195, 8000 Brugge",
+    "telefoon": "+3250312864",
+    "website": "deschepperaanhangwagens.be",
+    "btw": "BE0456.459.927",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Snauwaert Autobedrijf",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Brugge",
+    "adres": "Dudzeelse Steenweg 139, 8000 Brugge",
+    "telefoon": "+3250330910",
+    "website": "snauwaertcars.be",
+    "btw": "BE0883.696.031",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "DKW Caravans",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Wevelgem",
+    "adres": "Roeselarestraat 415, 8560 Wevelgem",
+    "telefoon": "+3256401620",
+    "website": "dkwcaravans.be",
+    "btw": "BE0457.358.067",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "ECURIE ST-ELEUTHERE",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Blandain",
+    "adres": "Hameau du Cocriamont 1, 7522 Blandain",
+    "telefoon": "+32495577854",
+    "website": "ecurie-st-eleuthere.com",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "RPV Vanpevenaeyge",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Velaines",
+    "adres": "Chaussee de Renaix 1, Velaines, 7760 Celles",
+    "telefoon": "+3269454404",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Aanhangwagens Accu&Co",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Testelt",
+    "adres": "Kattestraat 24a, 3272 Testelt",
+    "telefoon": "+32495212502",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "SMC Mechelen",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Mechelen",
+    "adres": "Brusselsesteenweg 359, 2800 Mechelen",
+    "telefoon": "+3225310210",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "CarProf CVF Charleroi",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Charleroi",
+    "adres": "Charleroi, 6000",
+    "telefoon": "",
+    "website": "carprof.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Pneus Cointe",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Liege",
+    "adres": "Boulevard Gustave Kleyer 87, 4000 Liege",
+    "telefoon": "",
+    "website": "eurotyre.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "DEBONNET",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Pottes",
+    "adres": "Rue de la Patrouille 2, 7760 Pottes",
+    "telefoon": "+32476950606",
+    "website": "debonnetagri.be",
+    "btw": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
   }
 ]

@@ -745,14 +745,15 @@
     "land": "BE",
     "provincie": "hai",
     "adres": "Rue de Maire 6, 7503 Froyennes",
-    "telefoon": null,
+    "telefoon": "+3263608160",
     "website": "auto5.be",
     "categorieen": [
       "verkoper"
     ],
     "primaire_categorie": "verkoper",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "agent_research_2026_05_29_wave2"
     ],
     "grootte": null,
     "webshop": null,

@@ -243,5 +243,39 @@
     "oprichting": "1978",
     "info": "Auto-onderdelen groothandel incl. trekhaken.",
     "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "GDW Luingne",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Luingne",
+    "adres": "Dreve Andre Dujardin 2, 7700 Luingne",
+    "telefoon": "+3256560310",
+    "website": "",
+    "btw": null,
+    "categorieen": [
+      "distributeur"
+    ],
+    "primaire_categorie": "distributeur",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Bosal Benelux",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Westerlo",
+    "adres": "Nijverheidsstraat 12, 2260 Westerlo",
+    "telefoon": "+3214574711",
+    "website": "bosal.com",
+    "btw": null,
+    "categorieen": [
+      "distributeur"
+    ],
+    "primaire_categorie": "distributeur",
+    "bron": [
+      "agent_research_2026_05_29_wave2"
+    ]
   }
 ]
