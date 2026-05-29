@@ -12,18 +12,26 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "2022: omzet EUR0 + EBITDA -EUR255K. Lijkt gestopt/liquidatie.",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0873388,
     "lng": 4.2743393,
-    "btw": "BE0806.839.862"
+    "btw": "BE0806.839.862",
+    "cw_omzet": 2000000,
+    "cw_brutomarge": 420700,
+    "cw_winst": 554,
+    "cw_jaar": 2021,
+    "bizzy_ebitda": 45400,
+    "oprichting": "2008",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "MV Custom",
@@ -2324,12 +2332,20 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "pagesdor_hainaut",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.5726672,
-    "lng": 4.1745184
+    "lng": 4.1745184,
+    "cw_omzet": 225800,
+    "cw_winst": 58600,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 80900,
+    "oprichting": "1976",
+    "financials_bron": "pappers.be",
+    "info": "50 jaar bedrijf. Brutomarge% 35,8%. Ecaussinnes (HAI)."
   },
   {
     "naam": "Caramanna Carmelo",
@@ -4089,10 +4105,18 @@
     ],
     "bron": [
       "garage-good-way.be",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "cw_omzet": 186900,
+    "cw_brutomarge": 62300,
+    "cw_winst": 18700,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 18700,
+    "oprichting": "2019",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "AutoCrew Sobieski",
@@ -4110,12 +4134,20 @@
     "bron": [
       "garage-sobieski.be",
       "trendstop",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9086223,
-    "lng": 4.2936494
+    "lng": 4.2936494,
+    "cw_brutomarge": 169300,
+    "cw_winst": 58300,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 98800,
+    "oprichting": "1998",
+    "financials_bron": "pappers.be",
+    "info": "Bijna sweet spot. Sterke groei +54% omzet 2023. Wemmel (BRU)."
   },
   {
     "naam": "Mécanotoph",

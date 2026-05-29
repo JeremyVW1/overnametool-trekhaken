@@ -1206,7 +1206,8 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "nace": [
       "95.319",
@@ -1217,8 +1218,13 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9585802,
     "lng": 4.7708845,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Wezemaal (Vlaams-Brabant). 26 jaar bedrijf (sinds 2000).",
-    "_info_auto": true
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Wezemaal (Vlaams-Brabant). 26 jaar bedrijf (sinds 2000). | SWEET SPOT - EBITDA EUR169K, marge 38,8%. Wezemaal (VBR).",
+    "_info_auto": true,
+    "cw_brutomarge": 434400,
+    "cw_winst": 119900,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 168600,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Les Attaches Hennuyeres",
@@ -1475,7 +1481,8 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "nace": [
       "27.110",
@@ -1483,11 +1490,16 @@
       "95.319"
     ],
     "oprichting": "1974",
-    "info": "50+ jaar bedrijf, pure trekhaak-specialist Namur.",
+    "info": "50+ jaar bedrijf, pure trekhaak-specialist Namur. | Bijna sweet spot. Sterke groei: EBITDA EUR29K (2022) -> EUR118K (2024). 50+ jaar. Namur.",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4363961,
-    "lng": 4.912731
+    "lng": 4.912731,
+    "cw_brutomarge": 270200,
+    "cw_winst": 80100,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 117900,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "M.J.S. Auto-Service",
@@ -1765,14 +1777,21 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "pagesdor_tournai",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6731063,
     "lng": 3.4486534,
     "info": "Trekhaak-plaatser. gevestigd in Velaines (Henegouwen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "cw_brutomarge": 95700,
+    "cw_winst": 24600,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 30000,
+    "oprichting": "1995",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Aanhangwagens Accu&Co",
@@ -2409,14 +2428,21 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2129531,
     "lng": 2.9612287,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Oostende (West-Vlaanderen). opgericht 2013.",
-    "_info_auto": true
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Oostende (West-Vlaanderen). opgericht 2013. | EBITDA-marge 73,9% - zeer efficient. Oostende (WVL).",
+    "_info_auto": true,
+    "cw_omzet": 100600,
+    "cw_brutomarge": 100600,
+    "cw_winst": 53600,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 74300,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "DROWA AANHANGWAGENS",
@@ -2435,15 +2461,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "50+ jaar bedrijf, aanhangwagen-specialist Sint-Niklaas.",
+    "info": "50+ jaar bedrijf, aanhangwagen-specialist Sint-Niklaas. | 48 jaar familiebedrijf. Sint-Niklaas (OVL).",
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1863015,
-    "lng": 4.1999828
+    "lng": 4.1999828,
+    "cw_brutomarge": 61200,
+    "cw_winst": 27300,
+    "cw_jaar": 2025,
+    "bizzy_ebitda": 44000,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "AANHANGWAGENS LOUBEN",
@@ -2462,15 +2494,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Wommelgem - in straat naast Carloma.",
+    "info": "Wommelgem - in straat naast Carloma. | Dalende EBITDA tov 2020 (EUR89K). Wommelgem (ANT) - naast Carloma.",
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2099519,
-    "lng": 4.4925868
+    "lng": 4.4925868,
+    "cw_brutomarge": 164100,
+    "cw_winst": 24400,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 35000,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "AANHANGWAGENS PATTYN STEFAAN",
@@ -2492,14 +2530,20 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8528517,
     "lng": 3.0191999,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonnebeke (West-Vlaanderen). opgericht 2009.",
-    "_info_auto": true
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonnebeke (West-Vlaanderen). opgericht 2009. | Sterke daling vs 2022 (EUR158K EBITDA). Zonnebeke (WVL).",
+    "_info_auto": true,
+    "cw_brutomarge": 107800,
+    "cw_winst": 48800,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 62100,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Aanhangwagens Peter",
@@ -2631,15 +2675,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Eveneens VAG Aanhangwagens handelsnaam.",
+    "info": "Eveneens VAG Aanhangwagens handelsnaam. | Jong bedrijf, sterke groei +150% in 2021. Sint-Katelijne-Waver (ANT).",
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0562285,
-    "lng": 4.4861818
+    "lng": 4.4861818,
+    "cw_brutomarge": 287500,
+    "cw_winst": 67500,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 82700,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "De Bels Aanhangwagens",
@@ -2743,14 +2793,20 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5485637,
     "lng": 4.6597369,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gembloux (Namen). opgericht 2009.",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gembloux (Namen). opgericht 2009. | 5-9 FTE. Lage marge na verliesjaar 2022. Gembloux (NAM).",
+    "_info_auto": true,
+    "cw_brutomarge": 252700,
+    "cw_winst": 11500,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 18200,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "BRUXELLES-REMORQUES",
@@ -2769,15 +2825,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "35+ jaar pure trekhaak/remorque-specialist Brussel.",
+    "info": "35+ jaar pure trekhaak/remorque-specialist Brussel. | VERLIESJAAR 2023. Brutomarge gecollapseerd van EUR84K (2020) naar EUR4K. Sterk achteruitgegaan.",
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.813962,
-    "lng": 4.3199972
+    "lng": 4.3199972,
+    "cw_brutomarge": 4400,
+    "cw_winst": -12300,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": -10100,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "LES REMORQUES DE HUY",
@@ -2798,14 +2860,20 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5514915,
     "lng": 5.228311,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Wanze (Luik). opgericht 2019.",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Wanze (Luik). opgericht 2019. | Sterk gedaald van EUR87K (2020). Wanze (LUI).",
+    "_info_auto": true,
+    "cw_brutomarge": 13800,
+    "cw_winst": 5900,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 7900,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "PTS AANHANGWAGENS-REMORQUES",
@@ -2851,14 +2919,20 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.1668109,
     "lng": 4.1848221,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry-Rance (Henegouwen). opgericht 2011.",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry-Rance (Henegouwen). opgericht 2011. | SWEET SPOT - EBITDA EUR214K (2023), piek 2022 EUR486K. Sivry-Rance (HAI).",
+    "_info_auto": true,
+    "cw_brutomarge": 486700,
+    "cw_winst": 134600,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 214100,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "MONS REMORQUE",
@@ -2998,20 +3072,27 @@
     "plaats": "Gedinne",
     "adres": "Station 35, 5575 Gedinne",
     "btw": "BE0792.416.457",
-    "oprichting": "2023",
+    "oprichting": "2022",
     "primaire_categorie": "plaatser",
     "categorieen": [
       "plaatser"
     ],
     "bron": [
-      "kbo_naam_zoek"
+      "kbo_naam_zoek",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.9844362,
     "lng": 4.9787078,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gedinne (Namen). opgericht 2023.",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gedinne (Namen). opgericht 2023. | Klein startend bedrijf. Te vroeg om te beoordelen.",
+    "_info_auto": true,
+    "cw_omzet": 71700,
+    "cw_brutomarge": 71700,
+    "cw_winst": 5000,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 13800,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "GARAGE DJOU",
@@ -3062,15 +3143,22 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Pure trekhaak-specialist La Louvière.",
+    "info": "Pure trekhaak-specialist La Louvière. | SWEET SPOT - Omzet EUR1.1M, EBITDA EUR179K. La Louvière (HAI).",
     "bron": [
       "web_search",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4869956,
-    "lng": 4.1521257
+    "lng": 4.1521257,
+    "cw_omzet": 1100000,
+    "cw_brutomarge": 219400,
+    "cw_winst": 129900,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 179200,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "REMORQUES-FERRONNERIES",
@@ -3090,14 +3178,20 @@
     ],
     "bron": [
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.3277428,
     "lng": 4.8822276,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Yvoir (Namen). opgericht 2019.",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Yvoir (Namen). opgericht 2019. | Hoge winstmarge 60%. Yvoir (NAM).",
+    "_info_auto": true,
+    "cw_brutomarge": 96600,
+    "cw_winst": 58100,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 82200,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Mathieu Kerckhofs Trailers",
@@ -3116,15 +3210,22 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer + importeur Ifor Williams.",
+    "info": "Aanhangwagen dealer + importeur Ifor Williams. | Bijna sweet spot. Piek 2022 EUR234K EBITDA. Ifor Williams dealer. Bree (LIM).",
     "bron": [
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1431748,
-    "lng": 5.632634
+    "lng": 5.632634,
+    "cw_brutomarge": 381700,
+    "cw_winst": 63200,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 108300,
+    "oprichting": "2007",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Aanhangwagencentrale Arendonk",
@@ -3144,16 +3245,23 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer multi-merk.",
+    "info": "Aanhangwagen dealer multi-merk. | TOP SWEET SPOT - EBITDA EUR391K. Schuldenvrij. Eigen vermogen EUR3.1M. 42 jaar bedrijf. Arendonk (ANT).",
     "bron": [
       "ifor_williams_dealer",
       "atec_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.3159403,
-    "lng": 5.0654734
+    "lng": 5.0654734,
+    "cw_brutomarge": 763000,
+    "cw_winst": 271900,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 390600,
+    "oprichting": "1982",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "KSA-Aanhangwagens",
@@ -3180,16 +3288,23 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer multi-merk (9 merken).",
+    "info": "Aanhangwagen dealer multi-merk (9 merken). | Groei +284% in 2023. 9 merken (Anssems/Ifor Williams/Eduard/etc). Geel (ANT).",
     "bron": [
       "anssems_dealer",
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1218892,
-    "lng": 4.9435291
+    "lng": 4.9435291,
+    "cw_brutomarge": 64600,
+    "cw_winst": 16500,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 52800,
+    "oprichting": "2010",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Vandamme Aanhangwagens BV",
@@ -3212,16 +3327,23 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer multi-merk.",
+    "info": "Aanhangwagen dealer multi-merk. | SWEET SPOT - EBITDA EUR150K. Stabiele groei. Equity EUR674K. Ichtegem (WVL).",
     "bron": [
       "ifor_williams_dealer",
       "atec_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1015373,
-    "lng": 3.0268343
+    "lng": 3.0268343,
+    "cw_brutomarge": 384100,
+    "cw_winst": 100300,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 149900,
+    "oprichting": "2011",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Aanhangwagencentrum Weelde",
@@ -3281,15 +3403,22 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer paardentrailers.",
+    "info": "Aanhangwagen dealer paardentrailers. | 50 jaar bedrijf. LET OP: 2024 EBITDA negatief (-EUR76K). Waregem (WVL).",
     "bron": [
       "atec_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8736578,
-    "lng": 3.3932308
+    "lng": 3.3932308,
+    "cw_brutomarge": 92800,
+    "cw_winst": 37300,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 46800,
+    "oprichting": "1975",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Auman Dirk",
@@ -3618,14 +3747,21 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen fabrikant + dealer.",
+    "info": "Aanhangwagen fabrikant + dealer. | Zware daling: omzet -47% in 2023. Was EUR118K EBITDA in 2021. Aarsele (WVL).",
     "bron": [
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0038717,
-    "lng": 3.4118748
+    "lng": 3.4118748,
+    "cw_brutomarge": 238700,
+    "cw_winst": 11200,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 17200,
+    "oprichting": "1988",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Clijsters Vans & Trailers",
@@ -3689,12 +3825,14 @@
     ],
     "bron": [
       "pagesdor_charleroi",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gosselies (Henegouwen).",
-    "_info_auto": true
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gosselies (Henegouwen). | INACTIEF - insolventieprocedure sinds 01/10/2025.",
+    "_info_auto": true,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Motor Service Huy (Les Remorques de Huy)",
@@ -3710,16 +3848,23 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "In 2024 overgenomen door Motor Service Huy.",
+    "info": "In 2024 overgenomen door Motor Service Huy. | SWEET SPOT - EBITDA EUR209K, 5-9 FTE, equity EUR1.5M, stabiele groei. Wanze (LUI). Nam Les Remorques de Huy over in 2024.",
     "bron": [
       "motor-service.be",
       "pagesdor_huy",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5271642,
-    "lng": 5.2294822
+    "lng": 5.2294822,
+    "cw_brutomarge": 598800,
+    "cw_winst": 147600,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 208900,
+    "oprichting": "1983",
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Attache V-H Européenne",
@@ -3756,15 +3901,17 @@
     "categorieen": [
       "plaatser"
     ],
-    "info": "BCM Remorques = handelsnaam, mogelijk gelieerd aan BC Motor (verschillende BTW).",
+    "info": "BCM Remorques = handelsnaam, mogelijk gelieerd aan BC Motor (verschillende BTW). | INACTIEF - faillissement 2015, gesloten 2017. Verwijderen?",
     "bron": [
       "pagesdor_anderlecht",
       "infobel",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "financials_pappers_wave4"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8408418,
-    "lng": 4.3281977
+    "lng": 4.3281977,
+    "financials_bron": "pappers.be"
   }
 ]
