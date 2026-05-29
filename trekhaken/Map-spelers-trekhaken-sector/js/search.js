@@ -65,7 +65,7 @@ function showSuggestions(val, sugBox, input) {
 
     const naam   = highlightMatch(escHtml(c.naam), words);
     const detail = c.adres ? ` — <span class="sug-detail">${escHtml(c.adres)}</span>` : "";
-    const act    = escHtml(actLabel(c));
+    const act    = escHtml(catLabel(c));
 
     div.innerHTML = `<span class="sug-naam">${naam}</span>${detail}<span class="sug-act">${act}</span>`;
 
@@ -97,41 +97,14 @@ function highlightMatch(text, words) {
   return html;
 }
 
+/**
+ * matchesSearch — wordt door filters.js gebruikt om search-term te combineren met andere filters.
+ * (getVisibleCompanies is gedefinieerd in filters.js — niet hier dupliceren.)
+ */
 function matchesSearch(company) {
   if (!searchTerm) return true;
   const haystack = (company.naam + " " + (company.adres || "") + " " + (company.info || "")).toLowerCase();
   return searchTerm.split(/\s+/).filter(Boolean).every(w => haystack.includes(w));
 }
 
-function getVisibleCompanies() {
-  const isAllesMode = activeRegios.size === 0 && activeActiviteiten.size === 0 && activeStatus.size === 0;
-
-  return bedrijven.filter(c => {
-    // Status filter: als actief, toon ENKEL bedrijven met die status
-    if (activeStatus.size > 0) {
-      const isFav = activeStatus.has("favoriet") && isFavorite(c.naam);
-      const isTwf = activeStatus.has("twijfel") && isOrange(c.naam);
-      if (!isFav && !isTwf) return false;
-    }
-
-    // Als niet in "Alles" modus en geen enkele activiteit geselecteerd → verberg alle houtspelers
-    // Zo kan de gebruiker enkel de concurrentenlaag (diamanten) bekijken
-    if (!isAllesMode && activeActiviteiten.size === 0) return false;
-
-    if (activeRegios.has("groene_zone") && !inGroeneZone(c)) return false;
-
-    const regioSet = new Set([...activeRegios].filter(r => r !== "groene_zone"));
-    const passRegio = regioSet.size === 0 || regioSet.has(c.provincie);
-    const passAct   = activeActiviteiten.size === 0 || (c.activiteiten || []).some(a => activeActiviteiten.has(a));
-
-    if (regioSet.size > 0 && activeActiviteiten.size > 0) {
-      if (!passRegio || !passAct) return false;
-    } else if (regioSet.size > 0) {
-      if (!passRegio) return false;
-    } else if (activeActiviteiten.size > 0) {
-      if (!passAct) return false;
-    }
-
-    return matchesSearch(c);
-  });
-}
+window.matchesSearch = matchesSearch;

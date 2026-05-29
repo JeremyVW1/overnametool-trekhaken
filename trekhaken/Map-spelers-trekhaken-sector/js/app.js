@@ -17,77 +17,84 @@ window.startApp = async function startApp() {
     return;
   }
 
+  // Wrap alles in try/finally zodat overlay ALTIJD verdwijnt
   try {
     await loadAllData(cfg);
+    bedrijven.forEach(c => {
+      if (c?.naam) bedrijvenMap.set(c.naam, c);
+    });
+    fillLookupTables(cfg);
+
+    await loadFavorites();
+
+    safe("initMap",      () => initMap());
+    safe("markers",      () => createAllMarkers());
+    safe("buildFilters", () => buildFilters());
+    safe("buildLegend",  () => buildLegend());
+    safe("initSearch",   () => { if (typeof initSearch === "function") initSearch(); });
+    safe("initAnalyse",  () => initAnalyse());
+    safe("initEdit",     () => { if (typeof initEdit === "function") initEdit(); });
+    safe("initTabs",     () => initTabs());
+
+    // Default: alle landen + provincies + categorieën AAN
+    if (window.activeLanden) cfg.scope_landen.forEach(l => activeLanden.add(l));
+    if (window.activeRegios) Object.values(cfg.provincies || {}).flat().forEach(p => activeRegios.add(p.id));
+    if (window.activeCategorieen) cfg.categorieen.forEach(c => activeCategorieen.add(c.id));
+
+    safe("syncFilterButtons",       () => syncFilterButtons());
+    safe("render",                  () => render());
+    safe("updateCounter",           () => updateCounter());
+    safe("renderCategorieTabCounts",() => renderAllCategorieTabCounts());
+
+    document.getElementById("fav-export")?.addEventListener("click", exportFavCSV);
+    document.getElementById("twijfel-export")?.addEventListener("click", exportTwijfelCSV);
+
+    // Event delegation voor popup-knoppen
+    document.addEventListener("click", (e) => {
+      if (!e.target.closest(".leaflet-popup")) return;
+      const btn = e.target.closest(".star-btn, .orange-btn, .red-btn");
+      if (!btn) return;
+      e.stopPropagation();
+      e.preventDefault();
+      const naam = btn.dataset.naam;
+      const c = bedrijvenMap.get(naam);
+      if (!c) return;
+      if (btn.classList.contains("star-btn")) toggleFavorite(c);
+      else if (btn.classList.contains("orange-btn")) toggleOrange(c);
+      else if (btn.classList.contains("red-btn")) toggleRed(c);
+      refreshMarkerIcon(naam);
+      const entry = allMarkers.get(naam);
+      if (entry && entry.marker.isPopupOpen()) {
+        entry.marker.setPopupContent(buildPopup(c));
+      }
+    });
+
+    if (typeof startAutoSync === "function") startAutoSync();
+
+    window.addEventListener("offline", () =>
+      showToast("Je bent offline. Wijzigingen worden lokaal opgeslagen.", "warning", 5000)
+    );
+    window.addEventListener("online", () => {
+      showToast("Weer online!", "success", 3000);
+      if (typeof _autoSync === "function") _autoSync();
+    });
   } catch (e) {
-    showFatal("Data laden mislukt: " + (e?.message || e));
-    return;
+    console.error("startApp crash:", e);
+    showFatal("Initialisatie faalde: " + (e?.message || e));
+  } finally {
+    document.getElementById("loading-overlay")?.remove();
   }
-
-  // Indices vullen
-  bedrijven.forEach(c => {
-    if (c?.naam) bedrijvenMap.set(c.naam, c);
-  });
-
-  // Provincie + land + categorie helpers vullen uit config
-  fillLookupTables(cfg);
-
-  await loadFavorites();
-
-  initMap();
-  createAllMarkers();
-  buildFilters();
-  buildLegend();
-  initSearch();
-  initAnalyse();
-  initEdit();
-  initTabs();
-
-  // Default: alle landen + provincies + categorieën AAN
-  if (window.activeLanden) cfg.scope_landen.forEach(l => activeLanden.add(l));
-  if (window.activeRegios) Object.values(cfg.provincies || {}).flat().forEach(p => activeRegios.add(p.id));
-  if (window.activeCategorieen) cfg.categorieen.forEach(c => activeCategorieen.add(c.id));
-
-  syncFilterButtons();
-  render();
-  updateCounter();
-  renderAllCategorieTabCounts();
-
-  document.getElementById("fav-export")?.addEventListener("click", exportFavCSV);
-  document.getElementById("twijfel-export")?.addEventListener("click", exportTwijfelCSV);
-
-  // Event delegation voor popup-knoppen
-  document.addEventListener("click", (e) => {
-    if (!e.target.closest(".leaflet-popup")) return;
-    const btn = e.target.closest(".star-btn, .orange-btn, .red-btn");
-    if (!btn) return;
-    e.stopPropagation();
-    e.preventDefault();
-    const naam = btn.dataset.naam;
-    const c = bedrijvenMap.get(naam);
-    if (!c) return;
-    if (btn.classList.contains("star-btn")) toggleFavorite(c);
-    else if (btn.classList.contains("orange-btn")) toggleOrange(c);
-    else if (btn.classList.contains("red-btn")) toggleRed(c);
-    refreshMarkerIcon(naam);
-    const entry = allMarkers.get(naam);
-    if (entry && entry.marker.isPopupOpen()) {
-      entry.marker.setPopupContent(buildPopup(c));
-    }
-  });
-
-  if (typeof startAutoSync === "function") startAutoSync();
-
-  window.addEventListener("offline", () =>
-    showToast("Je bent offline. Wijzigingen worden lokaal opgeslagen.", "warning", 5000)
-  );
-  window.addEventListener("online", () => {
-    showToast("Weer online!", "success", 3000);
-    if (typeof _autoSync === "function") _autoSync();
-  });
-
-  document.getElementById("loading-overlay")?.remove();
 };
+
+/** Voer fn() uit en log eventuele errors zonder de boot te stoppen */
+function safe(label, fn) {
+  try {
+    fn();
+  } catch (e) {
+    console.error(`[boot:${label}]`, e);
+    showToast(`Init-stap "${label}" faalde — zie console`, "warning", 6000);
+  }
+}
 
 /* ─── Data loading: alle cfg.data_files samenvoegen tot 1 bedrijven-array ─── */
 async function loadAllData(cfg) {
