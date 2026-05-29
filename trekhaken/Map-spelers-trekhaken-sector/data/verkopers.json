@@ -157,8 +157,8 @@
       "manual"
     ],
     "btw": "BE0447.265.812",
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)"
   },
   {
     "naam": "Autodoc NL/BE",
@@ -209,8 +209,8 @@
     ],
     "adres": "Paapsemlaan 20, 1070 Anderlecht",
     "btw": "BE0447.585.417",
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Norauto (trekhaak is bijaanbod, geen specialiteit)",
     "oprichting": "1992",
     "financials_bron": "pappers.be"
   },
@@ -235,8 +235,8 @@
       "marktresearch",
       "manual"
     ],
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Halfords (trekhaak is bijaanbod, geen specialiteit)"
   },
   {
     "naam": "DK Autoparts",
@@ -300,8 +300,8 @@
     "lat": 51.0801047,
     "lng": 3.7876785,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -328,8 +328,8 @@
     "lat": 51.0231007,
     "lng": 3.6995848,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -356,8 +356,8 @@
     "lat": 51.2453557,
     "lng": 3.1972874,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -384,8 +384,8 @@
     "lat": 50.8639779,
     "lng": 4.7456246,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -412,8 +412,8 @@
     "lat": 51.2070858,
     "lng": 4.340511,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -440,8 +440,8 @@
     "lat": 50.9036611,
     "lng": 3.4121342,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -468,8 +468,8 @@
     "lat": 50.9748557,
     "lng": 5.0416839,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -496,8 +496,8 @@
     "lat": 50.9386863,
     "lng": 5.316955,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -524,8 +524,8 @@
     "lat": 50.9722274,
     "lng": 5.4983332,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -552,8 +552,8 @@
     "lat": 50.9943355,
     "lng": 4.4712845,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -580,8 +580,8 @@
     "lat": 50.8381153,
     "lng": 4.0086392,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -608,8 +608,8 @@
     "lat": 51.1729121,
     "lng": 4.4021396,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -636,8 +636,8 @@
     "lat": 51.1462809,
     "lng": 4.9564556,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -664,8 +664,8 @@
     "lat": 50.8867988,
     "lng": 4.6682439,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -692,8 +692,8 @@
     "lat": 51.0325023,
     "lng": 4.1101357,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -720,8 +720,8 @@
     "lat": 51.2587269,
     "lng": 4.465568,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -748,8 +748,8 @@
     "lat": 50.9877925,
     "lng": 5.7037199,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -776,8 +776,8 @@
     "lat": 51.1941824,
     "lng": 2.8423362,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -804,8 +804,8 @@
     "lat": 51.1931917,
     "lng": 4.4757561,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -832,8 +832,8 @@
     "lat": 50.8133299,
     "lng": 4.9317686,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -860,8 +860,8 @@
     "lat": 50.9706426,
     "lng": 3.1204323,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -888,8 +888,8 @@
     "lat": 51.1255216,
     "lng": 4.5513893,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -916,8 +916,8 @@
     "lat": 51.3125497,
     "lng": 4.9481447,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -944,8 +944,8 @@
     "lat": 50.7108132,
     "lng": 4.6052077,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812"
   },
   {
@@ -974,8 +974,8 @@
     "lat": 50.6260391,
     "lng": 3.3697198,
     "_info_auto": true,
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0447.265.812",
     "cw_omzet": 97800000,
     "cw_brutomarge": 53930000,
@@ -1013,8 +1013,8 @@
     "merken_gevoerd": [
       "Brink"
     ],
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)"
   },
   {
     "naam": "Auto5 Auderghem",
@@ -1037,7 +1037,7 @@
     "categorieen": [
       "verkoper"
     ],
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Auto5 (trekhaak is bijaanbod, geen specialiteit)"
   }
 ]

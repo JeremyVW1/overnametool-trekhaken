@@ -183,17 +183,21 @@ def merge_fields(target: dict, new: dict) -> None:
             target[k] = v
 
 
-HOOG_KETENS = {
-    "auto5", "norauto", "midas", "bosch car service", "boschcarservice",
-    "quickly", "eurorepar",
-}
 HOOG_OEM_BRONNEN = {
     "brink_dealer_locator", "gdw_dealer", "westfalia_partner",
     "bosal_dealer", "oris_dealer", "acps_partner", "sawiko_dealer",
     "al_ko_dealer", "thule_dealer",
-    "wave6c_norauto_auto5", "wave6c_midas", "wave6c_bosch_car_service",
-    "wave6c_quickly",
 }
+
+# Ketens die GEEN pure trekhaak-plaatsers zijn — trekhaak is bijaanbod.
+# Forced maximum zekerheid = midden, en niet in plaatsers.
+NIET_HOOG_KETENS = re.compile(
+    r"\bauto\s*5\b|\bauto5\b|\bnorauto\b|\bhalfords\b|\bfeu\s*vert\b|\bfeuvert\b"
+    r"|\bmidas\b|bosch.car|bosch car service|\bquickly\b|\beurorepar\b"
+    r"|\bkwikfit\b|\bkwik.fit\b|\bad\s*auto.?service\b"
+    r"|\bspeedy\b|\b1[.,]2[.,]3.?autoservice\b|\b123autoservice\b|\bcarglass\b",
+    re.IGNORECASE,
+)
 
 
 def assess_trekhaak_zekerheid(r: dict) -> tuple[str, str]:
@@ -207,8 +211,13 @@ def assess_trekhaak_zekerheid(r: dict) -> tuple[str, str]:
     merken_lc = [(m or "").lower() for m in (r.get("gevoerde_merken") or [])
                  + (r.get("merken_gevoerd") or [])]
     bron = [(b or "").lower() for b in (r.get("bron") or [])]
-    keten = (r.get("keten") or "").lower().strip()
     blob = f"{naam} {info} {website}"
+
+    # FIRST: keten-detectie. Keten-vestigingen krijgen NOOIT hoog (trekhaak = bijaanbod).
+    if NIET_HOOG_KETENS.search(naam):
+        if "carglass" in naam:
+            return "laag", "Carglass = autoruiten-keten, geen trekhaak"
+        return "midden", "keten-vestiging (trekhaak is bijaanbod, geen specialiteit)"
 
     # HOOG: trekhaak-term in naam/website/info (matcht ook trekhake/trekhaken/trekhakencenter)
     if re.search(
@@ -220,9 +229,7 @@ def assess_trekhaak_zekerheid(r: dict) -> tuple[str, str]:
     if any(any(t in m for t in TREKHAAK_OEM) for m in merken_lc):
         return "hoog", "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
     if any(b in HOOG_OEM_BRONNEN for b in bron):
-        return "hoog", "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod"
-    if keten in HOOG_KETENS:
-        return "hoog", f"keten {keten} met bevestigd trekhaak-installatie-aanbod"
+        return "hoog", "OEM dealer-locator bron (Brink/GDW/Westfalia/Bosal/...)"
 
     # MIDDEN: aanhangwagen-merk of aanhang/remorque in naam
     if re.search(r"aanhang|remorque|trailer(?!\.)|attache", blob):
@@ -239,30 +246,34 @@ def assess_trekhaak_zekerheid(r: dict) -> tuple[str, str]:
 
 
 def categorie_for_new_record(r: dict, zekerheid: str) -> str:
-    """Bepaal categorie voor een nieuw record gebaseerd op hint + zekerheid."""
+    """Bepaal categorie voor een nieuw record gebaseerd op hint + zekerheid + keten."""
     hint = (r.get("categorie_hint") or "").lower().strip()
+    naam = (r.get("naam") or "").lower()
 
     # Expliciete overrides eerst
     if hint in {"distributeur", "distributeurs"}:
         return "distributeurs"
-    if hint in {"verkoper", "verkopers"}:
-        return "verkopers"
 
-    # Keten = retail = verkoper
-    keten = (r.get("keten") or "").lower().strip()
-    if keten in RETAIL_KETENS:
+    # Keten-detectie: retail-ketens naar verkopers, service-ketens naar alle_garages
+    if re.search(r"\bauto\s*5\b|\bauto5\b|\bnorauto\b|\bhalfords\b|\bfeu\s*vert\b|\bfeuvert\b", naam, re.IGNORECASE):
+        return "verkopers"
+    if NIET_HOOG_KETENS.search(naam):
+        # service-keten (Midas/Bosch Car/Quickly/Eurorepar/Kwikfit/AD/Speedy/123/Carglass)
+        return "alle_garages"
+
+    if hint in {"verkoper", "verkopers"}:
         return "verkopers"
 
     # Zekerheid bepaalt of het in plaatsers mag
     if zekerheid == "hoog":
-        # Hoog = altijd plaatser, ongeacht hint
+        # Hoog = altijd plaatser
         return "plaatsers"
     if zekerheid == "midden":
         # Midden = plaatser ALS hint plaatser is, anders alle_garages
-        if hint in {"plaatser", "plaatsers", "alle_garage", "alle_garages", "garage", ""}:
+        if hint in {"plaatser", "plaatsers"}:
             return "plaatsers"
         return "alle_garages"
-    # Laag = nooit plaatser, altijd alle_garages (caravan/motorhome of generieke garage)
+    # Laag = nooit plaatser, altijd alle_garages
     return "alle_garages"
 
 

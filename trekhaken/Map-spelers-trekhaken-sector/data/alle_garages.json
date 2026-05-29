@@ -1,4 +1,820 @@
-[
+﻿[
+  {
+    "naam": "KwikFit Nederland (HQ)",
+    "land": "NL",
+    "provincie": "ut",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "primaire_categorie": "alle_garages",
+    "grootte": "Groot",
+    "lat": 52.0907,
+    "lng": 5.1214,
+    "adres": "Hoofdkantoor Utrecht",
+    "plaats": "Utrecht",
+    "website": "kwik-fit.nl",
+    "sbi": [
+      "4520",
+      "4532"
+    ],
+    "webshop": "Ja",
+    "info": "400+ vestigingen NL, trekhaken als nevendienst maar groot bereik.",
+    "bron": [
+      "marktresearch",
+      "manual"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Kwik-Fit (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Vanhulle Menen bvba",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Menen",
+    "adres": "Bruggestraat 327, 8930 Menen",
+    "telefoon": "+32 56 51 36 62",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8074432,
+    "lng": 3.1229164,
+    "info": "Erkende installateur (Brink). gevestigd in Menen (West-Vlaanderen).",
+    "_info_auto": true,
+    "btw": "BE0831.981.569",
+    "cw_brutomarge": 110400,
+    "cw_winst": 14400,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 24200,
+    "oprichting": "2010",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Boone Tom",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Lierde",
+    "adres": "Steenweg 14, 9570 Lierde",
+    "telefoon": "+32 55 42 22 49",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8188534,
+    "lng": 3.8471159,
+    "info": "Erkende installateur (Brink). gevestigd in Lierde (Oost-Vlaanderen).",
+    "_info_auto": true,
+    "btw": "BE0862.438.579",
+    "website": "boonetom.be",
+    "cw_brutomarge": 273700,
+    "cw_winst": 60500,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 82600,
+    "oprichting": "2003",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar MC Motors NV",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Mechelen",
+    "adres": "Steenweg op Blaasveld 23, 2801 Mechelen",
+    "telefoon": "+32 15 27 29 16",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0464582,
+    "lng": 4.4169254,
+    "info": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen). | 32 jaar bedrijf. Mechelen (ANT).",
+    "_info_auto": true,
+    "btw": "BE0449.482.162",
+    "website": "euroreparmechelen.be",
+    "cw_brutomarge": 491900,
+    "cw_winst": 38400,
+    "cw_fte": 7,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 87700,
+    "oprichting": "1993",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Bariseau Mottrie",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Roeselare",
+    "adres": "Brugsesteenweg 572, 8800 Roeselare",
+    "telefoon": "+32 51 23 23 80",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.975549,
+    "lng": 3.1201307,
+    "info": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen). | TE GROOT - omzet EUR52.9M, EBITDA EUR442K maar 50-99 FTE. Roeselare (WVL).",
+    "_info_auto": true,
+    "btw": "BE0554.705.980",
+    "website": "bariseaumottrie.be",
+    "cw_omzet": 52900000,
+    "cw_winst": 52200,
+    "cw_fte": 75,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 441600,
+    "oprichting": "2014",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Cremers",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Kortessem",
+    "adres": "Industrieweg 22, 3720 Kortessem",
+    "telefoon": "+32 11 37 69 49",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8731545,
+    "lng": 5.3671829,
+    "info": "Erkende installateur (Brink). gevestigd in Kortessem (Limburg (BE)).",
+    "_info_auto": true,
+    "btw": "BE0441.937.938",
+    "website": "garage-cremers.be",
+    "cw_brutomarge": 155800,
+    "cw_winst": 19700,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 42700,
+    "oprichting": "1990",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Maene",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Bekegem",
+    "adres": "Zerkegemstraat 15, 8480 Bekegem",
+    "telefoon": "+32 50 81 29 17",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1591548,
+    "lng": 3.0545367,
+    "info": "Erkende installateur (Brink). gevestigd in Bekegem (West-Vlaanderen).",
+    "_info_auto": true,
+    "btw": "BE0879.733.778",
+    "website": "garage-maene.be",
+    "oprichting": "2006",
+    "cw_brutomarge": 232200,
+    "cw_winst": 28300,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 36100,
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar 4all cars bvba",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Sint-Gillis-Waas",
+    "adres": "Kluizenhof 26, 9170 Sint-Gillis-Waas",
+    "telefoon": "+32 3 727 11 11",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2275695,
+    "lng": 4.0895287,
+    "info": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen). | EBITDA EUR886K - uitzonderlijk hoog jaar of multipele BV's gecombineerd? Nader bekijken. Sint-Gillis-Waas (OVL).",
+    "_info_auto": true,
+    "btw": "BE0415.940.849",
+    "website": "4allcars.be",
+    "cw_omzet": 1580000,
+    "cw_brutomarge": 1600000,
+    "cw_winst": 776800,
+    "cw_fte": 7,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 886000,
+    "oprichting": "1976",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Peelaerts bv",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Boortmeerbeek",
+    "adres": "Provinciesteenweg 78, 3190 Boortmeerbeek",
+    "telefoon": "+32 16 60 15 85",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9623206,
+    "lng": 4.6034196,
+    "info": "Erkende installateur (Brink). gevestigd in Boortmeerbeek (Vlaams-Brabant).",
+    "_info_auto": true,
+    "btw": "BE0894.603.482",
+    "website": "peelaerts.be",
+    "cw_brutomarge": 399900,
+    "cw_winst": 30800,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 90200,
+    "oprichting": "2007",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Van Humbeeck",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Brussegem",
+    "adres": "Nieuwelaan 42, 1785 Brussegem",
+    "telefoon": "+32 2 460 36 20",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9304979,
+    "lng": 4.2691213,
+    "info": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant). | Verlies 2023. SC Motors handelsnaam.",
+    "_info_auto": true,
+    "btw": "BE0420.036.229",
+    "cw_omzet": 890700,
+    "cw_winst": -1100,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 17200,
+    "oprichting": "1979",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Luc De Thaey BVBA",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Zele",
+    "adres": "Gentsesteenweg 22, 9240 Zele",
+    "telefoon": "+32 52 44 71 42",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0633541,
+    "lng": 4.0233443,
+    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen). | GESLOTEN - eigenaar gepensioneerd. Geen target. | Wave 2-info: 'gesloten - eigenaar gepensioneerd' maar 2023 data toont actief. Verifieren.",
+    "_info_auto": true,
+    "btw": "BE0870.526.795",
+    "cw_omzet": 1680000,
+    "cw_brutomarge": 168300,
+    "cw_winst": 4500,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 21600,
+    "oprichting": "2004",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Dumarey",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Torhout",
+    "adres": "Oude Gentweg 67, 8820 Torhout",
+    "telefoon": "+32 50 22 23 66",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0819597,
+    "lng": 3.1111808,
+    "info": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen). | SWEET SPOT - EBITDA EUR182K, marge 31%. Torhout (WVL). Citroen-dealer.",
+    "_info_auto": true,
+    "btw": "BE0864.202.791",
+    "website": "citroendumarey.be",
+    "cw_brutomarge": 387100,
+    "cw_winst": 121200,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 181600,
+    "oprichting": "2004",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Vervoort",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Oelegem",
+    "adres": "Torenplein 13, 2520 Oelegem",
+    "telefoon": "+32 3 383 04 41",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2113452,
+    "lng": 4.5963325,
+    "info": "Erkende installateur (Brink). gevestigd in Oelegem (Antwerpen).",
+    "_info_auto": true,
+    "btw": "BE0839.545.490",
+    "oprichting": "2011",
+    "cw_omzet": 1353000,
+    "cw_brutomarge": 135900,
+    "cw_winst": 27900,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 45600,
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Koen de Maeyer",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Bazel",
+    "adres": "Hoogstraat 5, 9150 Bazel",
+    "telefoon": "+32 3 774 29 00",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1448178,
+    "lng": 4.2842254,
+    "info": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen). | SWEET SPOT - EBITDA EUR160K, winst EUR123K. Bazel (OVL). Gezond.",
+    "_info_auto": true,
+    "btw": "BE0464.072.348",
+    "website": "gar-demaeyer.be",
+    "cw_brutomarge": 360800,
+    "cw_winst": 122900,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 159500,
+    "oprichting": "1998",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar Preumont",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Couvin",
+    "adres": "Rue de la barrière 9, 5660 Couvin",
+    "telefoon": "+32 60 34 44 72",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.0503677,
+    "lng": 4.4511862,
+    "info": "Erkende installateur (Brink). gevestigd in Couvin (Namen).",
+    "_info_auto": true,
+    "btw": "BE0431.343.162",
+    "website": "garage-preumont.be",
+    "cw_brutomarge": 148200,
+    "cw_winst": 136,
+    "cw_fte": 3,
+    "cw_jaar": 2022,
+    "bizzy_ebitda": 4900,
+    "oprichting": "1987",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar D.N. Cars",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Bastogne",
+    "adres": "Chaussée Romaine 6, 6600 Bastogne",
+    "telefoon": "+32 496 51 94 04",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 49.99781,
+    "lng": 5.6902087,
+    "info": "Erkende installateur (Brink). gevestigd in Bastogne (Luxemburg (BE)).",
+    "_info_auto": true,
+    "btw": "BE0773.742.274",
+    "cw_brutomarge": 61500,
+    "cw_winst": 30100,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 44600,
+    "oprichting": "2021",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Eurorepar FL Motor",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Florenville",
+    "adres": "Rue de la station 32C, 6820 Florenville",
+    "telefoon": "+32 61 31 10 55",
+    "merken_gevoerd": [
+      "Brink"
+    ],
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "garage"
+    ],
+    "bron": [
+      "brink_dealer_locator",
+      "btw_lookup_wave2",
+      "financials_pappers_wave5"
+    ],
+    "is_specialist": true,
+    "specialist_reason": "oem_dealer_bron",
+    "info": "Erkende installateur (Brink). gevestigd in Florenville (Luxemburg (BE)).",
+    "_info_auto": true,
+    "btw": "BE0550.819.646",
+    "website": "flmotor.be",
+    "lat": null,
+    "lng": null,
+    "cw_brutomarge": 196500,
+    "cw_winst": 13000,
+    "cw_fte": 3,
+    "cw_jaar": 2023,
+    "bizzy_ebitda": 21600,
+    "oprichting": "2014",
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Eurorepar (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Quickly",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Asse",
+    "adres": "Nieuwstraat 137, 1730 Asse",
+    "telefoon": "02 452 93 03",
+    "website": "https://quickly.be",
+    "info": "30+ jaar trekhaken plaatsen Vlaams-Brabant, scherpe prijs, ook aanhangwagens en fietsendragers | Quickly Asse BVBA/BV; Asse; adres bevestigd | Zelfde entiteit als Quickly; Quickly Asse BVBA",
+    "bron": [
+      "wave6a_goudengids",
+      "wave6c_quickly",
+      "btw_lookup_wave6"
+    ],
+    "merken_gevoerd": [
+      "GDW",
+      "Bosal",
+      "Brink",
+      "Westfalia"
+    ],
+    "lat": 50.9071789,
+    "lng": 4.1915187,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "keten": "Quickly",
+    "parent_brand": "Quickly",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Quickly (trekhaak is bijaanbod, geen specialiteit)",
+    "btw": "BE0885.565.557",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Midas Merksem",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Merksem (Antwerpen)",
+    "adres": "Bredabaan 998, 2170 Merksem",
+    "telefoon": "03 645 29 38",
+    "website": "https://www.midas.be/nl/garages",
+    "keten": "Midas",
+    "parent_brand": "Midas Belgium",
+    "parent_btw": "",
+    "info": "Midas biedt trekhaak-service aan via filter op midas.be/fr/garages/?services=trekhaak. 43-46 vestigingen in BE+LUX.",
+    "bron": [
+      "wave6c_midas"
+    ],
+    "lat": 51.266992,
+    "lng": 4.4617731,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Midas (trekhaak is bijaanbod, geen specialiteit)",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Bosch Car Service Govaerts Linter",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Linter",
+    "adres": "Linter (Vlaams-Brabant)",
+    "telefoon": "",
+    "website": "https://www.bcsgovaertslinter.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen. | Garage Govaerts Hugo SRL; Linter; 2,2 FTE; brutomarge €204K; Bosch Car Service",
+    "bron": [
+      "wave6c_bosch_car_service",
+      "btw_lookup_wave6"
+    ],
+    "lat": 50.8291537,
+    "lng": 5.0409717,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Bosch Car Service (trekhaak is bijaanbod, geen specialiteit)",
+    "btw": "BE0449.177.997",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Bosch Car Service Marc Philippe",
+    "land": "BE",
+    "provincie": "",
+    "plaats": "",
+    "adres": "Belgium (adres niet gevonden in scrape)",
+    "telefoon": "081 83 33 24",
+    "website": "https://www.boschcarservicemarcphilippe.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen. | Philippe Marc SPRL; Bierwart (deelgemeente Fernelmont); Bosch Car Service; trekhaken",
+    "bron": [
+      "wave6c_bosch_car_service",
+      "btw_lookup_wave6"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Bosch Car Service (trekhaak is bijaanbod, geen specialiteit)",
+    "btw": "BE0544.919.076",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Bosch Car Service Driesen Lommel",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Lommel",
+    "adres": "Lommel (Limburg)",
+    "telefoon": "",
+    "website": "https://www.boschcarservicedriesenlommel.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen. | Driesen Automobiel SA; Lommel; 3,4 FTE; brutomarge €263K; jaarrekening 2024",
+    "bron": [
+      "wave6c_bosch_car_service",
+      "btw_lookup_wave6"
+    ],
+    "lat": 51.2402222,
+    "lng": 5.2673489,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Bosch Car Service (trekhaak is bijaanbod, geen specialiteit)",
+    "btw": "BE0894.676.134",
+    "classified_from": "plaatsers"
+  },
+  {
+    "naam": "Quickly Asse",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Asse",
+    "adres": "Nieuwstraat 137, 1730 Asse",
+    "telefoon": "+32 2 452 93 03",
+    "website": null,
+    "info": "Eduard dealer Asse regio. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": 50.9071789,
+    "lng": 4.1915187,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)",
+    "classified_from": "plaatsers"
+  },
   {
     "naam": "Garage Tim Crabbe",
     "plaats": "Bornem",
@@ -244,8 +1060,8 @@
     "lng": null,
     "keten": "Bosch Car Service",
     "parent_brand": "Bosch Car Service Belgium",
-    "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "keten-vestiging Bosch Car Service (trekhaak is bijaanbod, geen specialiteit)",
     "btw": "BE0457.987.676"
   },
   {
