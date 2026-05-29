@@ -1,47 +1,137 @@
 [
   {
     "rang": 1,
-    "naam": "Trekhaakdokter",
-    "score": 80,
-    "fte": null,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser (B2B)",
-    "notitie": "B2B-gerichte trekhaak-specialist Beerse. 17+ jaar, vakkennis CAN-bus codering. Eigenaar Steven Peeters (mogelijk opvolgings-target). Financials op te halen via CompanyWeb."
+    "naam": "Auto Parts Stekelorum",
+    "score": 92,
+    "fte": 7,
+    "est_ebitda": "€668K",
+    "activiteit": "Plaatser + Verkoper",
+    "notitie": "🏆 TOP SWEET SPOT. EBITDA €668K (2024), groei +21% vs 2023 (€552K). 7 FTE = €162K brutomarge/FTE. Winstgevend €459K. Izegem (WVL). Carrousel-spelers: GDW + Bosal + Brink. CompanyWeb: BE0423.834.570."
   },
   {
     "rang": 2,
-    "naam": "Trekhakencenter Limburg",
-    "score": 75,
-    "fte": null,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser + Verkoper",
-    "notitie": "Regionale dominantie Limburg BE. Webshop. Goede kandidaat voor uitbreiding naar Antwerpen/Vlaams-Brabant."
+    "naam": "GDW-Gent",
+    "score": 85,
+    "fte": 28,
+    "est_ebitda": "€901K",
+    "activiteit": "Plaatser + Verkoper (GDW-netwerk)",
+    "notitie": "Net boven sweet spot. EBITDA €901K, omzet €5.7M, brutomarge €2.5M (+16% vs 2023). Onderdeel GDW-netwerk. 28 FTE = €89K marge/FTE. BE0808.505.886."
   },
   {
     "rang": 3,
-    "naam": "Trekhaak Punt",
-    "score": 72,
-    "fte": null,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser (multi-location)",
-    "notitie": "Meerdere locaties BE. Standaard prijs 369 EUR. Consolidatie-potentieel."
+    "naam": "Carloma",
+    "score": 76,
+    "fte": 1,
+    "est_ebitda": "€378K",
+    "activiteit": "Plaatser + Verkoper + Distributeur (Westfalia)",
+    "notitie": "EBITDA €378K (2024), stabiel €370K in 2023. Brutomarge €568K. Winst €283K. Asset-light: 1 FTE = beperkt integratie-risico. Importeur Westfalia. BE0404.078.640."
   },
   {
     "rang": 4,
-    "naam": "Encase Limburg",
+    "naam": "ATB (Antwerps Trekhaken Bedrijf)",
     "score": 68,
-    "fte": null,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser (NL-BE grens)",
-    "notitie": "Partner Trekhaakcentrum.nl. Strategische ligging grensregio NL Limburg."
+    "fte": 0,
+    "est_ebitda": "€309K (winst)",
+    "activiteit": "Plaatser (eenmanszaak)",
+    "notitie": "Brutomarge €435K, winst €309K. Wilrijk. Eenmanszaak (0 FTE) = kennis afhankelijk van eigenaar. Mooie marge maar opvolgingsrisico. BE0875.259.803."
   },
   {
     "rang": 5,
-    "naam": "Procar Tuning",
+    "naam": "Trekhaak Punt (Innotex Invest)",
     "score": 65,
-    "fte": null,
-    "est_ebitda": "?",
-    "activiteit": "Plaatser (Randstad)",
-    "notitie": "Amstelveen. Niche tuning + trekhaken. Lokale klantbasis."
+    "fte": 1,
+    "est_ebitda": "€596K (winst)",
+    "activiteit": "Plaatser",
+    "notitie": "Lommel. Brutomarge €609K, winst €596K = bijna geen kosten. 1 FTE. Hoge marge maar zelfstandige - vooral merknaam waarde. BE0649.616.621."
+  },
+  {
+    "rang": 6,
+    "naam": "Trekhaakdokter (Can Solutions)",
+    "score": 58,
+    "fte": 2,
+    "est_ebitda": "€64K (winst)",
+    "activiteit": "Plaatser B2B",
+    "notitie": "Beerse. Brutomarge €429K, winst €64K (lager). 2 FTE. B2B-positie + codering-knowhow = waardevol IP. BE0821.288.508."
+  },
+  {
+    "rang": 7,
+    "naam": "Autoservice Bilzen (Fascomad)",
+    "score": 54,
+    "fte": 4,
+    "est_ebitda": "€23K (winst)",
+    "activiteit": "Plaatser + Garage",
+    "notitie": "Bilzen (LIM). Brutomarge €203K, winst €23K. 4 FTE. Trekhaken+uitlaat+banden combinatie. BE0860.404.054."
+  },
+  {
+    "rang": 8,
+    "naam": "Autoparts De Smet",
+    "score": 50,
+    "fte": 2,
+    "est_ebitda": "€91K (winst)",
+    "activiteit": "Plaatser + Verkoper",
+    "notitie": "Gent. Brutomarge €240K, winst €91K. 2 FTE. Goede marge per FTE. BE0459.365.373."
+  },
+  {
+    "rang": 9,
+    "naam": "Autex",
+    "score": 47,
+    "fte": 2,
+    "est_ebitda": "€46K (winst)",
+    "activiteit": "Plaatser + Garage",
+    "notitie": "Geel (ANT). 50+ jaar bedrijf (1973). Brutomarge €194K, winst €46K. 2 FTE. Regio Mol/Herentals/Turnhout. BE0412.930.186."
+  },
+  {
+    "rang": 10,
+    "naam": "Vlb Cars (Autocrew VLB)",
+    "score": 44,
+    "fte": 1,
+    "est_ebitda": "€58K (winst)",
+    "activiteit": "Plaatser + Garage",
+    "notitie": "Wetteren (OVL). 60+ jaar bedrijf (1961). Brutomarge €160K, winst €58K. Autocrew-partner. BE0401.084.211."
+  },
+  {
+    "rang": 11,
+    "naam": "Limburgse Auto-onderdelen (L.A.O.)",
+    "score": 42,
+    "fte": 2,
+    "est_ebitda": "€69K (winst)",
+    "activiteit": "Distributeur",
+    "notitie": "Leopoldsburg. Brutomarge €204K, winst €69K. Auto-onderdelen groothandel. BE0417.842.346."
+  },
+  {
+    "rang": 12,
+    "naam": "Noyen Class",
+    "score": 38,
+    "fte": 0,
+    "est_ebitda": "€38K (winst)",
+    "activiteit": "Plaatser + Garage",
+    "notitie": "Westmalle (ANT). Brutomarge €53K, winst €38K. Eenmansbedrijf. BE0606.979.181."
+  },
+  {
+    "rang": 13,
+    "naam": "Van Vooren-Lucar",
+    "score": 32,
+    "fte": 0,
+    "est_ebitda": "€28K (winst)",
+    "activiteit": "Plaatser (Thule)",
+    "notitie": "Assenede (OVL). 25+ jaar ervaring. Brutomarge €69K. Eenmansbedrijf. BE0554.786.055."
+  },
+  {
+    "rang": 14,
+    "naam": "DK Autoparts",
+    "score": 28,
+    "fte": 2,
+    "est_ebitda": "€15K (winst)",
+    "activiteit": "Verkoper + Distributeur",
+    "notitie": "Olen (ANT). Brutomarge €181K, winst €15K. Brink/Bosal/Oris/GDW. BE0897.460.331."
+  },
+  {
+    "rang": 15,
+    "naam": "Automaterialen R.S.M.",
+    "score": 25,
+    "fte": 3,
+    "est_ebitda": "€6K (winst)",
+    "activiteit": "Distributeur (GDW-partner)",
+    "notitie": "Bilzen-Hoeselt. Omzet €1.27M, brutomarge €241K, dunne winst. GDW-partner. BE0420.166.485."
   }
 ]

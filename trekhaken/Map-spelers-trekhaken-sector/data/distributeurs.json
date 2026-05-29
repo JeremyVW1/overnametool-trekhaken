@@ -3,24 +3,34 @@
     "naam": "Brink Group (HQ)",
     "land": "NL",
     "provincie": "ov",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Groot",
     "lat": 52.6429,
-    "lng": 6.2110,
+    "lng": 6.211,
     "adres": "Industrieweg 5, 7951 CY Staphorst",
     "plaats": "Staphorst",
     "website": "brink.eu",
-    "sbi": ["4669", "4520"],
+    "sbi": [
+      "4669",
+      "4520"
+    ],
     "oprichting": "1904",
     "info": "Top 2 wereldwijd. ~120M EUR omzet, 900 FTE, 5 fabrieken (NL/FR/TH/ZA). Onderdeel DexKo Global.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "GDW Group",
     "land": "BE",
     "provincie": "wvl",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Groot",
     "lat": 50.8802,
@@ -29,44 +39,74 @@
     "plaats": "Waregem",
     "btw": "BE0405.400.711",
     "website": "gdwtowbars.com",
-    "nace": ["46.69", "29.32"],
-    "oprichting": "1952",
+    "nace": [
+      "46.69",
+      "29.32"
+    ],
+    "oprichting": "1967",
     "info": "Belgische marktleider. ~31M EUR omzet (GDW nv). 5 productiesites in BE/FR/DK. Familie-bedrijf.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual",
+      "financials_companyweb"
+    ],
+    "cw_omzet": 35207504,
+    "cw_brutomarge": 14473479,
+    "cw_winst": 5613772,
+    "cw_fte": 100,
+    "cw_jaar": 2025,
+    "bizzy_ebitda": 5700000,
+    "financials_bron": "companyweb.be+pappers.be"
   },
   {
     "naam": "Westfalia-Automotive Benelux",
     "land": "BE",
     "provincie": "ant",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Middelgroot",
     "lat": 51.2125,
     "lng": 4.5226,
     "website": "westfalia-automotive.com",
-    "nace": ["46.69"],
+    "nace": [
+      "46.69"
+    ],
     "info": "12+ miljoen trekhaken geproduceerd wereldwijd. Distributie BE+NL via importeurs.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "ACPS Automotive (ORIS)",
     "land": "NL",
     "provincie": "gl",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Middelgroot",
     "lat": 51.9851,
     "lng": 5.8987,
     "website": "acps-automotive.com",
-    "sbi": ["4669"],
+    "sbi": [
+      "4669"
+    ],
     "info": "Top 3 Europa. Voorheen Bosal Towbar Division (verkocht 2018). Gefinancierd door TowerBrook Capital.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "RSM Automaterialen",
     "land": "BE",
     "provincie": "lim",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Middelgroot",
     "lat": 50.8731,
@@ -74,36 +114,134 @@
     "adres": "Bilzen",
     "plaats": "Bilzen",
     "website": "rsm.be",
-    "nace": ["46.69", "45.32"],
+    "nace": [
+      "46.69",
+      "45.32"
+    ],
     "info": "Groothandel auto-onderdelen incl. GDW. 45 jaar actief.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE0420.166.485",
+    "cw_omzet": 1270912,
+    "cw_brutomarge": 241116,
+    "cw_winst": 5595,
+    "cw_fte": 3,
+    "cw_jaar": 2024,
+    "oprichting": "1980",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Steinhof Benelux",
     "land": "NL",
     "provincie": "nb",
-    "categorieen": ["distributeur"],
+    "categorieen": [
+      "distributeur"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Middelgroot",
     "lat": 51.5719,
     "lng": 4.7683,
     "website": "steinhof.eu",
-    "sbi": ["4669"],
+    "sbi": [
+      "4669"
+    ],
     "info": "Prijscompetitief Pools merk. 2500+ modellen. Marktleider Polen, groeiend BE+NL via online.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Olifant Trekhaken",
     "land": "NL",
     "provincie": "gl",
-    "categorieen": ["distributeur", "verkoper"],
+    "categorieen": [
+      "distributeur",
+      "verkoper"
+    ],
     "primaire_categorie": "distributeur",
     "grootte": "Klein",
-    "lat": 52.0000,
-    "lng": 5.8500,
+    "lat": 52.0,
+    "lng": 5.85,
     "website": "olifant.nl",
-    "sbi": ["4669", "4532"],
+    "sbi": [
+      "4669",
+      "4532"
+    ],
     "info": "Webshop + installatiepartners NL.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
+  },
+  {
+    "naam": "VDL Weweler-Colaert",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Poperinge",
+    "categorieen": [
+      "distributeur"
+    ],
+    "primaire_categorie": "distributeur",
+    "btw": "BE0405.469.797",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_omzet": 30138915,
+    "cw_brutomarge": 9692063,
+    "cw_winst": 1397146,
+    "cw_fte": 98,
+    "cw_jaar": 2024,
+    "oprichting": "1954",
+    "info": "Producent verenophanging/trekhaken zware voertuigen. VDL Group dochter.",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Truck & Trailer Industry",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Poperinge",
+    "categorieen": [
+      "distributeur"
+    ],
+    "primaire_categorie": "distributeur",
+    "btw": "BE0415.964.803",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 776,
+    "cw_winst": 4503,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "oprichting": "1976",
+    "info": "Trekhaken/koppelingen zwaar transport (VBG Group).",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Limburgse Auto-onderdelen (L.A.O.)",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Leopoldsburg",
+    "categorieen": [
+      "distributeur"
+    ],
+    "primaire_categorie": "distributeur",
+    "btw": "BE0417.842.346",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 204070,
+    "cw_winst": 69209,
+    "cw_fte": 2,
+    "cw_jaar": 2024,
+    "oprichting": "1978",
+    "info": "Auto-onderdelen groothandel incl. trekhaken.",
+    "financials_bron": "companyweb.be"
   }
 ]

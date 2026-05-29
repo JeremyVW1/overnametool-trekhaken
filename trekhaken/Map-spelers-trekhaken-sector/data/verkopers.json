@@ -224,8 +224,16 @@
     "info": "Online + B2B groothandel. Brede range trekhaken.",
     "bron": [
       "marktresearch",
-      "manual"
-    ]
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE0897.460.331",
+    "cw_brutomarge": 181329,
+    "cw_winst": 15091,
+    "cw_fte": 2,
+    "cw_jaar": 2024,
+    "oprichting": "2008",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Auto5 Oostakker",

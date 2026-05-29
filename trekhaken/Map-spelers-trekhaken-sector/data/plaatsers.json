@@ -57,11 +57,18 @@
     ],
     "oprichting": "2009",
     "webshop": "Ja",
-    "info": "B2B-gericht (voor garages), codering + montage. Oprichter Steven Peeters.",
+    "info": "B2B-gericht (voor garages), codering + montage. Oprichter Steven Peeters. | Can Solutions BV.",
     "bron": [
       "marktresearch",
-      "manual"
-    ]
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE0821.288.508",
+    "cw_brutomarge": 428831,
+    "cw_winst": 63931,
+    "cw_fte": 2,
+    "cw_jaar": 2024,
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Trekhakencenter Limburg",
@@ -83,11 +90,15 @@
       "45.20"
     ],
     "webshop": "Ja",
-    "info": "Regionaal specialist Limburg (BE).",
+    "info": "Regionaal specialist Limburg (BE). | Nieuwe entiteit dec 2024. Operationeel: Trekhakencenter Limburg.",
     "bron": [
       "marktresearch",
-      "manual"
-    ]
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE1017.370.048",
+    "oprichting": "2024",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Trekhaakcenter Midlim",
@@ -150,11 +161,19 @@
     "nace": [
       "45.32"
     ],
-    "info": "Meerdere locaties BE. Montage vanaf 369 EUR.",
+    "info": "Meerdere locaties BE. Montage vanaf 369 EUR. | Innotex Invest BV.",
     "bron": [
       "marktresearch",
-      "manual"
-    ]
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE0649.616.621",
+    "cw_brutomarge": 609120,
+    "cw_winst": 596241,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "oprichting": "2016",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Luc Auto (Lucar bvba)",
@@ -171,11 +190,19 @@
       "45.32",
       "45.20"
     ],
-    "info": "25+ jaar ervaring, voordelig tarief.",
+    "info": "25+ jaar ervaring, voordelig tarief. | Trekhaken + Thule specialist.",
     "bron": [
       "marktresearch",
-      "manual"
-    ]
+      "manual",
+      "financials_companyweb"
+    ],
+    "btw": "BE0554.786.055",
+    "cw_brutomarge": 69380,
+    "cw_winst": 27506,
+    "cw_fte": 0,
+    "cw_jaar": 2024,
+    "oprichting": "2014",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Trekhaakcentrum.nl (HQ)",
@@ -570,13 +597,21 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0412.930.186",
+    "cw_brutomarge": 194063,
+    "cw_winst": 46280,
+    "cw_fte": 2,
+    "cw_jaar": 2024,
+    "oprichting": "1973",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Trekhakencenter Limburg / DS Trekhaken",
@@ -612,13 +647,18 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0761.833.248",
+    "cw_fte": 0,
+    "oprichting": "2021",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Bosch Car Service Gavaro",
@@ -675,13 +715,17 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0832.621.175",
+    "oprichting": "2011",
+    "financials_bron": "google"
   },
   {
     "naam": "Euro Car Center",
@@ -885,13 +929,21 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0459.365.373",
+    "cw_brutomarge": 240413,
+    "cw_winst": 90767,
+    "cw_fte": 2,
+    "cw_jaar": 2025,
+    "oprichting": "1996",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Tecno-Parts",
@@ -906,13 +958,21 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0432.090.260",
+    "cw_brutomarge": 19827,
+    "cw_winst": 9673,
+    "cw_fte": 0,
+    "cw_jaar": 2025,
+    "oprichting": "1987",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Laureyns Tom Garage",
@@ -1011,13 +1071,21 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0416.276.191",
+    "cw_brutomarge": 9386,
+    "cw_winst": 7952,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "oprichting": "1976",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "The Camping Store",
@@ -1368,13 +1436,22 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0423.834.570",
+    "cw_brutomarge": 1133650,
+    "cw_winst": 458798,
+    "cw_fte": 7,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 668300,
+    "oprichting": "1983",
+    "financials_bron": "companyweb.be+pappers.be"
   },
   {
     "naam": "MyCar Zedelgem",
@@ -1494,13 +1571,18 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0441.125.514",
+    "cw_fte": 3,
+    "oprichting": "1990",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "Autoservice Bilzen",
@@ -2040,13 +2122,18 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0771.251.453",
+    "cw_fte": 0,
+    "oprichting": "2001",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "CARLOMA",
@@ -2061,13 +2148,22 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0404.078.640",
+    "cw_brutomarge": 568050,
+    "cw_winst": 283600,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 378500,
+    "oprichting": "1968",
+    "financials_bron": "pappers.be+companyweb.be"
   },
   {
     "naam": "Ludo Van de Peer",
@@ -2103,13 +2199,21 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_companyweb"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": ""
+    "info": "",
+    "btw": "BE0606.979.181",
+    "cw_brutomarge": 53163,
+    "cw_winst": 38058,
+    "cw_fte": 0,
+    "cw_jaar": 2025,
+    "oprichting": "2015",
+    "financials_bron": "companyweb.be"
   },
   {
     "naam": "A-Altra / Sevenhans",
@@ -2236,5 +2340,162 @@
     "nace": [],
     "merken_gevoerd": [],
     "info": ""
+  },
+  {
+    "naam": "GDW-Gent",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Gent",
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0808.505.886",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_omzet": 5700000,
+    "cw_brutomarge": 2487349,
+    "cw_winst": 705491,
+    "cw_fte": 28,
+    "cw_jaar": 2024,
+    "bizzy_ebitda": 900500,
+    "oprichting": "2008",
+    "info": "Plaatser+verkoper trekhaken, onderdeel GDW-netwerk. Omzet 2023 EUR5.7M.",
+    "financials_bron": "companyweb.be+pappers.be"
+  },
+  {
+    "naam": "ATB (Antwerps Trekhaken Bedrijf)",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Antwerpen (Wilrijk)",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0875.259.803",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 434592,
+    "cw_winst": 308885,
+    "cw_fte": 0,
+    "cw_jaar": 2024,
+    "oprichting": "2005",
+    "info": "Trekhaken specialist Antwerpen.",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Autoservice Bilzen (Fascomad)",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Bilzen",
+    "categorieen": [
+      "plaatser",
+      "garage"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0860.404.054",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 202902,
+    "cw_winst": 22999,
+    "cw_fte": 4,
+    "cw_jaar": 2024,
+    "oprichting": "2003",
+    "info": "Trekhaken + uitlaat + banden Bilzen.",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Lokerse Auto Service",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Lokeren",
+    "categorieen": [
+      "plaatser",
+      "garage"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0465.165.973",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 12915,
+    "cw_winst": -5559,
+    "cw_fte": 1,
+    "cw_jaar": 2025,
+    "oprichting": "1999",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Inter-Parts Europe",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Menen",
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0434.647.793",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 11761,
+    "cw_winst": 113,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "oprichting": "1988",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "Vlb Cars (Autocrew VLB Cars)",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Wetteren",
+    "categorieen": [
+      "plaatser",
+      "garage"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0401.084.211",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_brutomarge": 159616,
+    "cw_winst": 58191,
+    "cw_fte": 1,
+    "cw_jaar": 2024,
+    "oprichting": "1961",
+    "info": "Garage + trekhaken Wetteren. Autocrew partner.",
+    "financials_bron": "companyweb.be"
+  },
+  {
+    "naam": "GDW Group (holding)",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Waregem",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "btw": "BE0801.770.326",
+    "bron": [
+      "financials_companyweb",
+      "agent_research_2026_05_29"
+    ],
+    "cw_omzet": 1918614,
+    "cw_fte": 0,
+    "cw_jaar": 2025,
+    "oprichting": "2023",
+    "financials_bron": "companyweb.be"
   }
 ]
