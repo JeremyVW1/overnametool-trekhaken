@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Trekhaak-silhouet — staalblauw + signaal-oranje -->
+  <!-- Bevestigingsplaat (graphite) -->
+  <rect x="6" y="44" width="52" height="8" rx="2" fill="#37474F"/>
+  <rect x="11" y="46" width="3" height="4" fill="#102027"/>
+  <rect x="50" y="46" width="3" height="4" fill="#102027"/>
+  <!-- Staalblauwe beugel die omhoog gaat naar de kogel -->
+  <path d="M 26 44 L 26 22 Q 26 16 32 16 Q 38 16 38 22 L 38 44 Z" fill="#1A237E"/>
+  <!-- Kogel met oranje accent-ring -->
+  <circle cx="32" cy="13" r="9" fill="#102027"/>
+  <circle cx="32" cy="13" r="9" fill="none" stroke="#FF6B35" stroke-width="2.5"/>
+  <!-- Highlight op kogel -->
+  <circle cx="29" cy="10" r="2.5" fill="#546E7A" opacity="0.7"/>
+</svg>

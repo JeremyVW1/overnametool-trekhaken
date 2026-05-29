@@ -1,0 +1,152 @@
+/* ═══════════════════════════════════════════════════════════════
+   categorie.css — styling voor categorie-tabs en filter-knoppen
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ─── Brand icon naast titel ─── */
+.brand-icon {
+  vertical-align: middle;
+  height: 22px;
+  margin-right: 6px;
+}
+
+.brand-title {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.brand-scope {
+  font-weight: 500;
+}
+
+/* ─── Categorie-tab in header ─── */
+.tab-btn.tab-cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tab-btn .cat-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 0 1.5px rgba(255,255,255,0.4);
+}
+
+.tab-btn .cat-count {
+  font-size: 10px;
+  background: rgba(255,255,255,0.15);
+  color: inherit;
+  border-radius: 10px;
+  padding: 1px 6px;
+  font-weight: 700;
+  min-width: 18px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.tab-btn.active .cat-count {
+  background: var(--brand-primary);
+  color: #fff;
+}
+
+/* ─── Categorie-filter-knoppen onder controls ─── */
+.cat-fb {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border-color: var(--btn-color, var(--color-border)) !important;
+  color: var(--btn-color, var(--color-text-muted)) !important;
+}
+
+.cat-fb.on {
+  background: var(--btn-color) !important;
+  color: #fff !important;
+  border-color: transparent !important;
+}
+
+.cat-fb .cat-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}
+
+.cat-fb.on .cat-dot {
+  background: #fff !important;
+}
+
+/* ─── Categorie-tab views ─── */
+.cat-view {
+  padding: 16px 12px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.cat-view-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.cat-view-header h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.cat-view-header h2 .cat-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+}
+
+.cat-view-header .cat-subtitle {
+  color: var(--color-text-muted);
+  font-size: 13px;
+  margin-left: auto;
+}
+
+/* ─── Legenda met categorie-kleuren ─── */
+.legend-cat-section {
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.legend-cat-title {
+  font-size: 10px;
+  font-weight: 800;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.legend-cat-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  padding: 2px 0;
+}
+
+.legend-cat-row .cat-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(0,0,0,0.2);
+}
+
+.legend-cat-row .cat-prio {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  margin-left: auto;
+  font-style: italic;
+}

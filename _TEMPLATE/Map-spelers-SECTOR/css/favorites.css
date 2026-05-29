@@ -1,0 +1,131 @@
+/* ═══════════════════════════════════════
+   Status buttons (star / orange / red)
+   ═══════════════════════════════════════ */
+.star-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: var(--timber-300);
+  padding: 0 2px;
+  line-height: 1;
+  transition: all 0.2s var(--ease-spring);
+}
+.star-btn:hover { color: var(--amber-300); transform: scale(1.25); }
+.star-btn.starred { color: var(--amber-300); text-shadow: 0 1px 4px rgba(251,191,36,0.4); }
+
+.orange-btn, .red-btn {
+  background: none;
+  border: 2px solid var(--timber-200);
+  cursor: pointer;
+  font-size: 14px;
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s var(--ease-spring);
+  color: var(--timber-300);
+  padding: 0;
+}
+.orange-btn:hover { border-color: var(--amber-500); color: var(--amber-500); transform: scale(1.1); }
+.orange-btn.marked-orange { background: var(--amber-500); border-color: var(--amber-500); color: #fff; }
+.red-btn:hover { border-color: var(--red-500); color: var(--red-500); transform: scale(1.1); }
+.red-btn.marked-red { background: var(--red-500); border-color: var(--red-500); color: #fff; }
+
+.td-status { width: 56px; text-align: center; padding: 2px !important; white-space: nowrap; }
+.td-status .orange-btn, .td-status .red-btn { font-size: 12px; width: 20px; height: 20px; display: inline-flex; }
+
+/* ═══════════════════════════════════════
+   Favorieten tab
+   ═══════════════════════════════════════ */
+#favorieten-view {
+  flex: 1;
+  overflow-y: auto;
+  background: linear-gradient(180deg, var(--forest-50) 0%, var(--timber-50) 100%);
+  padding: 20px 24px;
+}
+
+.fav-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 20px;
+  background: #fff;
+  padding: 14px 20px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--timber-200);
+  box-shadow: var(--shadow-sm);
+}
+.fav-toolbar h2 {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--timber-800);
+  margin: 0;
+}
+.fav-subtitle {
+  font-size: 13px;
+  color: var(--slate-500);
+  flex: 1;
+}
+.fav-empty {
+  text-align: center;
+  padding: 48px 24px;
+  color: var(--timber-400);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#fav-table.analyse-table { font-size: 12px; width: auto; min-width: 100%; }
+#fav-table.analyse-table th {
+  background: var(--forest-700);
+  color: var(--forest-100);
+  font-size: 11px;
+  padding: 8px 8px;
+  text-align: left;
+  white-space: nowrap;
+}
+#fav-table.analyse-table th:hover { background: var(--forest-600); }
+#fav-table.analyse-table td { padding: 6px 8px; font-size: 12px; word-break: break-word; border-bottom: 1px solid var(--timber-100); }
+#fav-table.analyse-table tr:hover { background: var(--forest-50); }
+#fav-table .td-naam { font-size: 13px; font-weight: 700; min-width: 90px; }
+#fav-table .td-adres { font-size: 11px; max-width: 140px; word-break: break-word; }
+#fav-table .td-btw { font-size: 11px; word-break: break-all; }
+#fav-table .td-web { font-size: 11px; word-break: break-all; max-width: 120px; }
+#fav-table .td-num { font-size: 12px; }
+#fav-table .top15-ebitda { font-weight: 800; color: var(--forest-600); }
+#fav-table .size-badge { font-size: 11px; padding: 2px 10px; }
+#fav-table .star-btn { font-size: 20px; }
+
+/* ═══════════════════════════════════════
+   Twijfel tab
+   ═══════════════════════════════════════ */
+#twijfel-view {
+  flex: 1;
+  overflow-y: auto;
+  background: linear-gradient(180deg, var(--amber-100) 0%, var(--timber-50) 100%);
+  padding: 20px 24px;
+}
+
+#twijfel-table.analyse-table { font-size: 12px; width: auto; min-width: 100%; }
+#twijfel-table.analyse-table th {
+  background: var(--amber-600);
+  color: #fff;
+  font-size: 11px;
+  padding: 8px 8px;
+  text-align: left;
+  white-space: nowrap;
+}
+#twijfel-table.analyse-table th:hover { background: #9a4408; }
+#twijfel-table.analyse-table td { padding: 6px 8px; font-size: 12px; word-break: break-word; border-bottom: 1px solid var(--timber-100); }
+#twijfel-table.analyse-table tr:hover { background: var(--amber-100); }
+#twijfel-table .td-naam { font-size: 13px; font-weight: 700; min-width: 90px; }
+#twijfel-table .td-adres { font-size: 11px; max-width: 140px; word-break: break-word; }
+#twijfel-table .td-btw { font-size: 11px; word-break: break-all; }
+#twijfel-table .td-web { font-size: 11px; word-break: break-all; max-width: 120px; }
+#twijfel-table .td-num { font-size: 12px; }
+#twijfel-table .top15-ebitda { font-weight: 800; color: var(--amber-600); }
+#twijfel-table .star-btn { font-size: 20px; }

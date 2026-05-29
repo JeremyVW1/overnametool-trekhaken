@@ -1,0 +1,10 @@
+﻿node_modules/
+data/_bron-cache/
+data/_master.json
+*.tmp
+*.log
+apify-input.json
+.env
+.env.local
+*_local.json
+*.code-workspace

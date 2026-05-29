@@ -1,0 +1,29 @@
+{
+  "name": "marktkaart-scrapers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sector-agnostische scrapers voor de marktkaart-tool. Lezen sector.config.json voor sector-specifieke parameters.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "all": "node run-all.js",
+    "dealers": "node run-dealers.js",
+    "kbo": "node kbo-bulk.js",
+    "kvk": "node kvk-bulk.js",
+    "apify": "node apify-cities.js",
+    "merge": "node merge-and-dedupe.js",
+    "classify": "node classify.js",
+    "report": "node merge-and-dedupe.js --report-only"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0",
+    "p-limit": "^6.1.0",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0"
+  }
+}

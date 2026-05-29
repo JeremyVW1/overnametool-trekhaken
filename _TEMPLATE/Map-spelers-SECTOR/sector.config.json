@@ -1,0 +1,110 @@
+{
+  "$schema": "../../sector.config.schema.json",
+
+  "sector_id": "SECTOR_ID",
+  "sector_label": "SECTOR_LABEL",
+  "tagline": "Marktkaart voor overname-onderzoek",
+  "subtitle": "Spelers in kaart — BE + NL",
+
+  "scope_landen": ["BE", "NL"],
+  "kaart_center": [51.5, 4.7],
+  "kaart_zoom": 7,
+
+  "categorieen": [
+    { "id": "plaatser",     "label": "Plaatsers",     "kleur": "#FF6B35" },
+    { "id": "verkoper",     "label": "Verkopers",     "kleur": "#1E88E5" },
+    { "id": "distributeur", "label": "Distributeurs", "kleur": "#7C4DFF" },
+    { "id": "garage",       "label": "Garages",       "kleur": "#9E9E9E" }
+  ],
+
+  "groottes": [
+    { "id": "Groot",       "radius": 13 },
+    { "id": "Middelgroot", "radius": 10 },
+    { "id": "Klein",       "radius": 7  },
+    { "id": "Micro",       "radius": 5  }
+  ],
+
+  "provincies": {
+    "BE": [
+      { "id": "wvl", "label": "West-Vlaanderen", "kleur": "#1565C0" },
+      { "id": "ovl", "label": "Oost-Vlaanderen", "kleur": "#2E7D32" },
+      { "id": "ant", "label": "Antwerpen",       "kleur": "#6A1B9A" },
+      { "id": "vbr", "label": "Vlaams-Brabant",  "kleur": "#E65100" },
+      { "id": "lim", "label": "Limburg (BE)",    "kleur": "#00838F" },
+      { "id": "bru", "label": "Brussel",         "kleur": "#C62828" },
+      { "id": "hai", "label": "Henegouwen",      "kleur": "#880E4F" },
+      { "id": "lui", "label": "Luik",            "kleur": "#AD1457" },
+      { "id": "nam", "label": "Namen",           "kleur": "#4527A0" },
+      { "id": "lux", "label": "Luxemburg (BE)",  "kleur": "#1B5E20" },
+      { "id": "bwa", "label": "Waals-Brabant",   "kleur": "#BF360C" }
+    ],
+    "NL": [
+      { "id": "nh", "label": "Noord-Holland",   "kleur": "#FF6F00" },
+      { "id": "zh", "label": "Zuid-Holland",    "kleur": "#0277BD" },
+      { "id": "ut", "label": "Utrecht",         "kleur": "#AD1457" },
+      { "id": "gl", "label": "Gelderland",      "kleur": "#558B2F" },
+      { "id": "ov", "label": "Overijssel",      "kleur": "#4A148C" },
+      { "id": "fl", "label": "Flevoland",       "kleur": "#00695C" },
+      { "id": "dr", "label": "Drenthe",         "kleur": "#3E2723" },
+      { "id": "gr", "label": "Groningen",       "kleur": "#1A237E" },
+      { "id": "fr", "label": "Friesland",       "kleur": "#006064" },
+      { "id": "nb", "label": "Noord-Brabant",   "kleur": "#BF360C" },
+      { "id": "li", "label": "Limburg (NL)",    "kleur": "#33691E" },
+      { "id": "ze", "label": "Zeeland",         "kleur": "#0D47A1" }
+    ]
+  },
+
+  "theme": {
+    "primary":        "#1A237E",
+    "primary_dark":   "#0D1660",
+    "accent":         "#FF6B35",
+    "secondary":      "#37474F",
+    "light":          "#ECEFF1",
+    "dark":           "#102027",
+    "surface":        "#FFFFFF",
+    "text":           "#102027",
+    "text_muted":     "#546E7A",
+    "border":         "#CFD8DC",
+    "status_fav":     "#FFC107",
+    "status_twijfel": "#FB8C00",
+    "status_niet":    "#E53935",
+    "font_body":      "'Inter', -apple-system, system-ui, sans-serif",
+    "font_mono":      "'JetBrains Mono', 'Consolas', monospace",
+    "font_display":   "'Inter', -apple-system, sans-serif"
+  },
+
+  "google_fonts_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap",
+
+  "data_files": [
+    "plaatsers.json",
+    "verkopers.json",
+    "distributeurs.json",
+    "garages.json"
+  ],
+
+  "scoring": {
+    "ebitda_sweet_spot":      [150000, 750000],
+    "max_fte":                15,
+    "min_brutomarge_per_fte": 150000,
+    "weights": {
+      "ebitda":              40,
+      "brutomarge_per_fte":  25,
+      "fte_grootte":         15,
+      "winstgevendheid":     10,
+      "digitaliseringspotentieel": 10
+    }
+  },
+
+  "scrape": {
+    "nace_codes_be": [],
+    "sbi_codes_nl":  [],
+    "google_maps_terms": [
+      "{sector_label} {gemeente}",
+      "{sector_id} {gemeente}"
+    ],
+    "max_places_per_query": 20,
+    "dealer_locators": []
+  },
+
+  "google_sheets_url": ""
+}

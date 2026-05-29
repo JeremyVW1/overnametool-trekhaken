@@ -1,0 +1,47 @@
+[
+  {
+    "rang": 1,
+    "naam": "Trekhaakdokter",
+    "score": 80,
+    "fte": null,
+    "est_ebitda": "?",
+    "activiteit": "Plaatser (B2B)",
+    "notitie": "B2B-gerichte trekhaak-specialist Beerse. 17+ jaar, vakkennis CAN-bus codering. Eigenaar Steven Peeters (mogelijk opvolgings-target). Financials op te halen via CompanyWeb."
+  },
+  {
+    "rang": 2,
+    "naam": "Trekhakencenter Limburg",
+    "score": 75,
+    "fte": null,
+    "est_ebitda": "?",
+    "activiteit": "Plaatser + Verkoper",
+    "notitie": "Regionale dominantie Limburg BE. Webshop. Goede kandidaat voor uitbreiding naar Antwerpen/Vlaams-Brabant."
+  },
+  {
+    "rang": 3,
+    "naam": "Trekhaak Punt",
+    "score": 72,
+    "fte": null,
+    "est_ebitda": "?",
+    "activiteit": "Plaatser (multi-location)",
+    "notitie": "Meerdere locaties BE. Standaard prijs 369 EUR. Consolidatie-potentieel."
+  },
+  {
+    "rang": 4,
+    "naam": "Encase Limburg",
+    "score": 68,
+    "fte": null,
+    "est_ebitda": "?",
+    "activiteit": "Plaatser (NL-BE grens)",
+    "notitie": "Partner Trekhaakcentrum.nl. Strategische ligging grensregio NL Limburg."
+  },
+  {
+    "rang": 5,
+    "naam": "Procar Tuning",
+    "score": 65,
+    "fte": null,
+    "est_ebitda": "?",
+    "activiteit": "Plaatser (Randstad)",
+    "notitie": "Amstelveen. Niche tuning + trekhaken. Lokale klantbasis."
+  }
+]

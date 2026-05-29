@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marktkaart</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+  <link rel="stylesheet" href="css/theme.css"/>
+  <link rel="stylesheet" href="css/base.css"/>
+  <link rel="stylesheet" href="css/map.css"/>
+  <link rel="stylesheet" href="css/analyse.css"/>
+  <link rel="stylesheet" href="css/favorites.css"/>
+  <link rel="stylesheet" href="css/edit.css"/>
+  <link rel="stylesheet" href="css/categorie.css"/>
+  <link rel="stylesheet" href="css/utilities.css"/>
+</head>
+<body>
+
+  <!-- Loading overlay -->
+  <div id="loading-overlay">
+    <div class="loading-spinner"></div>
+    <span>Data laden...</span>
+  </div>
+
+  <!-- Header (titel/H1 + tabs worden door sector-bootstrap.js gevuld) -->
+  <div id="header">
+    <div class="header-left">
+      <h1><!-- gevuld door sector-bootstrap.js --></h1>
+    </div>
+    <div class="header-center" role="tablist">
+      <button class="tab-btn active" data-tab="kaart" role="tab" aria-selected="true">Kaart</button>
+      <button class="tab-btn" data-tab="analyse" role="tab" aria-selected="false">Analyse</button>
+      <!-- categorie-tabs hier ingevoegd door sector-bootstrap.js -->
+      <button class="tab-btn" data-tab="favorieten" role="tab" aria-selected="false">★ Favorieten <span id="fav-count" class="fav-count">0</span></button>
+      <button class="tab-btn" data-tab="twijfel" role="tab" aria-selected="false">● Twijfel <span id="orange-count" class="fav-count orange-count">0</span></button>
+      <button class="tab-btn" data-tab="bewerk" role="tab" aria-selected="false">✎ Bewerk</button>
+    </div>
+    <div class="header-right">
+      <div class="counter"><span id="counter-num">0</span> bedrijven</div>
+    </div>
+  </div>
+
+  <!-- Controls: zoek + filters -->
+  <div id="controls">
+    <div class="controls-top">
+      <div class="search-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="search" placeholder="Zoek bedrijf, plaats…" autocomplete="off"/>
+        <button id="search-clear" title="Wis zoekopdracht" aria-label="Wis zoekopdracht">&times;</button>
+        <div id="search-suggestions" class="search-suggestions"></div>
+      </div>
+      <button class="fb" id="btn-all">Alles</button>
+    </div>
+    <div class="filter-row" id="filter-land"></div>
+    <div class="filter-row" id="filter-regio"></div>
+    <div class="filter-row" id="filter-categorie"></div>
+    <div class="filter-row" id="filter-status"></div>
+  </div>
+
+  <!-- Kaart -->
+  <div id="map"></div>
+
+  <!-- Legenda (categorie-kleuren + status-markers) -->
+  <div id="legend">
+    <button id="legend-toggle">▾ Legenda verbergen</button>
+    <div id="legend-content">
+      <!-- Wordt via JS opgebouwd -->
+    </div>
+  </div>
+
+  <!-- Analyse tab -->
+  <div id="analyse-view" class="hidden">
+    <div id="top15-section"></div>
+
+    <div class="analyse-toolbar">
+      <div class="analyse-filters">
+        <div class="analyse-filter-group">
+          <span class="analyse-group-label">Land:</span>
+          <div id="analyse-land-checks" class="analyse-act-checks"></div>
+        </div>
+        <div class="analyse-filter-group">
+          <span class="analyse-group-label">Provincie:</span>
+          <div id="analyse-regio-checks" class="analyse-act-checks"></div>
+        </div>
+        <div class="analyse-filter-group">
+          <span class="analyse-group-label">Categorie:</span>
+          <div id="analyse-categorie-checks" class="analyse-act-checks"></div>
+        </div>
+        <div class="analyse-filter-group analyse-filter-row">
+          <select id="analyse-grootte" title="Filter op bedrijfsgrootte">
+            <option value="">Alle groottes</option>
+            <option value="Groot">Groot</option>
+            <option value="Middelgroot">Middelgroot</option>
+            <option value="Klein">Klein</option>
+            <option value="Micro">Micro</option>
+          </select>
+          <label class="analyse-check"><input type="checkbox" id="analyse-btw-only"> Enkel met BTW/KvK</label>
+          <label class="analyse-check"><input type="checkbox" id="analyse-financials-only"> Enkel met financials</label>
+        </div>
+      </div>
+      <div class="analyse-actions">
+        <button id="analyse-export" class="analyse-btn">📥 Exporteer CSV</button>
+      </div>
+    </div>
+
+    <div class="analyse-stats" id="analyse-stats"></div>
+    <div class="analyse-opps" id="analyse-opps"></div>
+
+    <div class="analyse-search-wrap">
+      <input type="text" id="analyse-search" placeholder="Zoek in tabel (naam, adres, BTW…)" autocomplete="off"/>
+    </div>
+
+    <div class="analyse-table-wrap">
+      <table class="analyse-table" id="analyse-table">
+        <thead>
+          <tr>
+            <th data-sort="favoriet">Status</th>
+            <th data-sort="naam">Naam ▾</th>
+            <th data-sort="land">Land</th>
+            <th data-sort="provincie">Provincie</th>
+            <th data-sort="primaire_categorie">Categorie</th>
+            <th data-sort="grootte">Grootte</th>
+            <th data-sort="cw_omzet">Omzet</th>
+            <th data-sort="cw_brutomarge">Brutomarge</th>
+            <th data-sort="bizzy_ebitda">EBITDA</th>
+            <th data-sort="cw_winst">Winst</th>
+            <th data-sort="cw_fte">FTE</th>
+            <th data-sort="adres">Adres</th>
+            <th data-sort="btw">BTW/KvK</th>
+            <th data-sort="website">Website</th>
+          </tr>
+        </thead>
+        <tbody id="analyse-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Categorie-tab views (dynamisch gegenereerd door categorie-tabs.js) -->
+  <div id="cat-views"></div>
+
+  <!-- Favorieten tab -->
+  <div id="favorieten-view" class="hidden">
+    <div class="fav-toolbar">
+      <h2>★ Favorieten</h2>
+      <span class="fav-subtitle">Bedrijven met een ster worden automatisch naar Google Sheets gestuurd</span>
+      <button id="fav-export" class="analyse-btn">📥 Exporteer favorieten CSV</button>
+    </div>
+    <div class="fav-empty" id="fav-empty">Nog geen favorieten — klik op ☆ bij een bedrijf op de kaart of in de analyse.</div>
+    <div class="analyse-table-wrap">
+      <table class="analyse-table" id="fav-table">
+        <thead>
+          <tr>
+            <th>Status</th>
+            <th>Naam</th>
+            <th>Land</th>
+            <th>Provincie</th>
+            <th>Categorie</th>
+            <th>Brutomarge</th>
+            <th>EBITDA</th>
+            <th>FTE</th>
+            <th>Adres</th>
+            <th>BTW/KvK</th>
+            <th>Website</th>
+            <th>Digitaal</th>
+            <th>Beoordeling</th>
+            <th>Notes</th>
+            <th>Notes 2</th>
+          </tr>
+        </thead>
+        <tbody id="fav-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Twijfel (oranje) tab -->
+  <div id="twijfel-view" class="hidden">
+    <div class="fav-toolbar">
+      <h2 style="color:var(--color-twijfel)">● Twijfelgevallen / Nog te onderzoeken</h2>
+      <span class="fav-subtitle">Bedrijven met oranje status — twijfel of nog te onderzoeken</span>
+      <button id="twijfel-export" class="analyse-btn">📥 Exporteer twijfel CSV</button>
+    </div>
+    <div class="fav-empty" id="twijfel-empty">Nog geen twijfelgevallen — klik op de oranje ● bij een bedrijf.</div>
+    <div class="analyse-table-wrap">
+      <table class="analyse-table" id="twijfel-table">
+        <thead>
+          <tr>
+            <th>Status</th>
+            <th>Naam</th>
+            <th>Land</th>
+            <th>Provincie</th>
+            <th>Categorie</th>
+            <th>Brutomarge</th>
+            <th>EBITDA</th>
+            <th>FTE</th>
+            <th>Adres</th>
+            <th>BTW/KvK</th>
+            <th>Website</th>
+            <th>Digitaal</th>
+            <th>Beoordeling</th>
+            <th>Notes</th>
+            <th>Notes 2</th>
+          </tr>
+        </thead>
+        <tbody id="twijfel-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Bewerk tab -->
+  <div id="bewerk-view" class="hidden">
+    <div class="fav-toolbar">
+      <h2>✎ Bedrijfsgegevens bewerken</h2>
+      <span class="fav-subtitle">Zoek een bedrijf en vul financiële of andere gegevens aan. Wijzigingen worden lokaal opgeslagen.</span>
+    </div>
+    <div id="edit-content"></div>
+  </div>
+
+  <!-- Scripts: Leaflet eerst, dan core modules, dan sector-bootstrap (LAATSTE) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/sync.js"></script>
+  <script src="js/table-utils.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/markers.js"></script>
+  <script src="js/status.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/categorie-tabs.js"></script>
+  <script src="js/analyse.js"></script>
+  <script src="js/edit.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/sector-bootstrap.js"></script>
+</body>
+</html>

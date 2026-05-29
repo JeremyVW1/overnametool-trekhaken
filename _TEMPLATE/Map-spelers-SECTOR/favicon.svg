@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Generieke map-pin (vervang per sector) -->
+  <path d="M32 4 C20 4 11 13 11 25 C11 38 32 60 32 60 C32 60 53 38 53 25 C53 13 44 4 32 4 Z"
+        fill="#1A237E" stroke="#0D1660" stroke-width="2"/>
+  <circle cx="32" cy="25" r="8" fill="#FFFFFF"/>
+  <circle cx="32" cy="25" r="4" fill="#FF6B35"/>
+</svg>

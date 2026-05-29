@@ -1,0 +1,89 @@
+/* ═══════════════════════════════════════════════════════════════
+   theme.css — sector-agnostische CSS-variabelen.
+   Alle waarden worden runtime gevuld door js/sector-bootstrap.js
+   op basis van sector.config.json. Pas hier alleen FALLBACKS aan.
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  /* Brand-tokens (worden overschreven door bootstrap) */
+  --brand-primary:      #1A237E;
+  --brand-primary-dark: #0D1660;
+  --brand-accent:       #FF6B35;
+  --brand-secondary:    #37474F;
+  --brand-light:        #ECEFF1;
+  --brand-dark:         #102027;
+
+  /* Semantische surface/text */
+  --color-surface:      #FFFFFF;
+  --color-text:         #102027;
+  --color-text-muted:   #546E7A;
+  --color-border:       #CFD8DC;
+
+  /* Status-kleuren */
+  --color-fav:          #FFC107;
+  --color-twijfel:      #FB8C00;
+  --color-niet:         #E53935;
+
+  /* Typografie */
+  --font-body:    'Inter', -apple-system, system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', 'Consolas', monospace;
+  --font-display: 'Inter', -apple-system, sans-serif;
+
+  /* Categorie-kleuren (worden door bootstrap toegevoegd als --cat-<id>) */
+  /* Voorbeeld na laden: --cat-plaatser, --cat-verkoper, etc. */
+
+  /* ─── Legacy aliases — zorgt dat overgenomen hout-CSS blijft werken ─── */
+  --timber-900: var(--brand-dark);
+  --timber-800: var(--brand-primary);
+  --timber-700: var(--brand-primary-dark);
+  --timber-600: var(--brand-secondary);
+  --timber-500: var(--brand-secondary);
+  --timber-400: var(--color-text-muted);
+  --timber-300: var(--color-border);
+  --timber-200: var(--color-border);
+  --timber-100: var(--brand-light);
+  --timber-50:  var(--brand-light);
+
+  --forest-700: var(--brand-primary-dark);
+  --forest-600: var(--brand-accent);
+  --forest-500: var(--brand-accent);
+  --forest-400: var(--brand-accent);
+  --forest-300: var(--brand-accent);
+  --forest-200: #ffd6c4;
+  --forest-100: #ffe9de;
+  --forest-50:  #fff5f0;
+
+  --amber-600: #b45309;
+  --amber-500: var(--color-twijfel);
+  --amber-400: #f59e0b;
+  --amber-300: var(--color-fav);
+  --amber-200: #fde68a;
+  --amber-100: #fef3c7;
+
+  --red-600: #9b2c2c;
+  --red-500: var(--color-niet);
+  --red-400: #e53e3e;
+  --red-100: #fff5f5;
+
+  --blue-600: #2563eb;
+  --blue-500: #3b82f6;
+  --blue-100: #eff6ff;
+
+  --slate-900: #1a1a2e;
+  --slate-700: #374151;
+  --slate-600: #4b5563;
+  --slate-500: #6b7280;
+  --slate-400: #9ca3af;
+  --slate-300: #d1d5db;
+  --slate-200: #e5e7eb;
+  --slate-100: #f3f4f6;
+  --slate-50:  #f9fafb;
+
+  --color-primary: var(--brand-primary);
+  --color-accent:  var(--brand-accent);
+  --color-success: var(--brand-accent);
+  --color-warning: var(--color-twijfel);
+  --color-danger:  var(--color-niet);
+  --color-star:    var(--color-fav);
+  --color-bg:      var(--brand-light);
+}
