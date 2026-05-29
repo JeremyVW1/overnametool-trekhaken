@@ -42,14 +42,31 @@ SPECIALIST_TERMS = re.compile(
     re.IGNORECASE,
 )
 
+# Trekhaak-OEM-merken: bedrijven die deze voeren = zeker trekhaak-plaatsing
+TREKHAAK_OEM = {
+    "brink", "gdw", "westfalia", "bosal", "oris", "acps", "sawiko",
+    "al-ko", "al ko", "thule", "steinhof", "autohak", "mvg", "aceko", "vezeko",
+}
+# Aanhangwagen-merken: dealer = waarschijnlijk ook trekhaak-plaatsing
+AANHANG_MERKEN = {
+    "saris", "hapert", "humbaur", "anssems", "brenderup", "ifor williams",
+    "eduard", "variant", "pongratz", "stema", "henra", "vlemmix", "wm-meyer",
+    "vezeko", "dgs", "tijhof",
+}
+# Caravan/kampeerauto-only merken: zonder trekhaak-/aanhang-merk = GEEN trekhaak-focus
+CARAVAN_ONLY_MERKEN = {
+    "hobby", "fendt", "knaus", "tabbert", "hymer", "dethleffs", "adria",
+    "pilote", "chausson", "lmc", "sterckeman", "eriba", "bürstner", "burstner",
+    "weinsberg", "carado", "challenger",
+}
+CARAVAN_INFO_TERMS = re.compile(
+    r"motorhome|kampeerauto|wohnmobil|camper(?!\s)|caravan",
+    re.IGNORECASE,
+)
+
 RETAIL_KETENS = {
-    "norauto",
-    "halfords",
-    "auto5",
-    "feu vert",
-    "feuvert",
-    "kwik-fit",
-    "kwikfit",
+    "norauto", "halfords", "auto5", "feu vert", "feuvert",
+    "kwik-fit", "kwikfit",
 }
 
 
@@ -166,38 +183,86 @@ def merge_fields(target: dict, new: dict) -> None:
             target[k] = v
 
 
-def categorie_for_new_record(r: dict) -> str:
-    """Bepaal categorie voor een nieuw record."""
+HOOG_KETENS = {
+    "auto5", "norauto", "midas", "bosch car service", "boschcarservice",
+    "quickly", "eurorepar",
+}
+HOOG_OEM_BRONNEN = {
+    "brink_dealer_locator", "gdw_dealer", "westfalia_partner",
+    "bosal_dealer", "oris_dealer", "acps_partner", "sawiko_dealer",
+    "al_ko_dealer", "thule_dealer",
+    "wave6c_norauto_auto5", "wave6c_midas", "wave6c_bosch_car_service",
+    "wave6c_quickly",
+}
+
+
+def assess_trekhaak_zekerheid(r: dict) -> tuple[str, str]:
+    """Bepaal (zekerheid, reden) voor of dit bedrijf echt trekhaken plaatst.
+
+    zekerheid: 'hoog' | 'midden' | 'laag'
+    """
+    naam = (r.get("naam") or "").lower()
+    info = (r.get("info") or "").lower()
+    website = (r.get("website") or "").lower()
+    merken_lc = [(m or "").lower() for m in (r.get("gevoerde_merken") or [])
+                 + (r.get("merken_gevoerd") or [])]
+    bron = [(b or "").lower() for b in (r.get("bron") or [])]
+    keten = (r.get("keten") or "").lower().strip()
+    blob = f"{naam} {info} {website}"
+
+    # HOOG: trekhaak-term in naam/website/info (matcht ook trekhake/trekhaken/trekhakencenter)
+    if re.search(
+        r"trekhaak|trekhake|trekhaken|towbar|attelage|attache.?remorque"
+        r"|anh(a|ae|ä)ngerkupplung|kupplung",
+        blob,
+    ):
+        return "hoog", "trekhaak-term in naam/website/info"
+    if any(any(t in m for t in TREKHAAK_OEM) for m in merken_lc):
+        return "hoog", "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
+    if any(b in HOOG_OEM_BRONNEN for b in bron):
+        return "hoog", "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod"
+    if keten in HOOG_KETENS:
+        return "hoog", f"keten {keten} met bevestigd trekhaak-installatie-aanbod"
+
+    # MIDDEN: aanhangwagen-merk of aanhang/remorque in naam
+    if re.search(r"aanhang|remorque|trailer(?!\.)|attache", blob):
+        return "midden", "aanhang/remorque/trailer term in naam"
+    if any(m in AANHANG_MERKEN for m in merken_lc):
+        return "midden", "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+
+    # LAAG: pure caravan/kampeerauto zonder trekhaak/aanhang signaal
+    if any(m in CARAVAN_ONLY_MERKEN for m in merken_lc) or CARAVAN_INFO_TERMS.search(blob):
+        return "laag", "caravan/kampeerauto zonder trekhaak-signaal"
+
+    # Default: laag
+    return "laag", "geen expliciete trekhaak-indicatie"
+
+
+def categorie_for_new_record(r: dict, zekerheid: str) -> str:
+    """Bepaal categorie voor een nieuw record gebaseerd op hint + zekerheid."""
     hint = (r.get("categorie_hint") or "").lower().strip()
-    if hint in {"plaatser", "plaatsers"}:
-        return "plaatsers"
-    if hint in {"verkoper", "verkopers"}:
-        return "verkopers"
+
+    # Expliciete overrides eerst
     if hint in {"distributeur", "distributeurs"}:
         return "distributeurs"
-    if hint in {"alle_garage", "alle_garages", "garage"}:
-        return "alle_garages"
+    if hint in {"verkoper", "verkopers"}:
+        return "verkopers"
 
     # Keten = retail = verkoper
     keten = (r.get("keten") or "").lower().strip()
     if keten in RETAIL_KETENS:
         return "verkopers"
 
-    # Naam-patroon
-    text = " ".join(
-        filter(
-            None,
-            [
-                r.get("naam", ""),
-                r.get("website", ""),
-                r.get("info", ""),
-                " ".join(r.get("gevoerde_merken") or []),
-            ],
-        )
-    )
-    if SPECIALIST_TERMS.search(text):
+    # Zekerheid bepaalt of het in plaatsers mag
+    if zekerheid == "hoog":
+        # Hoog = altijd plaatser, ongeacht hint
         return "plaatsers"
-
+    if zekerheid == "midden":
+        # Midden = plaatser ALS hint plaatser is, anders alle_garages
+        if hint in {"plaatser", "plaatsers", "alle_garage", "alle_garages", "garage", ""}:
+            return "plaatsers"
+        return "alle_garages"
+    # Laag = nooit plaatser, altijd alle_garages (caravan/motorhome of generieke garage)
     return "alle_garages"
 
 
@@ -274,9 +339,13 @@ def main() -> None:
                 updates += 1
                 continue
 
+            # Bepaal trekhaak-zekerheid voor classify + tool-display
+            zekerheid, reden = assess_trekhaak_zekerheid(r)
             # Nieuwe record
-            cat = categorie_for_new_record(r)
+            cat = categorie_for_new_record(r, zekerheid)
             new = dict(r)
+            new["trekhaak_zekerheid"] = zekerheid
+            new["zekerheid_reden"] = reden
             new["primaire_categorie"] = (
                 "plaatser"
                 if cat == "plaatsers"
@@ -305,6 +374,16 @@ def main() -> None:
             if n:
                 indexes_by_cat[cat][("np", n, p)] = (cat, new)
 
+    # Final pass: zorg dat ELK record een trekhaak_zekerheid heeft (ook bestaande)
+    zekerheid_stats = {"hoog": 0, "midden": 0, "laag": 0}
+    for cat_name, lst in cats_lists.items():
+        for r in lst:
+            if not r.get("trekhaak_zekerheid"):
+                z, reden = assess_trekhaak_zekerheid(r)
+                r["trekhaak_zekerheid"] = z
+                r["zekerheid_reden"] = reden
+            zekerheid_stats[r["trekhaak_zekerheid"]] += 1
+
     for name, lst in cats_lists.items():
         save_json(os.path.join(DATA, f"{name}.json"), lst)
 
@@ -328,6 +407,11 @@ def main() -> None:
     print(f"  distributeurs.json:  {len(distrs)}")
     print(f"  alle_garages.json:   {len(alle_garages)}")
     print(f"  TOTAAL:              {sum(len(l) for l in cats_lists.values())}")
+    print()
+    print("Trekhaak-zekerheid spreiding (alle 4 categorien):")
+    print(f"  hoog:    {zekerheid_stats['hoog']}")
+    print(f"  midden:  {zekerheid_stats['midden']}")
+    print(f"  laag:    {zekerheid_stats['laag']}")
 
 
 if __name__ == "__main__":

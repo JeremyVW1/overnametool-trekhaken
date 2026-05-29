@@ -53,6 +53,9 @@
         sortAsc: true,
         search: "",
         kolomFilters: {},
+        // Default: voor plaatsers tonen we ALLES (hoog/midden/laag).
+        // Voor andere tabs ook alles.
+        zekFilter: new Set(["hoog", "midden", "laag"]),
       };
 
       const view = document.createElement("div");
@@ -72,6 +75,12 @@
         <div class="analyse-toolbar cat-toolbar">
           <div class="analyse-search-wrap">
             <input type="text" class="cat-search" data-cat="${cat.id}" placeholder="Zoek (naam, adres, BTW, website…)" autocomplete="off"/>
+          </div>
+          <div class="zekerheid-filter" title="Filter op trekhaak-zekerheid (✓ trekhaken bevestigd / ~ aanhang-dealer / ? niet bevestigd)">
+            <span>Trekhaak:</span>
+            <button class="zek-filter-btn on" data-cat="${cat.id}" data-zek="hoog" title="Bevestigd trekhaak-aanbod">✓ Hoog</button>
+            <button class="zek-filter-btn on" data-cat="${cat.id}" data-zek="midden" title="Aanhang-dealer, doet meestal trekhaken">~ Midden</button>
+            <button class="zek-filter-btn on" data-cat="${cat.id}" data-zek="laag" title="Geen trekhaak-aanbod bevestigd">? Laag</button>
           </div>
           <div class="analyse-actions">
             <button class="analyse-btn cat-reset" data-cat="${cat.id}" title="Reset alle filters in deze tab">↺ Reset</button>
@@ -143,6 +152,21 @@
       }
       if (t.classList.contains("cat-export")) exportCategorieCSV(t.dataset.cat);
       if (t.classList.contains("cat-reset"))  resetCategorieFilters(t.dataset.cat);
+      if (t.classList.contains("zek-filter-btn")) {
+        const catId = t.dataset.cat;
+        const zek = t.dataset.zek;
+        const st = tabState[catId];
+        if (st && zek) {
+          if (st.zekFilter.has(zek)) {
+            st.zekFilter.delete(zek);
+            t.classList.remove("on");
+          } else {
+            st.zekFilter.add(zek);
+            t.classList.add("on");
+          }
+          renderCategorieRows(catId);
+        }
+      }
     });
   }
 
@@ -198,10 +222,12 @@
     st.sortAsc = true;
     st.search = "";
     st.kolomFilters = {};
+    st.zekFilter = new Set(["hoog", "midden", "laag"]);
     const view = document.getElementById(`cat-${catId}-view`);
     if (view) {
       view.querySelectorAll(".cat-search, .cat-filter-input").forEach(el => el.value = "");
       view.querySelectorAll(".cat-filter-select").forEach(el => el.value = "");
+      view.querySelectorAll(".zek-filter-btn").forEach(el => el.classList.add("on"));
     }
     renderCategorieRows(catId);
   }
@@ -223,6 +249,11 @@
 
     // Filter
     const filtered = inCat.filter(b => {
+      // Trekhaak-zekerheid filter
+      if (st.zekFilter && st.zekFilter.size < 3) {
+        const z = b.trekhaak_zekerheid || "laag";
+        if (!st.zekFilter.has(z)) return false;
+      }
       if (st.search) {
         const lq = st.search.toLowerCase().trim();
         const hay = [b.naam, b.adres, b.btw, b.kvk, b.website, b.plaats, b.info].filter(Boolean).join(" ").toLowerCase();
@@ -340,10 +371,21 @@
       ? `<a href="${b.website.startsWith("http") ? b.website : "https://" + b.website}" target="_blank" rel="noopener">🌐 ${escapeHtml(b.website)}</a>`
       : "—";
 
+    // ─── Trekhaak-zekerheid badge ───
+    const zek = b.trekhaak_zekerheid;
+    const zekTitle = b.zekerheid_reden ? `Zekerheid: ${zek} — ${b.zekerheid_reden}` : `Zekerheid: ${zek}`;
+    const zekBadge = zek === "hoog"
+      ? `<span class="zek-badge zek-hoog" title="${escapeHtml(zekTitle)}">✓</span>`
+      : zek === "midden"
+      ? `<span class="zek-badge zek-midden" title="${escapeHtml(zekTitle)}">~</span>`
+      : zek === "laag"
+      ? `<span class="zek-badge zek-laag" title="${escapeHtml(zekTitle)}">?</span>`
+      : "";
+
     return `
-      <tr>
+      <tr data-zekerheid="${zek || ''}">
         <td>${statusHtml}</td>
-        <td><a class="open-detail" data-naam="${escapeHtml(b.naam || "")}" href="#" title="Toon details">${escapeHtml(b.naam || "")}</a></td>
+        <td><a class="open-detail" data-naam="${escapeHtml(b.naam || "")}" href="#" title="Toon details">${escapeHtml(b.naam || "")}</a> ${zekBadge}</td>
         <td>${escapeHtml(land)}</td>
         <td>${escapeHtml(prov)}</td>
         <td>${escapeHtml(b.grootte || "")}</td>

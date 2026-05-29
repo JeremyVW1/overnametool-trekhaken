@@ -7,7 +7,7 @@
 let markers = [];
 const allMarkers = new Map(); // naam → { marker, company }
 
-function makeIcon(col, r, isGroot, isFav, isOr, isRd) {
+function makeIcon(col, r, isGroot, isFav, isOr, isRd, zekerheid) {
   const s = r * 2 + 8;
   const ring = isGroot
     ? `<circle cx="${s / 2}" cy="${s / 2}" r="${r + 4}" fill="none" stroke="${col}" stroke-width="1.5" opacity="0.28"/>`
@@ -27,8 +27,20 @@ function makeIcon(col, r, isGroot, isFav, isOr, isRd) {
     stroke = "#FFC107"; strokeW = 2.5;
   }
 
+  // Trekhaak-zekerheid: laag = gestippelde rand + lagere opacity
+  // midden = full ring blijft, hoog = full (default)
+  let dasharray = "";
+  let fillOpacity = 0.93;
+  if (zekerheid === "laag") {
+    dasharray = ` stroke-dasharray="2 2"`;
+    fillOpacity = 0.55;
+  } else if (zekerheid === "midden") {
+    dasharray = ` stroke-dasharray="4 2"`;
+    fillOpacity = 0.78;
+  }
+
   return L.divIcon({
-    html: `<svg xmlns="http://www.w3.org/2000/svg" width="${s}" height="${s}">${ring}${statusRing}<circle cx="${s / 2}" cy="${s / 2}" r="${r}" fill="${col}" stroke="${stroke}" stroke-width="${strokeW}" opacity="0.93"/></svg>`,
+    html: `<svg xmlns="http://www.w3.org/2000/svg" width="${s}" height="${s}">${ring}${statusRing}<circle cx="${s / 2}" cy="${s / 2}" r="${r}" fill="${col}" stroke="${stroke}" stroke-width="${strokeW}"${dasharray} opacity="${fillOpacity}"/></svg>`,
     className: "",
     iconSize: [s, s],
     iconAnchor: [s / 2, s / 2],
@@ -147,7 +159,7 @@ function createAllMarkers() {
     const col = getCategorieColor(c);
     const r = GROOTTE_RADIUS[c.grootte] || 7;
     const m = L.marker([c.lat, c.lng], {
-      icon: makeIcon(col, r, c.grootte === "Groot", isFavorite(c.naam), isOrange(c.naam), isRed(c.naam))
+      icon: makeIcon(col, r, c.grootte === "Groot", isFavorite(c.naam), isOrange(c.naam), isRed(c.naam), c.trekhaak_zekerheid)
     });
     m.bindPopup(() => buildPopup(c), { maxWidth: 320 });
     allMarkers.set(c.naam, { marker: m, company: c });
@@ -174,7 +186,7 @@ function refreshMarkerIcon(naam) {
   const c = entry.company;
   const col = getCategorieColor(c);
   const r = GROOTTE_RADIUS[c.grootte] || 7;
-  entry.marker.setIcon(makeIcon(col, r, c.grootte === "Groot", isFavorite(naam), isOrange(naam), isRed(naam)));
+  entry.marker.setIcon(makeIcon(col, r, c.grootte === "Groot", isFavorite(naam), isOrange(naam), isRed(naam), c.trekhaak_zekerheid));
 }
 
 window.createAllMarkers = createAllMarkers;

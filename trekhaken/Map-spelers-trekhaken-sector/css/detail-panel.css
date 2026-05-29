@@ -289,3 +289,46 @@
     font-size: 18px;
   }
 }
+
+/* ─── Trekhaak-zekerheid prominently in detail-paneel ─── */
+.dp-zek {
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  border-left: 4px solid;
+}
+.dp-zek-hoog {
+  background: #E8F5E9;
+  border-left-color: #2E7D32;
+  color: #1B5E20;
+}
+.dp-zek-midden {
+  background: #FFF8E1;
+  border-left-color: #F9A825;
+  color: #6D4C00;
+}
+.dp-zek-laag {
+  background: #FFEBEE;
+  border-left-color: #C62828;
+  color: #B71C1C;
+}
+.dp-zek-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.dp-zek-marker {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.dp-zek-label {
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+.dp-zek-reden {
+  font-size: 12px;
+  opacity: 0.85;
+}

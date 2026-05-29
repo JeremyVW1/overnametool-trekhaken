@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "naam": "Garage Tim Crabbe",
     "plaats": "Bornem",
@@ -31,7 +31,9 @@
     "cw_jaar": 2021,
     "bizzy_ebitda": 45400,
     "oprichting": "2008",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "MV Custom",
@@ -56,7 +58,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9406957,
-    "lng": 5.1659696
+    "lng": 5.1659696,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Jansens-Geerlink",
@@ -81,7 +85,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.328932,
-    "lng": 4.9299924
+    "lng": 4.9299924,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Haverbeke",
@@ -106,7 +112,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9449511,
-    "lng": 3.1243935
+    "lng": 3.1243935,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Reusch",
@@ -131,7 +139,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.3349273,
-    "lng": 6.0431296
+    "lng": 6.0431296,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Van Vooren - Lucar bvba",
@@ -146,24 +156,31 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
-    "merken_gevoerd": [],
-    "info": "",
+    "merken_gevoerd": [
+      "Thule"
+    ],
+    "info": "Thule specialist, trekhaken montage, 25 jaar ervaring, verhuur fietsendragers",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1869052,
-    "lng": 3.6834217
+    "lng": 3.6834217,
+    "google_maps_url": "https://maps.google.com/?q=Lucar+Abdijstraat+14+Oosteeklo",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Auto Center Gent",
     "plaats": "Gent",
     "land": "BE",
     "provincie": "ovl",
-    "adres": null,
+    "adres": "Industrieweg 122/L, 9032 Wondelgem (Gent)",
     "telefoon": "0487 54 58 42",
     "website": "autocentergent.com",
     "categorieen": [
@@ -171,24 +188,28 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6b_google_maps"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "10 jaar ervaring, 2.700+ voertuigen. Diagnose, onderhoud, trekhaken, chiptuning. Zelfde dag op afspraak.",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0538286,
-    "lng": 3.7250121
+    "lng": 3.7250121,
+    "google_maps_url": "https://maps.google.com/?q=Autocenter+Gent+Industrieweg+122+Wondelgem",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Bosch Car Service Gavaro",
     "plaats": "Antwerpen",
     "land": "BE",
     "provincie": "ant",
-    "adres": null,
+    "adres": "Belgium (adres niet gevonden in scrape)",
     "telefoon": "035449436",
     "website": "garagegavaro.be",
     "categorieen": [
@@ -196,17 +217,22 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6c_bosch_car_service"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Bosch Car Service dealer in BE-netwerk. Adres vereist vervolgonderzoek.",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2211097,
-    "lng": 4.3997081
+    "lng": 4.3997081,
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod"
   },
   {
     "naam": "BUROPORT",
@@ -240,7 +266,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9386033,
-    "lng": 4.0210902
+    "lng": 4.0210902,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Euro Car Center",
@@ -265,7 +293,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0347902,
-    "lng": 3.7545452
+    "lng": 3.7545452,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Coppens Auto-Products",
@@ -290,7 +320,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0413676,
-    "lng": 3.7419932
+    "lng": 3.7419932,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Dupontseel Guido",
@@ -315,7 +347,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0778933,
-    "lng": 3.7822504
+    "lng": 3.7822504,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Brittannia",
@@ -340,7 +374,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0778933,
-    "lng": 3.7822504
+    "lng": 3.7822504,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Bodemmakerij De Stoop en Co",
@@ -365,7 +401,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0590127,
-    "lng": 3.7484706
+    "lng": 3.7484706,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Auto's Van Wassenhove",
@@ -390,7 +428,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9853589,
-    "lng": 3.7976663
+    "lng": 3.7976663,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autocrew VLB Cars",
@@ -415,7 +455,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.986295,
-    "lng": 3.8459433
+    "lng": 3.8459433,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "LO AUTO",
@@ -440,7 +482,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0925594,
-    "lng": 3.8210996
+    "lng": 3.8210996,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Gent Motors",
@@ -465,7 +509,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0334725,
-    "lng": 3.724989
+    "lng": 3.724989,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Laureyns Tom Garage",
@@ -490,7 +536,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0787138,
-    "lng": 3.7183822
+    "lng": 3.7183822,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Sonny / Auto's Meganck-Haegeman",
@@ -515,7 +563,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.959009,
-    "lng": 3.7793859
+    "lng": 3.7793859,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage De Pourcq",
@@ -540,7 +590,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0766566,
-    "lng": 3.6932569
+    "lng": 3.6932569,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Sylvain Sedeyn & Zoon",
@@ -565,7 +617,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9601689,
-    "lng": 3.6992058
+    "lng": 3.6992058,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "The Camping Store",
@@ -590,7 +644,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.105691,
-    "lng": 3.6782417
+    "lng": 3.6782417,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Hedin Automotive Sint-Martens-Latem",
@@ -615,7 +671,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0107918,
-    "lng": 3.6358748
+    "lng": 3.6358748,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "KP Autoservice",
@@ -631,17 +689,20 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "goudengids_wvl_2026_05_29"
+      "goudengids_wvl_2026_05_29",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Garage West-Vlaanderen met trekhaken service",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0183803,
-    "lng": 3.1126116
+    "lng": 3.1126116,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Salens Motors Roeselare",
@@ -667,7 +728,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9930746,
-    "lng": 3.1175672
+    "lng": 3.1175672,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "DP Auto",
@@ -692,7 +755,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9816261,
-    "lng": 3.1189294
+    "lng": 3.1189294,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Triforce / Debussere",
@@ -717,7 +782,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9613057,
-    "lng": 3.0444473
+    "lng": 3.0444473,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Hans Depla",
@@ -742,7 +809,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9718183,
-    "lng": 3.1499633
+    "lng": 3.1499633,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Automobilia & Co Volvo",
@@ -767,7 +836,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9269805,
-    "lng": 3.110338
+    "lng": 3.110338,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Heyndrickx Honda",
@@ -792,7 +863,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9246339,
-    "lng": 3.1185845
+    "lng": 3.1185845,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "MCars",
@@ -817,7 +890,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9215569,
-    "lng": 3.1398323
+    "lng": 3.1398323,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Dezutter West",
@@ -842,7 +917,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0273251,
-    "lng": 2.8896183
+    "lng": 2.8896183,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "D.C.V. Motors",
@@ -867,7 +944,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1215151,
-    "lng": 3.0342354
+    "lng": 3.0342354,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "JCS Cars",
@@ -892,7 +971,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1121263,
-    "lng": 3.1408394
+    "lng": 3.1408394,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Pattyn-Arickx Dries",
@@ -917,7 +998,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9342746,
-    "lng": 3.1898363
+    "lng": 3.1898363,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Mesure Frank",
@@ -942,7 +1025,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.94448,
-    "lng": 3.2042729
+    "lng": 3.2042729,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "MyCar Zedelgem",
@@ -967,7 +1052,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1186546,
-    "lng": 3.1462956
+    "lng": 3.1462956,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Automobilia Trucks & Cars / Volvo-Nissan Pittem",
@@ -992,7 +1079,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9899247,
-    "lng": 3.2485586
+    "lng": 3.2485586,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Cappon Gerard",
@@ -1017,7 +1106,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0217655,
-    "lng": 2.8574615
+    "lng": 2.8574615,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Massenhove Marc",
@@ -1042,7 +1133,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1370928,
-    "lng": 3.025148
+    "lng": 3.025148,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autoservice Bilzen",
@@ -1067,7 +1160,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8717578,
-    "lng": 5.5302165
+    "lng": 5.5302165,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Verheyen Joeri",
@@ -1092,7 +1187,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0881501,
-    "lng": 5.6187522
+    "lng": 5.6187522,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Auto's Avni",
@@ -1117,7 +1214,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9902441,
-    "lng": 5.4988959
+    "lng": 5.4988959,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "NeoBouw",
@@ -1142,7 +1241,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9722176,
-    "lng": 5.3616657
+    "lng": 5.3616657,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Bos Christiane / Bos Thonsport",
@@ -1167,7 +1268,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0320619,
-    "lng": 5.3764316
+    "lng": 5.3764316,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Diacar",
@@ -1192,7 +1295,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9462144,
-    "lng": 5.4755679
+    "lng": 5.4755679,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "NNP Automotive Group",
@@ -1217,7 +1322,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9273796,
-    "lng": 5.4801271
+    "lng": 5.4801271,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Driesen",
@@ -1242,7 +1349,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.917066,
-    "lng": 5.5026474
+    "lng": 5.5026474,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "V.J.B. Motors",
@@ -1267,7 +1376,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9135045,
-    "lng": 5.3375684
+    "lng": 5.3375684,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autoshop Van den Eynde",
@@ -1292,7 +1403,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0343503,
-    "lng": 5.250184
+    "lng": 5.250184,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "CarCenter Poelmans",
@@ -1317,7 +1430,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0564292,
-    "lng": 5.2615343
+    "lng": 5.2615343,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Winimotors",
@@ -1342,7 +1457,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1315527,
-    "lng": 5.4382434
+    "lng": 5.4382434,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Gofflo",
@@ -1367,7 +1484,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1090226,
-    "lng": 5.5907373
+    "lng": 5.5907373,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Claes Pierre en Eddy / Mercedes Claes",
@@ -1392,7 +1511,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8974379,
-    "lng": 5.223689
+    "lng": 5.223689,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Comhair Autohandel",
@@ -1417,7 +1538,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8341454,
-    "lng": 5.4759417
+    "lng": 5.4759417,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Auto+ Maasmechelen",
@@ -1442,7 +1565,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9603924,
-    "lng": 5.6941434
+    "lng": 5.6941434,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Limburgse Auto-onderdelen (LAO)",
@@ -1467,7 +1592,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1255068,
-    "lng": 5.2543518
+    "lng": 5.2543518,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Piessens Racing Shop",
@@ -1492,7 +1619,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1894487,
-    "lng": 4.3861626
+    "lng": 4.3861626,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Trentmotor Texaco",
@@ -1517,7 +1646,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1870422,
-    "lng": 4.4307284
+    "lng": 4.4307284,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Kenis Antwerpen (Renault)",
@@ -1542,7 +1673,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2575262,
-    "lng": 4.4190509
+    "lng": 4.4190509,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "B & C BMW",
@@ -1567,7 +1700,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2482743,
-    "lng": 4.4505556
+    "lng": 4.4505556,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Ataf Antwerpen",
@@ -1583,17 +1718,20 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "goudengids_ant_2026_05_29"
+      "goudengids_ant_2026_05_29",
+      "wave6a_pagesdor"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Garage met trekhaken als dienst",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1699507,
-    "lng": 4.3638816
+    "lng": 4.3638816,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "VMF Deurne / Denayer",
@@ -1618,7 +1756,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2353137,
-    "lng": 4.4727075
+    "lng": 4.4727075,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Ludo Van de Peer",
@@ -1634,17 +1774,20 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "goudengids_ant_2026_05_29"
+      "goudengids_ant_2026_05_29",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Garage Zandhoven met trekhaken service",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.208092,
-    "lng": 4.6618518
+    "lng": 4.6618518,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "A-Altra / Sevenhans",
@@ -1659,17 +1802,20 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6a_pagesdor"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Garage Schilde met trekhaak montage",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2531181,
-    "lng": 4.6131375
+    "lng": 4.6131375,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Auto's Tom Mertens",
@@ -1695,7 +1841,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1868786,
-    "lng": 4.6289087
+    "lng": 4.6289087,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Van Doninck Hans",
@@ -1720,7 +1868,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1620915,
-    "lng": 4.8213929
+    "lng": 4.8213929,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Hedin Automotive Schilde (Mercedes)",
@@ -1745,7 +1895,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2317213,
-    "lng": 4.5551418
+    "lng": 4.5551418,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Daneels",
@@ -1770,7 +1922,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1291191,
-    "lng": 4.7606477
+    "lng": 4.7606477,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Bandenservice Maco",
@@ -1796,7 +1950,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.3489215,
-    "lng": 4.6719127
+    "lng": 4.6719127,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "PAUWELS BART",
@@ -1817,7 +1973,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9270128,
-    "lng": 4.6371681
+    "lng": 4.6371681,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Danny",
@@ -1838,7 +1996,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.895185,
-    "lng": 4.6880129
+    "lng": 4.6880129,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "PERK MOTORS",
@@ -1859,7 +2019,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9559175,
-    "lng": 4.4971995
+    "lng": 4.4971995,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "ACB",
@@ -1880,7 +2042,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8493282,
-    "lng": 4.7195774
+    "lng": 4.7195774,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "DE ROOVER EN ZONEN",
@@ -1901,7 +2065,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8677528,
-    "lng": 4.7391828
+    "lng": 4.7391828,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AUTO'S KOEN",
@@ -1922,7 +2088,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9241157,
-    "lng": 4.7214349
+    "lng": 4.7214349,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "STAR REPAIR",
@@ -1943,7 +2111,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9745384,
-    "lng": 4.5624407
+    "lng": 4.5624407,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "MAXEL 2004",
@@ -1964,7 +2134,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9512043,
-    "lng": 4.7119393
+    "lng": 4.7119393,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GARAGE FEYAERTS",
@@ -1985,7 +2157,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9797918,
-    "lng": 4.6394534
+    "lng": 4.6394534,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AUTOMOTIVE BELGIAN COMPANY",
@@ -2006,7 +2180,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9086819,
-    "lng": 4.4136973
+    "lng": 4.4136973,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "S.E.T. TUNING",
@@ -2027,7 +2203,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9555316,
-    "lng": 4.4533021
+    "lng": 4.4533021,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Vilvoords Uitlaatcenter",
@@ -2036,19 +2214,25 @@
     "plaats": "Vilvoorde",
     "adres": "Den Haeckstraat 3, 1800 Vilvoorde",
     "telefoon": "+3222521122",
-    "website": "",
+    "website": "https://www.vilvoordsuitlaatcenter.be",
     "btw": null,
     "categorieen": [
       "alle_garages"
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9348395,
-    "lng": 4.4263322
+    "lng": 4.4263322,
+    "info": "30 jaar specialist trekhaken en uitlaten Vilvoorde, plaatsen en vervangen",
+    "google_maps_url": "https://maps.google.com/?q=Vilvoords+Uitlaatcenter+Den+Haeckstraat+3+Vilvoorde",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Garage Luytens Dirk",
@@ -2069,7 +2253,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.990897,
-    "lng": 4.5383505
+    "lng": 4.5383505,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GARAGE AMEEL",
@@ -2090,7 +2276,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8015497,
-    "lng": 4.4205139
+    "lng": 4.4205139,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autocenter De Rudder",
@@ -2119,7 +2307,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7668597,
-    "lng": 4.4659445
+    "lng": 4.4659445,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "FIRMA DE COCK",
@@ -2140,7 +2330,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8933265,
-    "lng": 4.7981636
+    "lng": 4.7981636,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "BC MOTOR",
@@ -2169,7 +2361,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8408418,
-    "lng": 4.3281977
+    "lng": 4.3281977,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AUTO-IMMO JABBOUR",
@@ -2190,7 +2384,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8660119,
-    "lng": 4.2661809
+    "lng": 4.2661809,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Cardoen Vilvoorde",
@@ -2211,7 +2407,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9368543,
-    "lng": 4.4325359
+    "lng": 4.4325359,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autopro",
@@ -2232,7 +2430,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4140305,
-    "lng": 4.160352
+    "lng": 4.160352,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AJM FRAMERIES",
@@ -2253,7 +2453,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4130554,
-    "lng": 3.9271126
+    "lng": 3.9271126,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GARAGE PISCINA",
@@ -2272,7 +2474,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "TZmotors",
@@ -2293,7 +2497,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4570362,
-    "lng": 4.1210963
+    "lng": 4.1210963,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Sutera Cars",
@@ -2314,7 +2520,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4657958,
-    "lng": 4.202078
+    "lng": 4.202078,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "DYNA MOTORS",
@@ -2345,7 +2553,9 @@
     "bizzy_ebitda": 80900,
     "oprichting": "1976",
     "financials_bron": "pappers.be",
-    "info": "50 jaar bedrijf. Brutomarge% 35,8%. Ecaussinnes (HAI)."
+    "info": "50 jaar bedrijf. Brutomarge% 35,8%. Ecaussinnes (HAI).",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Caramanna Carmelo",
@@ -2366,7 +2576,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.3886084,
-    "lng": 3.7141503
+    "lng": 3.7141503,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Universal Pneu",
@@ -2387,7 +2599,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4680925,
-    "lng": 3.9576469
+    "lng": 3.9576469,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "IMMOBAT.BE",
@@ -2408,7 +2622,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4287408,
-    "lng": 3.792023
+    "lng": 3.792023,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Amsi",
@@ -2429,7 +2645,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4220349,
-    "lng": 4.1226312
+    "lng": 4.1226312,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "MBE Auto Pieces Services",
@@ -2445,12 +2663,16 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4015528,
-    "lng": 4.478455
+    "lng": 4.478455,
+    "info": "Kleine familiebedrijf specialist attaches remorques en specifieke bedrading Charleroi",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "LOCAMAT-LOCASOL",
@@ -2471,7 +2693,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4050852,
-    "lng": 4.4982981
+    "lng": 4.4982981,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "ETABLISSEMENTS PATER ET CIE",
@@ -2492,7 +2716,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4461886,
-    "lng": 4.3405671
+    "lng": 4.3405671,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AUTO KIT ABELOOS",
@@ -2513,7 +2739,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4069143,
-    "lng": 4.3199648
+    "lng": 4.3199648,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "RADDIX",
@@ -2534,7 +2762,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.35972,
-    "lng": 4.2790327
+    "lng": 4.2790327,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Comptoir du Pneu Ghlin",
@@ -2555,7 +2785,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4765054,
-    "lng": 3.863676
+    "lng": 3.863676,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Profile Tyrecenter Forrez",
@@ -2583,7 +2815,9 @@
     "oprichting": "2005",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GHISTELINCK AUTOBEDRIJVEN MOUSCRON",
@@ -2613,7 +2847,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7566623,
-    "lng": 3.1934305
+    "lng": 3.1934305,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Centrauto Sport",
@@ -2642,7 +2878,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6362113,
-    "lng": 5.5798327
+    "lng": 5.5798327,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Nadin Mathonet",
@@ -2672,7 +2910,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6302921,
-    "lng": 5.5820349
+    "lng": 5.5820349,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Attaches Consult",
@@ -2688,12 +2928,23 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.620382,
-    "lng": 5.830985
+    "lng": 5.830985,
+    "info": "Specialist verkoop en montage vast/afneembaar/intrekbaar, industriezone Verviers, 27 reviews 4.3/5",
+    "merken_gevoerd": [
+      "GDW",
+      "ACEKO",
+      "Twinny Load"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Attaches+Consult+Rue+de+Battice+52+Verviers",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Carrera Cars Concept",
@@ -2723,7 +2974,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6572779,
-    "lng": 5.626338
+    "lng": 5.626338,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GE.NI.CO",
@@ -2747,7 +3000,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6535733,
-    "lng": 5.6022003
+    "lng": 5.6022003,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Car Alliance Eupen",
@@ -2768,7 +3023,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6391649,
-    "lng": 6.015769
+    "lng": 6.015769,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "CM Auto",
@@ -2784,12 +3041,20 @@
     ],
     "primaire_categorie": "alle_garages",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.697397,
-    "lng": 5.970172
+    "lng": 5.970172,
+    "info": "Garage op menselijke maat Montzen, vente + pose attaches remorque, Mercedes specialist",
+    "merken_gevoerd": [
+      "Thule",
+      "Bosal"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Autogamma Services",
@@ -2818,7 +3083,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6576115,
-    "lng": 5.5318057
+    "lng": 5.5318057,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Marrazza",
@@ -2839,7 +3106,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4400158,
-    "lng": 4.9083217
+    "lng": 4.9083217,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "B.E.J. CAR",
@@ -2860,7 +3129,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.5026492,
-    "lng": 4.8682748
+    "lng": 4.8682748,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "JTC",
@@ -2881,7 +3152,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.377924,
-    "lng": 4.8675695
+    "lng": 4.8675695,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Devillers Automobiles",
@@ -2902,7 +3175,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.5709197,
-    "lng": 4.8263786
+    "lng": 4.8263786,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "B.M CARS",
@@ -2923,7 +3198,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4228343,
-    "lng": 4.6457793
+    "lng": 4.6457793,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "ANHEE MOTOR SC",
@@ -2944,7 +3221,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.3084776,
-    "lng": 4.8804283
+    "lng": 4.8804283,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "STEVENY",
@@ -2965,7 +3244,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.581922,
-    "lng": 4.7084448
+    "lng": 4.7084448,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Coenen Serge",
@@ -2986,7 +3267,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.5485637,
-    "lng": 4.6597369
+    "lng": 4.6597369,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Pneus Mosan Erpent",
@@ -3007,7 +3290,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4458818,
-    "lng": 4.8979963
+    "lng": 4.8979963,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Pneus Mosan Bouge",
@@ -3015,7 +3300,7 @@
     "provincie": "nam",
     "plaats": "Bouge",
     "adres": "Route de Hannut 34, 5004 Bouge",
-    "telefoon": "",
+    "telefoon": "081 21 10 52",
     "website": "pneus-mosan.be",
     "btw": "BE0401.410.942",
     "categorieen": [
@@ -3024,7 +3309,8 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_pagesdor"
     ],
     "cw_brutomarge": 576000,
     "cw_winst": 68300,
@@ -3036,7 +3322,10 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4701133,
-    "lng": 4.8994721
+    "lng": 4.8994721,
+    "info": "Bandencenter Namen met trekhaken montage, 2 vestigingen (Bouge + Erpent)",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Carrosserie de la Famenne",
@@ -3057,7 +3346,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2188347,
-    "lng": 5.3491126
+    "lng": 5.3491126,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AV MOTORSPORT",
@@ -3083,7 +3374,9 @@
     "oprichting": "1999",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Cockaerts & Co II",
@@ -3114,7 +3407,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6888908,
-    "lng": 4.4058439
+    "lng": 4.4058439,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "FLIES & CO WAVRE",
@@ -3135,7 +3430,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6836833,
-    "lng": 4.4014034
+    "lng": 4.4014034,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "VANSPRINGEL AUTOMOBILES",
@@ -3165,7 +3462,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7202644,
-    "lng": 4.6244483
+    "lng": 4.6244483,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Pneu Vanhamme",
@@ -3186,7 +3485,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.72965,
-    "lng": 4.3982256
+    "lng": 4.3982256,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "ACM GROUP",
@@ -3207,7 +3508,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6960222,
-    "lng": 4.3624679
+    "lng": 4.3624679,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "PROCOTECH",
@@ -3236,7 +3539,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.759963,
-    "lng": 4.3832512
+    "lng": 4.3832512,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AMEC",
@@ -3257,7 +3562,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7352317,
-    "lng": 4.3258955
+    "lng": 4.3258955,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Aarschot",
@@ -3287,7 +3594,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9846649,
-    "lng": 4.8081811
+    "lng": 4.8081811,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Diest",
@@ -3308,7 +3617,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9804145,
-    "lng": 5.0478267
+    "lng": 5.0478267,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Leuven",
@@ -3329,7 +3640,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8988868,
-    "lng": 4.7075717
+    "lng": 4.7075717,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Tienen",
@@ -3350,7 +3663,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7998662,
-    "lng": 4.9621991
+    "lng": 4.9621991,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Sint-Truiden",
@@ -3371,7 +3686,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8141392,
-    "lng": 5.1604756
+    "lng": 5.1604756,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Group Pashuysen Genk",
@@ -3392,7 +3709,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9435401,
-    "lng": 5.4728238
+    "lng": 5.4728238,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "GaragE HTC Hofstade",
@@ -3417,7 +3736,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9986522,
-    "lng": 4.4892798
+    "lng": 4.4892798,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Pascal Autoservice Walem",
@@ -3447,7 +3768,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0650433,
-    "lng": 4.458494
+    "lng": 4.458494,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "A&M Car Services Mechelen",
@@ -3466,7 +3789,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Autorama Hamme NV",
@@ -3496,7 +3821,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0920292,
-    "lng": 4.1412757
+    "lng": 4.1412757,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "AUTO-ONDERDELEN TAS LUC",
@@ -3526,7 +3853,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9440879,
-    "lng": 4.0345551
+    "lng": 4.0345551,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Cornu",
@@ -3556,7 +3885,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.143803,
-    "lng": 4.1749363
+    "lng": 4.1749363,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Van Buynder",
@@ -3585,7 +3916,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1717502,
-    "lng": 4.1253666
+    "lng": 4.1253666,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Willy Notenbaert & Zoon",
@@ -3615,7 +3948,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1768508,
-    "lng": 4.1452604
+    "lng": 4.1452604,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Thibaut-Tech",
@@ -3636,7 +3971,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8191641,
-    "lng": 3.965528
+    "lng": 3.965528,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Janssens-Geerinck",
@@ -3653,7 +3990,9 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "cw_brutomarge": 1300000,
     "cw_winst": 874400,
@@ -3666,7 +4005,15 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.3261595,
-    "lng": 4.9672649
+    "lng": 4.9672649,
+    "merken_gevoerd": [
+      "Bosal",
+      "GDW",
+      "Brink"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Janssens+Geerinck+Noord-Brabantlaan+16+Turnhout",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Snauwaert Autobedrijf",
@@ -3683,7 +4030,9 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "cw_omzet": 345900,
     "cw_brutomarge": 345900,
@@ -3696,7 +4045,11 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2298,
-    "lng": 3.2275446
+    "lng": 3.2275446,
+    "info": "Expert aanhangwagens, trekhaken en autotransporters West-Vlaanderen",
+    "google_maps_url": "https://maps.google.com/?q=Snauwaert+Cars+Dudzeelse+Steenweg+139+Brugge",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "DKW Caravans",
@@ -3713,7 +4066,10 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids",
+      "wave6b_google_maps",
+      "wave6f_google_search"
     ],
     "cw_omzet": 14000000,
     "cw_brutomarge": 3224200,
@@ -3727,7 +4083,20 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8247516,
-    "lng": 3.1728817
+    "lng": 3.1728817,
+    "merken_gevoerd": [
+      "GDW",
+      "Brink",
+      "Thule",
+      "LMC",
+      "Adria",
+      "Hobby",
+      "Fendt",
+      "Dethleffs"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=DKW+Caravans+Roeselarestraat+415+Wevelgem",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "ECURIE ST-ELEUTHERE",
@@ -3748,7 +4117,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6288523,
-    "lng": 3.3046574
+    "lng": 3.3046574,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "SMC Mechelen",
@@ -3769,7 +4140,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0044787,
-    "lng": 4.4743375
+    "lng": 4.4743375,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "CarProf CVF Charleroi",
@@ -3790,7 +4163,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.4168166,
-    "lng": 4.449374
+    "lng": 4.449374,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Pneus Cointe",
@@ -3811,7 +4186,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6251493,
-    "lng": 5.5493805
+    "lng": 5.5493805,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "DEBONNET",
@@ -3832,7 +4209,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.7280808,
-    "lng": 3.4181398
+    "lng": 3.4181398,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Trahere & Vehicula",
@@ -3860,7 +4239,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1234765,
-    "lng": 5.1878177
+    "lng": 5.1878177,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Palmaers Vakhandel NV",
@@ -3885,7 +4266,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8612081,
-    "lng": 5.5034785
+    "lng": 5.5034785,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
   },
   {
     "naam": "Mather Trading BVBA",
@@ -3902,13 +4285,17 @@
       "alle_garages"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9774011,
-    "lng": 3.2187513
+    "lng": 3.2187513,
+    "info": "Eduard dealer West-Vlaanderen regio Ardooie. Kleine aanhangwagen specialist.",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "RPV Vanpevenaeyge SPRL",
@@ -3925,13 +4312,17 @@
       "alle_garages"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.740164,
-    "lng": 3.5281137
+    "lng": 3.5281137,
+    "info": "Eduard dealer regio Ronse/Lessines (Henegouwen). Kleine aanhangwagen specialist.",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "ACT Mettet",
@@ -3954,7 +4345,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2978776,
-    "lng": 4.6287971
+    "lng": 4.6287971,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
   },
   {
     "naam": "Garage E42 Sankt-Vith",
@@ -3977,7 +4370,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2703952,
-    "lng": 6.11678
+    "lng": 6.11678,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
   },
   {
     "naam": "Vercauteren Marcel",
@@ -3995,13 +4390,17 @@
       "alle_garages"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1535348,
-    "lng": 4.1113234
+    "lng": 4.1113234,
+    "info": "Erkend Ifor Williams dealer regio Sint-Niklaas/Waasland. Kleine familiebedrijf.",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
   },
   {
     "naam": "MDM Industrie",
@@ -4025,7 +4424,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2958946,
-    "lng": 5.0880737
+    "lng": 5.0880737,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
   },
   {
     "naam": "Centracar VW-Audi",
@@ -4047,7 +4448,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6391649,
-    "lng": 6.015769
+    "lng": 6.015769,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage du Rocher-Falter",
@@ -4068,7 +4471,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6023433,
-    "lng": 5.8851059
+    "lng": 5.8851059,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Carrosserie Martin",
@@ -4088,7 +4493,9 @@
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 49.9860645,
-    "lng": 5.2527867
+    "lng": 5.2527867,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Garage Good Way",
@@ -4104,9 +4511,10 @@
       "alle_garages"
     ],
     "bron": [
+      "financials_pappers_wave4",
       "garage-good-way.be",
       "wave3_wallonie",
-      "financials_pappers_wave4"
+      "wave6a_pagesdor"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
@@ -4116,7 +4524,10 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 18700,
     "oprichting": "2019",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "info": "Garage Nijvel Brabant Wallon, montage attache remorque vast/afneembaar/intrekbaar",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "AutoCrew Sobieski",
@@ -4132,10 +4543,11 @@
       "alle_garages"
     ],
     "bron": [
+      "financials_pappers_wave4",
       "garage-sobieski.be",
       "trendstop",
       "wave3_wallonie",
-      "financials_pappers_wave4"
+      "wave6b_google_maps"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
@@ -4147,7 +4559,10 @@
     "bizzy_ebitda": 98800,
     "oprichting": "1998",
     "financials_bron": "pappers.be",
-    "info": "Bijna sweet spot. Sterke groei +54% omzet 2023. Wemmel (BRU)."
+    "info": "Bijna sweet spot. Sterke groei +54% omzet 2023. Wemmel (BRU).",
+    "google_maps_url": "https://maps.google.com/?q=AutoCrew+Sobieski+Rassel+29+Wemmel",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Mécanotoph",
@@ -4163,11 +4578,484 @@
     ],
     "bron": [
       "pagesdor_silly",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "wave6a_pagesdor"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6732474,
-    "lng": 3.957075
+    "lng": 3.957075,
+    "info": "Buurtgarage Henegouwen, onderhoud alle merken + pose attelage, open op zaterdag",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "DK Cars",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Grimbergen",
+    "adres": "Beigemsesteenweg 192, 1850 Grimbergen",
+    "telefoon": "+32 2 268 82 40",
+    "website": "https://www.dk-cars.be",
+    "info": "Autohandel Grimbergen met trekhaken service",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Garage Haezebrouck & Zoon",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Wevelgem",
+    "adres": "Roeselarestraat 423, 8560 Wevelgem",
+    "telefoon": "+32 475 77 44 97",
+    "website": "https://www.camionetten.be",
+    "info": "Bestelwagenspecialist met trekhakenmontage. Verkoop nieuwe en occasions bestelwagens. Polishing & detailing.",
+    "google_maps_url": "https://maps.google.com/?q=Garage+Haezebrouck+Roeselarestraat+423+Wevelgem",
+    "rating": null,
+    "reviews_count": null,
+    "bron": [
+      "wave6b_google_maps"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Campirama NV",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Izegem",
+    "adres": "Minervastraat 7, 8870 Izegem",
+    "telefoon": "+32 56 35 62 58",
+    "website": "campirama.be",
+    "info": "Exclusief importeur Hymer/Eriba/Bürstner/Carado voor BE. 16.000m² terrein. Middelgroot bedrijf West-Vlaanderen.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Hymer",
+      "Eriba",
+      "Bürstner",
+      "Carado"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Europacaravans BV",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Kluisbergen",
+    "adres": "Avelgemstraat 17-A, 9690 Kluisbergen",
+    "telefoon": "+32 56 29 94 64",
+    "website": "europacaravans.be",
+    "info": "Grootste Knaus/Bürstner/Weinsberg verdeler België. Showroom, werkplaats, caravan service. Middelgroot.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Knaus",
+      "Bürstner",
+      "Weinsberg",
+      "KABE"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Caravaning Verbeeck NV",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Paal-Beringen",
+    "adres": "Diestersesteenweg 182, 3583 Paal-Beringen",
+    "telefoon": "+32 11 42 15 74",
+    "website": "verbeeck.be",
+    "info": "Caravan+motorhome dealer Limburg sinds 1973. Grootste aanbieder caravanning in Vlaanderen. Multi-brand met eigen werkplaats.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Adria",
+      "Knaus",
+      "Tabbert",
+      "T@B",
+      "Weinsberg"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Vanomobil - Deerlijk",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Deerlijk",
+    "adres": "Ter Donkt 38, 8540 Deerlijk",
+    "telefoon": "+32 56 43 01 80",
+    "website": "vanomobil.be",
+    "info": "Kampeerauto dealer 35+ jaar ervaring. 4 vestigingen in BE. Hoofdkantoor Deerlijk. Showroom+werkplaats. Middelgroot.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Adria",
+      "Bürstner",
+      "Chausson",
+      "Knaus",
+      "Dreamer",
+      "Itineo"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Alpha Motorhomes / Urbano - Temse",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Temse",
+    "adres": "Kapelanielaan 1, 9140 Temse",
+    "telefoon": "+32 3 771 18 35",
+    "website": "urbano.be",
+    "info": "Grootste motorhome dealer BE. 23 merken, 600+ voertuigen. 5 locaties BE. Hoofdkantoor Temse. Werkplaats en verhuur.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Dicar Motorhomes - Geel",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Geel",
+    "adres": "Grote Steenweg 2, 2440 Geel",
+    "telefoon": "+32 14 57 99 99",
+    "website": "dicar.be",
+    "info": "Grootste motorhome dealer België (500+ modellen). Geel hoofdvestiging. 2 locaties. Pilote+Adria officieel.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Pilote",
+      "Adria"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Decuyper Motorhomes",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Poperinge",
+    "adres": "Beneluxlaan 2, 8970 Poperinge",
+    "telefoon": "+32 57 33 77 77",
+    "website": "decuypermotorhomes.be",
+    "info": "Caravan + motorhome dealer Poperinge sinds 1956. Multi-brand met eigen werkplaats. Middelgroot familiebedrijf.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Rapido",
+      "Pilote",
+      "Hobby",
+      "Fendt",
+      "Giottiline",
+      "Caravelair"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Beckers Caravans",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Dilsen-Stokkem",
+    "adres": "Rijksweg 761, 3650 Dilsen-Stokkem",
+    "telefoon": "+32 89 50 36 51",
+    "website": "beckerscaravans.be",
+    "info": "Officieel Hobby+Fendt caravan dealer Limburg. Showroom, werkplaats, kampeerwinkel. Klein-middelgroot.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Hobby",
+      "Fendt"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Caravan-Expo",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Ronse",
+    "adres": "Ninovestraat 127, 9600 Ronse",
+    "telefoon": "+32 55 21 31 26",
+    "website": "caravan-expo.be",
+    "info": "Familiebedrijf caravan dealer Ronse. Erkend Tabbert dealer. Verkoop nieuw+occasie, eigen werkplaats.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Tabbert"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Hainaut Caravaning Center",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Gosselies",
+    "adres": "Avenue des Etats-Unis 76, 6041 Gosselies",
+    "telefoon": "+32 71 32 43 18",
+    "website": "hainaut-caravaning.be",
+    "info": "Grootste caravan+motorhome dealer Henegouwen. 2 vestigingen (Gosselies+Awans). Multi-brand showroom+werkplaats. Opgericht 1971.",
+    "bron": [
+      "wave6d_caravan"
+    ],
+    "merken_gevoerd": [
+      "Adria",
+      "Bürstner",
+      "Hobby",
+      "Pilote",
+      "Kabe",
+      "Carthago",
+      "Malibu",
+      "Caravelair"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages"
+    ],
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Autohaus Bach",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Sankt Vith",
+    "adres": "Prümerstraße 17, 4780 Sankt Vith",
+    "telefoon": "+32 80 22 19 10",
+    "website": "bach.be",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garage",
+      "alle_garages"
+    ],
+    "info": "Autohaus in het hart van Sankt Vith. Verkoop en onderhoud van nieuwe en tweedehands wagens, reparaties en wisselstukken.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
+  },
+  {
+    "naam": "BeCamper",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Baelen",
+    "adres": "Neutralstrasse 37, 4837 Baelen",
+    "telefoon": "+32 87 89 87 87",
+    "website": "becamper.be",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garages",
+      "plaatser",
+      "verkoper"
+    ],
+    "info": "Groot woonmobielcentrum (21.000 m²) nabij E40 in Baelen (Eupen-regio). Verkoop, onderhoud, reparatie en verhuur van campers. Plaatsing accessoires.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "merken_gevoerd": [
+      "LMC",
+      "Carado",
+      "Knaus",
+      "Possl",
+      "Morelo"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Rogitec SPRL",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Bütgenbach",
+    "adres": "Zum Steg 5, 4750 Bütgenbach",
+    "telefoon": "+32 80 44 74 32",
+    "website": "rogitecmotorhome.be",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garage",
+      "alle_garages"
+    ],
+    "info": "Reparatie en verkoop van woonwagens en campers. Geen mechanisch werk; interieur, gas, zonnepanelen en luifels. Bedieningsgebied heel Luikse provincie.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
+  },
+  {
+    "naam": "Autohaus Scholzen GmbH",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Büllingen",
+    "adres": "Kehr 6, 4760 Büllingen",
+    "telefoon": "+32 80 54 00 88",
+    "website": "scholzen.be",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garage",
+      "alle_garages"
+    ],
+    "info": "Officieel VAG-dealer (VW/Audi/Skoda/Seat) met vestigingen in Büllingen, Elsenborn en Eupen-Kettenis. Onderhoud, herstellingen, voertuigverhuur.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "merken_gevoerd": [
+      "Volkswagen",
+      "Audi",
+      "Skoda",
+      "Seat"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
+  },
+  {
+    "naam": "Garage Neissen (Autoservice Berthold Neissen)",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Burg-Reuland",
+    "adres": "Gewerbezone Schirm 34, 4790 Burg-Reuland",
+    "telefoon": "+32 80 32 91 11",
+    "website": "neissen.com",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garage",
+      "alle_garages"
+    ],
+    "info": "Algemene autoservice in Burg-Reuland (Grüfflingen). Onderhoud en herstellingen. Meest bereikbare garage in deze dunbevolkte grensregio.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
+  },
+  {
+    "naam": "Garage Arens (Arens Autohaus)",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Amel",
+    "adres": "Büllingerstrasse 17, 4770 Amel",
+    "telefoon": "+32 80 34 98 19",
+    "website": "garage-arens.eu",
+    "primaire_categorie": "alle_garages",
+    "categorieen": [
+      "alle_garage",
+      "alle_garages"
+    ],
+    "info": "Gespecialiseerd in onderhoud en reparatie van Duitse automerken. Karosseriewerk. Geen trekhaken expliciet vermeld.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "merken_gevoerd": [
+      "BMW",
+      "Mercedes",
+      "Audi",
+      "Porsche"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   }
 ]

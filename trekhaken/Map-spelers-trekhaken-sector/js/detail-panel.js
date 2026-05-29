@@ -51,6 +51,28 @@
       `<span class="dp-cat-badge" style="background:${catKleur(id)}">${esc(catLabel(id))}</span>`
     ).join('');
 
+    /* Trekhaak-zekerheid badge */
+    const zek = b.trekhaak_zekerheid;
+    const zekReden = b.zekerheid_reden || '';
+    const zekLabel = zek === 'hoog'
+      ? 'Trekhaak-installatie bevestigd'
+      : zek === 'midden'
+      ? 'Aanhangwagen-dealer (waarschijnlijk ook trekhaken)'
+      : zek === 'laag'
+      ? 'Trekhaak-aanbod NIET bevestigd'
+      : '';
+    const zekBadgeHtml = zek
+      ? `<div class="dp-section dp-zek dp-zek-${zek}">
+           <div class="dp-zek-row">
+             <span class="dp-zek-marker">${zek === 'hoog' ? '✓' : zek === 'midden' ? '~' : '?'}</span>
+             <div>
+               <div class="dp-zek-label">${esc(zekLabel)}</div>
+               ${zekReden ? `<div class="dp-zek-reden">${esc(zekReden)}</div>` : ''}
+             </div>
+           </div>
+         </div>`
+      : '';
+
     /* Status (★ ● ✗) — gebruik bestaande buildStatusHtml */
     const statusHtml = typeof window.buildStatusHtml === 'function'
       ? window.buildStatusHtml(b.naam) : '';
@@ -195,7 +217,7 @@
          </div>`
       : '';
 
-    return { catBadges, statusHtml, infoHtml, focusHtml, contactHtml, ondHtml, finHtml, bronHtml };
+    return { catBadges, zekBadgeHtml, statusHtml, infoHtml, focusHtml, contactHtml, ondHtml, finHtml, bronHtml };
   }
 
   /* ─── Open paneel ─── */
@@ -220,7 +242,7 @@
 
     naam.innerHTML = esc(b.naam || '');
     cats.innerHTML = parts.catBadges + (parts.statusHtml ? `<span class="dp-status">${parts.statusHtml}</span>` : '');
-    body.innerHTML = [parts.infoHtml, parts.focusHtml, parts.contactHtml, parts.ondHtml, parts.finHtml, parts.bronHtml].join('');
+    body.innerHTML = [parts.zekBadgeHtml, parts.infoHtml, parts.focusHtml, parts.contactHtml, parts.ondHtml, parts.finHtml, parts.bronHtml].join('');
 
     panel.classList.remove('hidden');
     panel.setAttribute('aria-hidden', 'false');

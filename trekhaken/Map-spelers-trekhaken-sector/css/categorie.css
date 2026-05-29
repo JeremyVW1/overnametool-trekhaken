@@ -279,3 +279,66 @@
   display: flex;
   gap: 6px;
 }
+
+/* ─── Trekhaak-zekerheid badges (hoog / midden / laag) ─── */
+.zek-badge {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 4px;
+  padding: 1px 6px;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 10px;
+  line-height: 1.2;
+  cursor: help;
+  user-select: none;
+}
+.zek-hoog {
+  background: #C8E6C9;
+  color: #1B5E20;
+  border: 1px solid #66BB6A;
+}
+.zek-midden {
+  background: #FFF3CD;
+  color: #856404;
+  border: 1px solid #FFCA28;
+}
+.zek-laag {
+  background: #FFCDD2;
+  color: #B71C1C;
+  border: 1px solid #EF5350;
+}
+
+/* Optioneel: rij-styling om laag-zekerheid records subtiel te dimmen */
+tr[data-zekerheid="laag"] {
+  opacity: 0.78;
+}
+tr[data-zekerheid="laag"] td:first-child + td a {
+  font-style: italic;
+}
+
+/* ─── Zekerheid-filter knoppen ─── */
+.zekerheid-filter {
+  display: inline-flex;
+  gap: 4px;
+  margin-left: 8px;
+  align-items: center;
+  font-size: 12px;
+}
+.zekerheid-filter span {
+  color: #607D8B;
+  font-weight: 600;
+}
+.zekerheid-filter button {
+  padding: 2px 8px;
+  font-size: 11px;
+  border: 1px solid #CFD8DC;
+  background: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.zekerheid-filter button.on {
+  background: var(--brand-primary, #FF6B35);
+  color: #fff;
+  border-color: var(--brand-primary, #FF6B35);
+}

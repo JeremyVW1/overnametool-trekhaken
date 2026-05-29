@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "naam": "Carloma",
     "land": "BE",
@@ -37,7 +37,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaakdokter",
@@ -73,7 +75,9 @@
     "financials_bron": "companyweb.be",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "telefoon": "+32 14 39 15 80"
+    "telefoon": "+32 14 39 15 80",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhakencenter Limburg",
@@ -108,7 +112,9 @@
     "financials_bron": "companyweb.be",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "telefoon": "+32 488 70 89 85"
+    "telefoon": "+32 488 70 89 85",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaakcenter Midlim",
@@ -136,7 +142,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "telefoon": "+32 493 04 95 33",
     "btw": "BE0761.833.248",
-    "website": "breesetrekhaakcenter.be"
+    "website": "breesetrekhaakcenter.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Encase Limburg",
@@ -162,7 +170,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaak Punt",
@@ -195,7 +205,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "adres": "Waterrijtstraat 19E, 3920 Lommel",
-    "telefoon": "+32 11 65 13 83"
+    "telefoon": "+32 11 65 13 83",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Luc Auto (Lucar bvba)",
@@ -228,7 +240,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "adres": "Abdijstraat 14, 9968 Assenede",
-    "plaats": "Assenede"
+    "plaats": "Assenede",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaakcentrum.nl (HQ)",
@@ -256,7 +270,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaken.nu",
@@ -283,7 +299,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Burghof Trekhaken",
@@ -311,7 +329,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "KwikFit Nederland (HQ)",
@@ -339,7 +359,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Procar Tuning",
@@ -363,7 +385,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Clausehuis Groep",
@@ -389,7 +413,9 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "ATB Trekhaken",
@@ -415,7 +441,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1551501,
     "lng": 4.3823968,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhaakpunt",
@@ -423,7 +451,7 @@
     "land": "BE",
     "provincie": "lim",
     "adres": "Waterrijtstraat 19E, 3920 Lommel",
-    "telefoon": null,
+    "telefoon": "+32 11 65 13 83",
     "website": "trekhaakpunt.be",
     "categorieen": [
       "plaatser"
@@ -431,7 +459,11 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "wave6a_goudengids",
+      "wave6b_google_maps",
+      "wave6f_facebook",
+      "wave6f_trustpilot"
     ],
     "grootte": null,
     "webshop": null,
@@ -443,7 +475,13 @@
     "lat": 51.2290842,
     "lng": 5.3778855,
     "_info_auto": true,
-    "btw": "BE0649.616.621"
+    "btw": "BE0649.616.621",
+    "google_maps_url": "https://maps.google.com/?q=Trekhaakpunt+Waterrijtstraat+19E+Lommel",
+    "trustpilot_rating": 3.1,
+    "trustpilot_reviews": 131,
+    "facebook_likes": 1210,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Patjes Trekhakencenter",
@@ -461,7 +499,10 @@
       "agent_research_2026_05_29",
       "branche_niche_2026_05_29",
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "wave6a_goudengids",
+      "wave6b_google_maps",
+      "wave6f_google_search"
     ],
     "grootte": null,
     "webshop": null,
@@ -470,14 +511,23 @@
       "47.820",
       "47.639"
     ],
-    "merken_gevoerd": [],
+    "merken_gevoerd": [
+      "GDW",
+      "Brink",
+      "Westfalia",
+      "Bosal",
+      "Thule"
+    ],
     "info": "Eigenaar: Patrick Bossus.",
     "btw": "BE0811.022.344",
     "oprichting": "2009",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8988844,
-    "lng": 3.8726479
+    "lng": 3.8726479,
+    "google_maps_url": "https://maps.google.com/?q=Patjes+Trekhakencenter+Provincieweg+445+Herzele",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "AAS Trekhaken",
@@ -501,7 +551,9 @@
     "info": "Trekhaak-plaatser. gevestigd in Antwerpen (mobiel, <30km) (Antwerpen).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Autex",
@@ -517,12 +569,20 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "financials_companyweb"
+      "financials_companyweb",
+      "wave6a_goudengids",
+      "wave6b_google_maps",
+      "wave6f_google_search"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
-    "merken_gevoerd": [],
+    "merken_gevoerd": [
+      "GDW",
+      "Westfalia",
+      "Brink",
+      "Bosal"
+    ],
     "info": "Trekhaak-plaatser. gevestigd in Geel (Antwerpen). 53+ jaar bedrijf (sinds 1973).",
     "btw": "BE0412.930.186",
     "cw_brutomarge": 194063,
@@ -535,7 +595,10 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1454135,
     "lng": 4.9995635,
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=Autex+Winkelom+87+Geel",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Trekhakencenter Limburg / DS Trekhaken",
@@ -550,18 +613,30 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
-    "merken_gevoerd": [],
+    "merken_gevoerd": [
+      "Oris",
+      "GDW",
+      "Thule",
+      "Brink",
+      "Bosal",
+      "Westfalia"
+    ],
     "info": "Trekhaak-plaatser. gevestigd in Bocholt (Limburg (BE)).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1843176,
     "lng": 5.5770205,
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=DS+Trekhaken+Rademakersstraat+78B+Bocholt",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Breese Trekhaakcenter",
@@ -592,7 +667,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1404034,
     "lng": 5.5597557,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Garage Goetmaekere",
@@ -628,7 +705,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0280407,
     "lng": 3.7649557,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Autoparts De Smet",
@@ -662,7 +741,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0669492,
     "lng": 3.722865,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Tecno-Parts",
@@ -696,7 +777,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.994186,
     "lng": 3.7446777,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Eurauto",
@@ -730,7 +813,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9967974,
     "lng": 3.6584439,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Debackere Pieter Johan",
@@ -748,7 +833,9 @@
     "bron": [
       "agent_research_2026_05_29",
       "agent_research_2026_05_29_wave2",
-      "gdw_dealer_locator"
+      "gdw_dealer_locator",
+      "wave6b_google_maps",
+      "wave6f_google_search"
     ],
     "grootte": null,
     "webshop": null,
@@ -763,7 +850,10 @@
     "specialist_reason": "voert_oem_merk",
     "lat": 50.9306472,
     "lng": 3.1870727,
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=Autoservice+Debackere+Lodewijk+De+Raetlaan+49+Izegem",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Auto Parts Stekelorum",
@@ -779,7 +869,8 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "financials_companyweb"
+      "financials_companyweb",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
@@ -798,7 +889,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.924199,
     "lng": 3.1885842,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Garage Naeyaert",
@@ -838,7 +931,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 119900,
     "oprichting": "2007",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Alfa Auto Shop",
@@ -855,7 +950,8 @@
     "bron": [
       "agent_research_2026_05_29",
       "financials_companyweb",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
@@ -869,7 +965,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.939369,
-    "lng": 5.3094991
+    "lng": 5.3094991,
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "A.T.B. Trekhaken",
@@ -895,7 +993,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1757857,
     "lng": 4.3893043,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "CAN Solutions / Trekhaakdokter",
@@ -910,7 +1010,8 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
@@ -921,7 +1022,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.3030503,
     "lng": 4.8348223,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Roca Parts",
@@ -937,7 +1040,8 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "financials_companyweb"
+      "financials_companyweb",
+      "wave6a_goudengids"
     ],
     "grootte": null,
     "webshop": null,
@@ -952,7 +1056,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1395883,
     "lng": 4.9007852,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "CARLOMA",
@@ -968,12 +1074,19 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "financials_companyweb"
+      "financials_companyweb",
+      "wave6f_facebook"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
-    "merken_gevoerd": [],
+    "merken_gevoerd": [
+      "Brink",
+      "GDW",
+      "Oris",
+      "Westfalia",
+      "Cykell"
+    ],
     "info": "Trekhaak-plaatser. gevestigd in Wommelgem (Antwerpen) (Antwerpen). 58+ jaar bedrijf (sinds 1968).",
     "btw": "BE0404.078.640",
     "cw_brutomarge": 568050,
@@ -987,7 +1100,10 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2055972,
     "lng": 4.4875155,
-    "_info_auto": true
+    "_info_auto": true,
+    "facebook_likes": 177,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Noyen Class",
@@ -1021,7 +1137,9 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.285502,
     "lng": 4.7094898,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "ATB (Antwerps Trekhaken Bedrijf)",
@@ -1034,8 +1152,9 @@
     "primaire_categorie": "plaatser",
     "btw": "BE0875.259.803",
     "bron": [
+      "agent_research_2026_05_29",
       "financials_companyweb",
-      "agent_research_2026_05_29"
+      "wave6a_goudengids"
     ],
     "cw_brutomarge": 434592,
     "cw_winst": 308885,
@@ -1050,7 +1169,17 @@
     "lng": 4.3893043,
     "adres": "Boomsesteenweg 125, 2610 Wilrijk",
     "telefoon": "+32 3 237 38 24",
-    "website": "atbtrekhaken.be"
+    "website": "atbtrekhaken.be",
+    "merken_gevoerd": [
+      "GDW",
+      "Bosal",
+      "Oris",
+      "Brink",
+      "Westfalia",
+      "Thule"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Autoservice Bilzen (Fascomad)",
@@ -1064,8 +1193,9 @@
     "primaire_categorie": "plaatser",
     "btw": "BE0860.404.054",
     "bron": [
+      "agent_research_2026_05_29",
       "financials_companyweb",
-      "agent_research_2026_05_29"
+      "wave6a_goudengids"
     ],
     "cw_brutomarge": 202902,
     "cw_winst": 22999,
@@ -1080,7 +1210,9 @@
     "lng": 5.5302165,
     "adres": "Kapittelstraat 10, 3740 Bilzen",
     "telefoon": "+32 89 65 80 64",
-    "website": "autoservice-bilzen.be"
+    "website": "autoservice-bilzen.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Lokerse Auto Service",
@@ -1109,7 +1241,9 @@
     "lng": 3.9840344,
     "adres": "Bergendriesstraat 15, 9160 Lokeren",
     "telefoon": "+32 9 348 22 28",
-    "info": "LIQUIDATIE 28/04/2025 — niet actief target."
+    "info": "LIQUIDATIE 28/04/2025 — niet actief target.",
+    "trekhaak_zekerheid": "laag",
+    "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
   {
     "naam": "Inter-Parts Europe",
@@ -1140,7 +1274,9 @@
     "telefoon": "+32 56 51 34 00",
     "website": "interpartseuropeautoonderdelen.be",
     "info": "Trekhaak-plaatser. gevestigd in Menen (West-Vlaanderen). 38 jaar bedrijf (sinds 1988).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Vlb Cars (Autocrew VLB Cars)",
@@ -1154,8 +1290,9 @@
     "primaire_categorie": "plaatser",
     "btw": "BE0401.084.211",
     "bron": [
+      "agent_research_2026_05_29",
       "financials_companyweb",
-      "agent_research_2026_05_29"
+      "wave6a_goudengids"
     ],
     "cw_brutomarge": 159616,
     "cw_winst": 58191,
@@ -1170,7 +1307,9 @@
     "lng": 3.8459433,
     "adres": "Zuidlaan 336, 9230 Wetteren",
     "telefoon": "+32 9 369 17 41",
-    "website": "vlbcars.be"
+    "website": "vlbcars.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "GDW Group (holding)",
@@ -1202,7 +1341,9 @@
     "adres": "Hoogmolenwegel 21, 8790 Waregem",
     "telefoon": "+32 56 60 42 12",
     "info": "Trekhaak-plaatser. gevestigd in Waregem (West-Vlaanderen). opgericht 2023.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "AANHANGWAGENS SUPERMARKT FRANK VERMEIR",
@@ -1220,9 +1361,12 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
+      "financials_pappers_wave4",
       "kbo_naam_zoek",
       "pappers",
-      "financials_pappers_wave4"
+      "wave6a_pagesdor",
+      "wave6b_google_maps",
+      "wave6d_aanhangwagen"
     ],
     "nace": [
       "95.319",
@@ -1239,7 +1383,17 @@
     "cw_winst": 119900,
     "cw_jaar": 2023,
     "bizzy_ebitda": 168600,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "google_maps_url": "https://maps.google.com/?q=Aanhangwagens+Vermeir+Aarschotsesteenweg+355+Wezemaal",
+    "merken_gevoerd": [
+      "Uebler",
+      "Thule",
+      "Saris",
+      "Stema",
+      "Henra"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Les Attaches Hennuyeres",
@@ -1256,7 +1410,9 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "cw_omzet": 469300,
     "cw_brutomarge": 50300,
@@ -1269,7 +1425,14 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lodelinsart (Henegouwen). 20 jaar bedrijf (sinds 2006).",
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=Attaches+Hennuyeres+Chaussee+de+Bruxelles+328+Lodelinsart",
+    "merken_gevoerd": [
+      "GDW",
+      "Bosal"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "RSC Car Parts",
@@ -1286,7 +1449,8 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_pagesdor"
     ],
     "cw_fte": 2,
     "oprichting": "2012",
@@ -1295,7 +1459,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4630314,
-    "lng": 4.394083
+    "lng": 4.394083,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "BPS Attache Remorque",
@@ -1312,14 +1478,17 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4218556,
     "lng": 3.9586164,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Mons (Henegouwen). | BTW niet vindbaar (vermoedelijk micro-onderneming).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "REMORQUES DECKERS",
@@ -1336,9 +1505,11 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
+      "financials_pappers_wave3",
       "kbo_naam_zoek",
       "pappers",
-      "financials_pappers_wave3"
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "nace": [
       "46.713",
@@ -1358,7 +1529,10 @@
     "lat": 50.6440865,
     "lng": 5.5943297,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Liege (Luik). 28 jaar bedrijf (sinds 1998).",
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=Remorques+Deckers+Quai+du+Roi+Albert+40+Liege",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "RTS Trailer",
@@ -1374,14 +1548,17 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6566291,
     "lng": 5.6244652,
     "info": "Trekhaak-plaatser. gevestigd in Herstal (Luik).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Attache Remorque Vito",
@@ -1399,7 +1576,9 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "kbo_naam_zoek",
-      "pappers"
+      "pappers",
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "nace": [
       "95.319",
@@ -1411,7 +1590,10 @@
     "lat": 50.6513291,
     "lng": 5.5924494,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Liege (Luik). opgericht 2017.",
-    "_info_auto": true
+    "_info_auto": true,
+    "google_maps_url": "https://maps.google.com/?q=Attache+Remorque+Vito+Rue+de+Moresnet+14+Liège",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "REMORQUES BECKERS",
@@ -1428,9 +1610,10 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
+      "financials_pappers_wave3",
       "kbo_naam_zoek",
       "pappers",
-      "financials_pappers_wave3"
+      "wave6d_aanhangwagen"
     ],
     "nace": [
       "46.713",
@@ -1448,7 +1631,13 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6765739,
-    "lng": 5.926079
+    "lng": 5.926079,
+    "merken_gevoerd": [
+      "Ifor Williams",
+      "Eduard"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Costo Remorques",
@@ -1479,7 +1668,9 @@
     "lat": 50.2907261,
     "lng": 5.7981824,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lierneux (Luik). opgericht 2009.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "RD Attache-Remorque",
@@ -1496,9 +1687,11 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
+      "financials_pappers_wave4",
       "kbo_naam_zoek",
       "pappers",
-      "financials_pappers_wave4"
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "nace": [
       "27.110",
@@ -1515,7 +1708,10 @@
     "cw_winst": 80100,
     "cw_jaar": 2024,
     "bizzy_ebitda": 117900,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "google_maps_url": "https://maps.google.com/?q=RD+Attache+Remorque+Chaussee+de+Marche+654+Namur",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "M.J.S. Auto-Service",
@@ -1534,14 +1730,22 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "pagesdor_dinant",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "wave6a_pagesdor"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.2576897,
     "lng": 4.9703611,
     "info": "Garage met trekhaak-installatie. gevestigd in Sorinnes (Namen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "merken_gevoerd": [
+      "Brink",
+      "Steinhof",
+      "Thule"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -1558,7 +1762,9 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "wave6a_pagesdor",
+      "wave6b_google_maps"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -1566,7 +1772,14 @@
     "lng": 4.6597369,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Corroy-le-Chateau (Namen).",
     "_info_auto": true,
-    "oprichting": "2009"
+    "oprichting": "2009",
+    "merken_gevoerd": [
+      "GDW",
+      "AL-KO"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Attache+Remorque+Coenen+Chaussee+de+Charleroi+282+Corroy-le-Chateau",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Remorque Californie Bastogne",
@@ -1582,14 +1795,17 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.9946843,
     "lng": 5.7270317,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Bastogne (Luxemburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "NOISET Remorques-Automobiles Fauvillers",
@@ -1618,7 +1834,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Fauvillers (Luxemburg (BE)). 53+ jaar bedrijf (sinds 1973).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Remorques Noiset Arlon",
@@ -1635,14 +1853,27 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "btw_lookup_wave2"
+      "btw_lookup_wave2",
+      "wave6a_pagesdor"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.6975549,
     "lng": 5.8091669,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Arlon (Luxemburg (BE)). | Zelfde entiteit als Noiset Fauvillers (BE0412.917.617).",
-    "_info_auto": true
+    "_info_auto": true,
+    "merken_gevoerd": [
+      "Hapert",
+      "Saris",
+      "Eduard",
+      "Ifor Williams",
+      "WmMeyer",
+      "Humbaur",
+      "Hulco",
+      "Anssems"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Ronny",
@@ -1666,7 +1897,9 @@
     "lat": 51.0182613,
     "lng": 4.4687314,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen). | BTW niet vindbaar (vermoedelijk eenmanszaak).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens & Trekhaken Maillard",
@@ -1684,7 +1917,8 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "btw_lookup_wave2",
-      "financials_pappers_wave5"
+      "financials_pappers_wave5",
+      "wave6a_goudengids"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -1693,7 +1927,9 @@
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Halle (Vlaams-Brabant). | Eenmanszaak, geen jaarrekening publiek. 50 jaar bedrijf. Halle (VBR).",
     "_info_auto": true,
     "oprichting": "1974",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "DN Trailers",
@@ -1710,7 +1946,9 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids",
+      "wave6b_google_maps"
     ],
     "cw_brutomarge": 297400,
     "cw_winst": 99900,
@@ -1723,7 +1961,16 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1287465,
-    "lng": 4.2453388
+    "lng": 4.2453388,
+    "google_maps_url": "https://maps.google.com/?q=DN+Trailers+Krijgsbaan+254+Temse",
+    "merken_gevoerd": [
+      "Henra",
+      "Humbaur",
+      "Daxara",
+      "Atec"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Trekhakencenter Kortrijk",
@@ -1740,7 +1987,11 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29_wave2",
-      "financials_pappers_wave3"
+      "financials_pappers_wave3",
+      "wave6a_goudengids",
+      "wave6b_google_maps",
+      "wave6f_facebook",
+      "wave6f_google"
     ],
     "cw_brutomarge": 17500,
     "cw_winst": 13600,
@@ -1752,7 +2003,17 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8301354,
-    "lng": 3.291536
+    "lng": 3.291536,
+    "merken_gevoerd": [
+      "GDW",
+      "Brink"
+    ],
+    "google_maps_url": "https://maps.google.com/?q=Trekhakencenter+Kortrijk+Stasegemsesteenweg+82C+Kortrijk",
+    "facebook_likes": 20,
+    "google_rating": 4.3,
+    "google_reviews": 6,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "De Schepper Aanhangwagens",
@@ -1782,7 +2043,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.244991,
-    "lng": 3.2056617
+    "lng": 3.2056617,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "RPV Vanpevenaeyge",
@@ -1815,7 +2078,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 30000,
     "oprichting": "1995",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Accu&Co",
@@ -1833,7 +2098,8 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "btw_lookup_wave2",
-      "financials_pappers_wave5"
+      "financials_pappers_wave5",
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -1847,7 +2113,13 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 185900,
     "oprichting": "2009",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "merken_gevoerd": [
+      "Ifor Williams",
+      "Eduard"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "VMV Group BVBA",
@@ -1880,7 +2152,9 @@
     "cw_jaar": 2021,
     "bizzy_ebitda": 13100,
     "oprichting": "2017",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Garage Alain",
@@ -1907,7 +2181,9 @@
     "lng": 3.9942062,
     "info": "Erkende installateur (Brink). gevestigd in Aalst (Oost-Vlaanderen). | BTW niet vindbaar in openbare bronnen (vermoedelijk eenmanszaak).",
     "_info_auto": true,
-    "website": "garagealain.be"
+    "website": "garagealain.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Vanhulle Menen bvba",
@@ -1942,7 +2218,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 24200,
     "oprichting": "2010",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Autoservice Geuens",
@@ -1970,7 +2248,9 @@
     "info": "Erkende installateur (Brink). gevestigd in Pelt (Limburg (BE)).",
     "_info_auto": true,
     "btw": "BE0874.554.473",
-    "oprichting": "2005"
+    "oprichting": "2005",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Schrooten Autotechnics",
@@ -2006,7 +2286,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 44300,
     "oprichting": "2021",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Boone Tom",
@@ -2042,7 +2324,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 82600,
     "oprichting": "2003",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar MC Motors NV",
@@ -2078,7 +2362,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 87700,
     "oprichting": "1993",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Bariseau Mottrie",
@@ -2114,7 +2400,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 441600,
     "oprichting": "2014",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Cremers",
@@ -2150,7 +2438,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 42700,
     "oprichting": "1990",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Pashuysen NV (HQ Aarschot)",
@@ -2184,7 +2474,9 @@
     "cw_jaar": 2024,
     "bizzy_ebitda": 651400,
     "oprichting": "1976",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Maene",
@@ -2220,7 +2512,9 @@
     "cw_fte": 3,
     "cw_jaar": 2023,
     "bizzy_ebitda": 36100,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar 4all cars bvba",
@@ -2257,7 +2551,9 @@
     "cw_jaar": 2024,
     "bizzy_ebitda": 886000,
     "oprichting": "1976",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Peelaerts bv",
@@ -2293,7 +2589,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 90200,
     "oprichting": "2007",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Van Humbeeck",
@@ -2328,7 +2626,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 17200,
     "oprichting": "1979",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Luc De Thaey BVBA",
@@ -2363,7 +2663,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 21600,
     "oprichting": "2004",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Dumarey",
@@ -2399,7 +2701,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 181600,
     "oprichting": "2004",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Vervoort",
@@ -2435,7 +2739,9 @@
     "cw_fte": 3,
     "cw_jaar": 2022,
     "bizzy_ebitda": 45600,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Koen de Maeyer",
@@ -2471,7 +2777,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 159500,
     "oprichting": "1998",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Thomaco Services BV",
@@ -2505,7 +2813,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 33900,
     "oprichting": "2019",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Cartronic Maaseik BV",
@@ -2541,7 +2851,9 @@
     "cw_fte": 3,
     "cw_jaar": 2022,
     "bizzy_ebitda": 12800,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Lavrijsen NV",
@@ -2577,7 +2889,9 @@
     "cw_jaar": 2024,
     "bizzy_ebitda": 352500,
     "oprichting": "1968",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar Preumont",
@@ -2613,7 +2927,9 @@
     "cw_jaar": 2022,
     "bizzy_ebitda": 4900,
     "oprichting": "1987",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar D.N. Cars",
@@ -2648,7 +2964,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 44600,
     "oprichting": "2021",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "Eurorepar FL Motor",
@@ -2684,7 +3002,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 21600,
     "oprichting": "2014",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "voert trekhaak-OEM-merk (Brink/GDW/Westfalia/...)"
   },
   {
     "naam": "AANHANGWAGEN STOCK",
@@ -2720,7 +3040,9 @@
     "cw_winst": 53600,
     "cw_jaar": 2023,
     "bizzy_ebitda": 74300,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "DROWA AANHANGWAGENS",
@@ -2753,7 +3075,9 @@
     "cw_winst": 27300,
     "cw_jaar": 2025,
     "bizzy_ebitda": 44000,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "AANHANGWAGENS LOUBEN",
@@ -2786,7 +3110,9 @@
     "cw_winst": 24400,
     "cw_jaar": 2023,
     "bizzy_ebitda": 35000,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "AANHANGWAGENS PATTYN STEFAAN",
@@ -2821,7 +3147,9 @@
     "cw_winst": 48800,
     "cw_jaar": 2023,
     "bizzy_ebitda": 62100,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Peter",
@@ -2848,7 +3176,9 @@
     "lat": 51.0398238,
     "lng": 4.6190298,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Putte (Antwerpen). opgericht 2019.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Ronny (Pire Ronald)",
@@ -2877,7 +3207,9 @@
     "lat": 51.0182613,
     "lng": 4.4687314,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen). opgericht 2014.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Servaes",
@@ -2904,7 +3236,9 @@
     "lat": 50.9986523,
     "lng": 4.1723149,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Buggenhout (Oost-Vlaanderen). opgericht 2024.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "BAETENS Aanhangwagens",
@@ -2931,7 +3265,9 @@
     "lat": 50.9896571,
     "lng": 3.7989404,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Melle (Oost-Vlaanderen). opgericht 2012.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Carr. Brugghemans (VAG Aanhangwagens)",
@@ -2967,7 +3303,9 @@
     "cw_winst": 67500,
     "cw_jaar": 2022,
     "bizzy_ebitda": 82700,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "De Bels Aanhangwagens",
@@ -2994,7 +3332,9 @@
     "lat": 50.9049268,
     "lng": 3.2436607,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Ingelmunster (West-Vlaanderen). opgericht 2024.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "DECAL AANHANGWAGENS",
@@ -3023,7 +3363,9 @@
     "lat": 51.1108986,
     "lng": 3.6657736,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Evergem (Oost-Vlaanderen). pas opgericht (2025).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens antoon",
@@ -3049,7 +3391,9 @@
     "lat": 51.0108553,
     "lng": 5.3932247,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonhoven (Limburg (BE)). pas opgericht (2025).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -3084,7 +3428,9 @@
     "cw_winst": 11500,
     "cw_jaar": 2023,
     "bizzy_ebitda": 18200,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "BRUXELLES-REMORQUES",
@@ -3117,7 +3463,9 @@
     "cw_winst": -12300,
     "cw_jaar": 2023,
     "bizzy_ebitda": -10100,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "LES REMORQUES DE HUY",
@@ -3151,7 +3499,9 @@
     "cw_winst": 5900,
     "cw_jaar": 2023,
     "bizzy_ebitda": 7900,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "PTS AANHANGWAGENS-REMORQUES",
@@ -3176,7 +3526,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.7991227,
-    "lng": 5.2117428
+    "lng": 5.2117428,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "D C REMORQUES",
@@ -3210,7 +3562,9 @@
     "cw_winst": 134600,
     "cw_jaar": 2023,
     "bizzy_ebitda": 214100,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "MONS REMORQUE",
@@ -3237,7 +3591,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Frameries (Henegouwen). opgericht 2021.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "P-V REMORQUE & FILS",
@@ -3265,7 +3621,9 @@
     "lat": 50.7319185,
     "lng": 3.6867905,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Ellezelles (Henegouwen). opgericht 2024.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "REMORQUE VL (Laurent Vincent)",
@@ -3288,7 +3646,9 @@
     "lat": 50.5254484,
     "lng": 4.6061174,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sombreffe (Namen). opgericht 2015.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "CL Remorques (Laurent Carine)",
@@ -3315,7 +3675,9 @@
     "lat": 50.5246818,
     "lng": 4.6130295,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sombreffe (Namen). pas opgericht (2025).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Angelo la bonne remorque",
@@ -3341,7 +3703,9 @@
     "lat": 50.4411553,
     "lng": 4.666067,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Jemeppe-sur-Sambre (Namen). opgericht 2020.",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "GGM REMORQUE",
@@ -3370,7 +3734,9 @@
     "cw_winst": 5000,
     "cw_jaar": 2023,
     "bizzy_ebitda": 13800,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "GARAGE DJOU",
@@ -3394,13 +3760,18 @@
     ],
     "info": "Pure trekhaak-specialist Walcourt (NAM).",
     "bron": [
-      "web_search",
-      "pappers"
+      "pappers",
+      "wave6b_google_maps",
+      "web_search"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.2887376,
-    "lng": 4.4427101
+    "lng": 4.4427101,
+    "telefoon": "0497 31 73 02",
+    "google_maps_url": "https://maps.google.com/?q=Attaches+Djou+Rue+Sambre+et+Moselle+5A+Chatelet",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "AWZ (A-Traction)",
@@ -3436,7 +3807,9 @@
     "cw_winst": 129900,
     "cw_jaar": 2022,
     "bizzy_ebitda": 179200,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "REMORQUES-FERRONNERIES",
@@ -3469,7 +3842,9 @@
     "cw_winst": 58100,
     "cw_jaar": 2022,
     "bizzy_ebitda": 82200,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Mathieu Kerckhofs Trailers",
@@ -3503,7 +3878,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 108300,
     "oprichting": "2007",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Aanhangwagencentrale Arendonk",
@@ -3539,7 +3916,9 @@
     "cw_jaar": 2024,
     "bizzy_ebitda": 390600,
     "oprichting": "1982",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "KSA-Aanhangwagens",
@@ -3569,9 +3948,10 @@
     "info": "Aanhangwagen dealer multi-merk (9 merken). | Groei +284% in 2023. 9 merken (Anssems/Ifor Williams/Eduard/etc). Geel (ANT).",
     "bron": [
       "anssems_dealer",
-      "ifor_williams_dealer",
       "branche_niche_2026_05_29",
-      "financials_pappers_wave4"
+      "financials_pappers_wave4",
+      "ifor_williams_dealer",
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -3582,7 +3962,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 52800,
     "oprichting": "2010",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Vandamme Aanhangwagens BV",
@@ -3621,7 +4003,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 149900,
     "oprichting": "2011",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Aanhangwagencentrum Weelde",
@@ -3664,7 +4048,9 @@
     "lng": 4.9394388,
     "btw": "BE0644.424.052",
     "oprichting": "2015",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "West Trailers",
@@ -3701,7 +4087,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 46800,
     "oprichting": "1975",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Auman Dirk",
@@ -3726,7 +4114,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1122339,
     "lng": 3.9326602,
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "VDV Trailers",
@@ -3755,7 +4145,9 @@
     "lat": 50.6818649,
     "lng": 4.0314399,
     "info": "Erkende installateur (Eduard/Ifor Williams). gevestigd in Enghien (Henegouwen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "JS Trailers (Schutyser)",
@@ -3782,7 +4174,9 @@
     "lat": 50.9685568,
     "lng": 3.7110036,
     "info": "Erkende installateur (Ifor Williams). gevestigd in Merelbeke (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Delvan Aanhangwagens",
@@ -3819,7 +4213,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 41300,
     "oprichting": "2018",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Remorques Moreau",
@@ -3830,7 +4226,9 @@
     "telefoon": "+32 81 58 92 10",
     "website": "remorques-ferronerie-moreauetfils.be",
     "merken_gevoerd": [
-      "Ifor Williams"
+      "Ifor Williams",
+      "Hapert",
+      "Henra"
     ],
     "primaire_categorie": "plaatser",
     "categorieen": [
@@ -3838,10 +4236,12 @@
       "verkoper"
     ],
     "bron": [
-      "ifor_williams_dealer",
       "branche_niche_2026_05_29",
       "btw_lookup_wave2",
-      "financials_pappers_wave5"
+      "financials_pappers_wave5",
+      "ifor_williams_dealer",
+      "wave6b_google_maps",
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -3857,7 +4257,10 @@
     "cw_fte": 3,
     "cw_jaar": 2022,
     "bizzy_ebitda": 233800,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "google_maps_url": "https://maps.google.com/?q=Moreau+Fils+Chaussee+de+Liege+1195+Lives-sur-Meuse",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "LOJI Trailers & Van Solutions",
@@ -3875,15 +4278,18 @@
       "verkoper"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.140654,
     "lng": 5.6138162,
     "info": "Erkende installateur (Eduard). gevestigd in Bree (Limburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "VAG Aanhangwagens",
@@ -3901,15 +4307,18 @@
       "verkoper"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0546513,
     "lng": 4.45828,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Vincent Lavaert",
@@ -3927,15 +4336,18 @@
       "verkoper"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.794932,
     "lng": 3.178242,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Menen (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Alle Aanhangwagens Sint-Gillis-Waas",
@@ -3961,7 +4373,9 @@
     "lat": 51.2160126,
     "lng": 4.1027604,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Aanhangwagens Van Hoecke",
@@ -3979,15 +4393,18 @@
       "verkoper"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0274948,
     "lng": 4.020684,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Berlare (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "DC Remorques SPRL",
@@ -4005,15 +4422,18 @@
       "verkoper"
     ],
     "bron": [
+      "branche_niche_2026_05_29",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "wave6d_aanhangwagen"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.167055,
     "lng": 4.1755492,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry (Henegouwen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Cargo Trailer Villers-le-Bouillet",
@@ -4039,7 +4459,9 @@
     "lat": 50.5829901,
     "lng": 5.2657896,
     "info": "Erkende installateur (Eduard). gevestigd in Villers-le-Bouillet (Luik).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "TACK Aanhangwagens NV",
@@ -4069,7 +4491,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 17200,
     "oprichting": "1988",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Clijsters Vans & Trailers",
@@ -4095,7 +4519,9 @@
     "lat": 50.848485,
     "lng": 4.8211717,
     "info": "Erkende installateur (Ifor Williams). gevestigd in Boutersem (Vlaams-Brabant).",
-    "_info_auto": true
+    "_info_auto": true,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Trekhaakcentrum Geel (Autex)",
@@ -4119,7 +4545,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.145264,
     "lng": 4.9993958,
-    "btw": "BE0412.930.186"
+    "btw": "BE0412.930.186",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "GMC Remorques",
@@ -4142,7 +4570,9 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gosselies (Henegouwen). | INACTIEF - insolventieprocedure sinds 01/10/2025.",
     "_info_auto": true,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "Motor Service Huy (Les Remorques de Huy)",
@@ -4174,7 +4604,9 @@
     "cw_jaar": 2024,
     "bizzy_ebitda": 208900,
     "oprichting": "1983",
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
   },
   {
     "naam": "Attache V-H Européenne",
@@ -4190,10 +4622,11 @@
     ],
     "info": "Brussels pure trekhaak-specialist. | Familiezaak opgericht 1950, huidig rechtspersoon 2018. | Geen financials publiek. Oprichting 2018 (NIET 1950 als eerder vermeld). Schaerbeek (BRU).",
     "bron": [
+      "btw_lookup_wave2",
+      "financials_pappers_wave5",
       "google_maps",
       "wave3_wallonie",
-      "btw_lookup_wave2",
-      "financials_pappers_wave5"
+      "wave6b_google_maps"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -4202,7 +4635,10 @@
     "btw": "BE0715.571.077",
     "oprichting": "2018",
     "cw_fte": 3,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "google_maps_url": "https://maps.google.com/?q=Attache+VH+Europeenne+Chaussee+de+Louvain+473+Schaerbeek",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   },
   {
     "naam": "BCM Remorques",
@@ -4228,6 +4664,836 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8408418,
     "lng": 4.3281977,
-    "financials_bron": "pappers.be"
+    "financials_bron": "pappers.be",
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "AHW Stock",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Oostende",
+    "adres": "Hooggeleedstraat 22, 8400 Oostende",
+    "telefoon": "059 23 98 87",
+    "website": "https://ahw-stock.be",
+    "info": "Verkoop, verhuur en herstel aanhangwagens Oostende, 30 jaar ervaring",
+    "bron": [
+      "wave6a_goudengids"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Helpo",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Overpelt (Pelt)",
+    "adres": "Stuifzandstraat 57, 3900 Overpelt",
+    "telefoon": "+32 11 446 114",
+    "website": "https://www.helpo.be",
+    "info": "Garage regio Noord-Limburg met remorque service",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "TTR Trailers",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Meulebeke (Tielt)",
+    "adres": "Tieltstraat 190, 8760 Meulebeke",
+    "telefoon": "+32 51 409 940",
+    "website": "https://www.ttrtrailers.be",
+    "info": "Aanhangwagen verkoop regio Tielt-Meulebeke",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Quickly",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Asse",
+    "adres": "Nieuwstraat 137, 1730 Asse",
+    "telefoon": "02 452 93 03",
+    "website": "https://quickly.be",
+    "info": "30+ jaar trekhaken plaatsen Vlaams-Brabant, scherpe prijs, ook aanhangwagens en fietsendragers",
+    "bron": [
+      "wave6a_goudengids",
+      "wave6c_quickly"
+    ],
+    "merken_gevoerd": [
+      "GDW",
+      "Bosal",
+      "Brink",
+      "Westfalia"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "keten": "Quickly",
+    "parent_brand": "Quickly",
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "DC Remorques",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Sivry-Rance",
+    "adres": "Rue de Martinsart 25A, 6470 Sivry",
+    "telefoon": "+32 60 21 47 00",
+    "website": "https://www.dc-remorques.be",
+    "info": "Verkoop 174+ remorques nieuw+occasion + pose attelages, grensregio BE-FR Henegouwen",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "merken_gevoerd": [
+      "Anssems",
+      "Brian James",
+      "Hapert",
+      "Hulco"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Garage du Stain",
+    "land": "BE",
+    "provincie": "nam",
+    "plaats": "Ligny (Sombreffe)",
+    "adres": "Rue Bois-du-Loup 11, 5140 Ligny",
+    "telefoon": "+32 71 887 673",
+    "website": "https://dustain.be",
+    "info": "Garage Namen-grens Henegouwen, attache remorque service",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Garage Carrosserie Martin Julien",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Libin",
+    "adres": "Rue Paul Dubois 77C, 6890 Libin",
+    "telefoon": "+32 479 460 377",
+    "website": null,
+    "info": "Garage carrosserie regio Libin Luxembourg met pose attache remorque",
+    "bron": [
+      "wave6a_pagesdor"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "RemorX",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Glabbeek",
+    "adres": "Stationsstraat 7C, 3381 Glabbeek",
+    "telefoon": "016 77 73 37",
+    "website": "https://remorx.be",
+    "info": "Opgericht 2008. Showroom ~60 are. Aanhangwagens, ladders, fietsendragers, batterijen. Regio Tienen/Hasselt/Sint-Truiden.",
+    "google_maps_url": "https://maps.google.com/?q=RemorX+Stationsstraat+7C+Glabbeek",
+    "rating": null,
+    "reviews_count": null,
+    "bron": [
+      "wave6b_google_maps"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Midas Merksem",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Merksem (Antwerpen)",
+    "adres": "Bredabaan 998, 2170 Merksem",
+    "telefoon": "03 645 29 38",
+    "website": "https://www.midas.be/nl/garages",
+    "keten": "Midas",
+    "parent_brand": "Midas Belgium",
+    "parent_btw": "",
+    "info": "Midas biedt trekhaak-service aan via filter op midas.be/fr/garages/?services=trekhaak. 43-46 vestigingen in BE+LUX.",
+    "bron": [
+      "wave6c_midas"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Bosch Car Service Govaerts Linter",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Linter",
+    "adres": "Linter (Vlaams-Brabant)",
+    "telefoon": "",
+    "website": "https://www.bcsgovaertslinter.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen.",
+    "bron": [
+      "wave6c_bosch_car_service"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Bosch Car Service Marc Philippe",
+    "land": "BE",
+    "provincie": "",
+    "plaats": "",
+    "adres": "Belgium (adres niet gevonden in scrape)",
+    "telefoon": "",
+    "website": "https://www.boschcarservicemarcphilippe.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen.",
+    "bron": [
+      "wave6c_bosch_car_service"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Bosch Car Service Driesen Lommel",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Lommel",
+    "adres": "Lommel (Limburg)",
+    "telefoon": "",
+    "website": "https://www.boschcarservicedriesenlommel.be",
+    "keten": "Bosch Car Service",
+    "parent_brand": "Bosch Car Service Belgium",
+    "parent_btw": "",
+    "info": "Bosch Car Service dealer met expliciete trekhaak-monteren pagina op website. Deel van BCS-netwerk >150 garages BE die trekhaak plaatsen.",
+    "bron": [
+      "wave6c_bosch_car_service"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Aanhangwagens Geert Van Hov",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Kallo",
+    "adres": "Fabriekstraat 124, 9120 Kallo",
+    "telefoon": "+32 486 53 95 29",
+    "website": "aanhangwagensgeert.be",
+    "info": "Erkend Stema dealer Oost-Vlaanderen. Autotransporters, motortrailers, plateauwagens. Kleine specialist.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Stema"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Bruxelles Remorques",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Vilvoorde",
+    "adres": "Willem Elsschotstraat 12, 1800 Vilvoorde",
+    "telefoon": "+32 474 67 69 21",
+    "website": "bruxelles-remorques.be",
+    "info": "Erkend Vlemmix dealer regio Brussel/Vilvoorde. Plateauwagens, boottrailers, kippers. Klein-middelgroot.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Vlemmix"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Belgian Boatservice",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Nieuwpoort",
+    "adres": "Watersportlaan 12, 8620 Nieuwpoort",
+    "telefoon": "+32 58 23 44 73",
+    "website": "belgianboatservice.com",
+    "info": "Bootservice + Vlemmix boottrailers dealer kust. Primaire activiteit: watersporten. Seizoensgebonden.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Vlemmix"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Cargo Trailer",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Villers-le-Bouillet",
+    "adres": "Rue de l'Avenir 10, 4530 Villers-le-Bouillet",
+    "telefoon": "+32 4 275 71 06",
+    "website": null,
+    "info": "Eduard dealer provincie Luik. Kleine aanhangwagen specialist.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Alle Aanhangwagens",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Sint-Gillis-Waas",
+    "adres": "Loeverstraat 17, 9170 Sint-Gillis-Waas",
+    "telefoon": "+32 495 27 89 74",
+    "website": null,
+    "info": "Eduard dealer Waasland regio. Kleine aanhangwagen specialist.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "RD Center BV",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Balen",
+    "adres": "Poeierstraat 22, 2490 Balen",
+    "telefoon": "+32 496 30 75 78",
+    "website": null,
+    "info": "Eduard dealer regio Balen/Geel Kempen. Kleine specialist.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Van Wallendael BVBA",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Essen",
+    "adres": "Peepolderlaan 9, 2910 Essen",
+    "telefoon": "+32 36 67 79 21",
+    "website": null,
+    "info": "Eduard dealer regio Essen/Kalmthout Kempen Noord. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Rudi All-Fix BVBA",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Oudsbergen",
+    "adres": "Nijverheidslaan 1597, 3660 Oudsbergen",
+    "telefoon": "+32 479 69 94 74",
+    "website": null,
+    "info": "Eduard dealer regio Oudsbergen/Genk Limburg. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Helpo Aanhangwagens BV",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Overpelt",
+    "adres": "Stuifzandstraat 57, 3900 Overpelt",
+    "telefoon": "+32 11 44 61 14",
+    "website": null,
+    "info": "Eduard dealer regio Overpelt/Neerpelt Noord-Limburg. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Noiset-Latour SPRL",
+    "land": "BE",
+    "provincie": "lux",
+    "plaats": "Fauvillers",
+    "adres": "La Chaussée (N4) Malmaison 49, 6637 Fauvillers",
+    "telefoon": "+32 61 23 03 00",
+    "website": "noiset.be",
+    "info": "Aanhangwagen dealer Luxembourg Belge. Ifor Williams + Eduard erkend dealer. Erkend ook voor landbouwtrailers.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Ifor Williams",
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Domaine des Jonquières",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Fontaine-l'Evêque",
+    "adres": "Rue Louis Vilez 18, 6140 Fontaine-l'Evêque",
+    "telefoon": "+32 496 63 03 15",
+    "website": null,
+    "info": "Ifor Williams dealer Henegouwen. Domein/agri-context. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Ifor Williams"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "John Bloks Lommel",
+    "land": "BE",
+    "provincie": "lim",
+    "plaats": "Lommel",
+    "adres": "Lommel",
+    "telefoon": null,
+    "website": "johnbloks.be",
+    "info": "Premium Hapert dealer Limburg/Lommel. Erkend premium dealer met showroom en werkplaats.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Hapert"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Knapen BVBA - Kampenhout",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Kampenhout",
+    "adres": "Industriestraat 25, 1910 Kampenhout",
+    "telefoon": "+32 13 66 45 00",
+    "website": null,
+    "info": "Eduard dealer Vlaams-Brabant regio Kampenhout. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Quickly Asse",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Asse",
+    "adres": "Nieuwstraat 137, 1730 Asse",
+    "telefoon": "+32 2 452 93 03",
+    "website": null,
+    "info": "Eduard dealer Asse regio. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Entreprise Jaunart Samuel",
+    "land": "BE",
+    "provincie": "hai",
+    "plaats": "Manage",
+    "adres": "Saint Laurent 1 Atelier B36, 7170 Manage",
+    "telefoon": "+32 474 22 44 72",
+    "website": null,
+    "info": "Eduard dealer regio La Louvière/Manage Henegouwen. Kleine atelier.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Eduard"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+  },
+  {
+    "naam": "Bogaerts Agri (Clijsters Vans & Trailers)",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Boutersem",
+    "adres": "Aarschotsebaan 1A, 3370 Boutersem",
+    "telefoon": "+32 498 15 54 29",
+    "website": null,
+    "info": "Ifor Williams dealer regio Boutersem/Tienen Vlaams-Brabant. Agri/vans context. Klein bedrijf.",
+    "bron": [
+      "wave6d_aanhangwagen"
+    ],
+    "merken_gevoerd": [
+      "Ifor Williams"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Garage E42",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Sankt Vith",
+    "adres": "Luxemburger Str. 85a, 4780 Sankt Vith",
+    "telefoon": "+32 80 22 62 70",
+    "website": "garage-e42.be",
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
+    "info": "Een van de grootste aanhangwagencenta in de regio met 30+ jaar ervaring. Verkoop, verhuur en reparatie van alle typen aanhangwagens.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "merken_gevoerd": [
+      "Hapert",
+      "Saris",
+      "Böckmann",
+      "Brian James",
+      "Eduard",
+      "Henra",
+      "Humbaur",
+      "Ifor Williams"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Autohaus Pelzer",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Eupen",
+    "adres": "Herbesthaler Strasse 319, 4700 Eupen",
+    "telefoon": "+32 87 88 03 30",
+    "website": "garage-pelzer.be",
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "alle_garage",
+      "plaatser"
+    ],
+    "info": "Meer dan 40 jaar actief in Eupen. Toyota-specialist. Vermeldt trailer-onderhoud en reparaties als dienst. 24/7 takelservice.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "merken_gevoerd": [
+      "Toyota"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Autotec",
+    "land": "BE",
+    "provincie": "lui",
+    "plaats": "Büllingen",
+    "adres": "Hauptstraße 20, 4760 Büllingen",
+    "telefoon": "+32 80 64 26 50",
+    "website": "auto-tec.be",
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "alle_garage",
+      "plaatser"
+    ],
+    "info": "Vrije werkplaats alle merken, opgericht 1995. Expliciet vermeldt Anhänger/Anhängerkupplung als dienst. Reparaties, tuning, banden, klimaatservice.",
+    "taal_origineel": "DE",
+    "bron": [
+      "wave6e_ostbelgien"
+    ],
+    "lat": null,
+    "lng": null,
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Wireco",
+    "land": "BE",
+    "provincie": "ant",
+    "plaats": "Beerse",
+    "adres": "Antwerpseweg 33, 2340 Beerse",
+    "telefoon": "+32 486 48 35 85",
+    "website": "https://www.wireco.be",
+    "info": "Garage voor aanhangwagens en bestelwagens, herstellingen en onderhoud aan industriële voertuigen. Opgericht 2010. BTW BE0822.542.083.",
+    "trustpilot_rating": null,
+    "trustpilot_reviews": null,
+    "facebook_likes": 8280,
+    "google_rating": 4.7,
+    "google_reviews": 36,
+    "bron": [
+      "wave6f_facebook",
+      "wave6f_google"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "midden",
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+  },
+  {
+    "naam": "Hofstade Trekhaken Center",
+    "land": "BE",
+    "provincie": "ovl",
+    "plaats": "Hofstade (Zemst)",
+    "adres": "Muizenstraat 12, 1981 Hofstade",
+    "telefoon": "+32 478 71 12 05",
+    "website": "https://hofstadetrekhakenc.wixsite.com/garagehtc",
+    "info": "Garage HTC: trekhaakplaatsing, onderhoud en carrosserieherstel van alle merken. Opgericht 2016. Facebook 253 likes. BTW BE0648915152.",
+    "trustpilot_rating": null,
+    "trustpilot_reviews": null,
+    "facebook_likes": 253,
+    "google_rating": null,
+    "google_reviews": null,
+    "bron": [
+      "wave6f_facebook"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
+  },
+  {
+    "naam": "Trekhaakshop Brugge",
+    "land": "BE",
+    "provincie": "wvl",
+    "plaats": "Brugge",
+    "adres": null,
+    "telefoon": null,
+    "website": null,
+    "info": "Trekhaak plaatsing Brugge. Claim: tot 40% goedkoper. Facebook 958 likes. Adres niet publiek vindbaar via open bronnen.",
+    "trustpilot_rating": null,
+    "trustpilot_reviews": null,
+    "facebook_likes": 958,
+    "google_rating": null,
+    "google_reviews": null,
+    "bron": [
+      "wave6f_facebook"
+    ],
+    "lat": null,
+    "lng": null,
+    "primaire_categorie": "plaatser",
+    "categorieen": [
+      "plaatser"
+    ],
+    "trekhaak_zekerheid": "hoog",
+    "zekerheid_reden": "trekhaak-term in naam/website/info"
   }
 ]
