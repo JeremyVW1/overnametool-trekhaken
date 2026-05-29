@@ -277,7 +277,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "lat": 50.7387931,
-    "lng": 3.2534324
+    "lng": 3.2534324,
+    "info": "Distributeur/groothandel. gevestigd in Luingne (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "Bosal Benelux",
@@ -296,7 +298,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "lat": 51.1379631,
-    "lng": 4.9276963
+    "lng": 4.9276963,
+    "info": "Distributeur/groothandel. gevestigd in Westerlo (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Caravaning Center",

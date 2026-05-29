@@ -263,9 +263,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Gent (Oostakker) (Oost-Vlaanderen).",
     "lat": 51.0801047,
-    "lng": 3.7876785
+    "lng": 3.7876785,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Sint-Denijs-Westrem",
@@ -286,9 +287,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Gent (Sint-Denijs-Westrem) (Oost-Vlaanderen).",
     "lat": 51.0231007,
-    "lng": 3.6995848
+    "lng": 3.6995848,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Brugge (B-Park)",
@@ -309,9 +311,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Brugge (West-Vlaanderen).",
     "lat": 51.2453557,
-    "lng": 3.1972874
+    "lng": 3.1972874,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Bierbeek",
@@ -332,9 +335,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Korbeek-Lo (Bierbeek) (Vlaams-Brabant).",
     "lat": 50.8639779,
-    "lng": 4.7456246
+    "lng": 4.7456246,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Zwijndrecht",
@@ -355,9 +359,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Burcht (Zwijndrecht) (Antwerpen).",
     "lat": 51.2070858,
-    "lng": 4.340511
+    "lng": 4.340511,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Waregem",
@@ -378,9 +383,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Sint-Eloois-Vijve (Waregem) (West-Vlaanderen).",
     "lat": 50.9036611,
-    "lng": 3.4121342
+    "lng": 3.4121342,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Diest",
@@ -401,9 +407,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Diest (Vlaams-Brabant).",
     "lat": 50.9748557,
-    "lng": 5.0416839
+    "lng": 5.0416839,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Hasselt",
@@ -424,9 +431,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Hasselt (Limburg (BE)).",
     "lat": 50.9386863,
-    "lng": 5.316955
+    "lng": 5.316955,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Genk",
@@ -447,9 +455,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Genk (Limburg (BE)).",
     "lat": 50.9722274,
-    "lng": 5.4983332
+    "lng": 5.4983332,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Mechelen",
@@ -470,9 +479,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Mechelen (Antwerpen).",
     "lat": 50.9943355,
-    "lng": 4.4712845
+    "lng": 4.4712845,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Ninove",
@@ -493,9 +503,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Ninove (Oost-Vlaanderen).",
     "lat": 50.8381153,
-    "lng": 4.0086392
+    "lng": 4.0086392,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Wilrijk (Antwerpen)",
@@ -516,9 +527,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Wilrijk (Antwerpen) (Antwerpen).",
     "lat": 51.1729121,
-    "lng": 4.4021396
+    "lng": 4.4021396,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Geel",
@@ -539,9 +551,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Geel (Antwerpen).",
     "lat": 51.1462809,
-    "lng": 4.9564556
+    "lng": 4.9564556,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Herent",
@@ -562,9 +575,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Herent (Vlaams-Brabant).",
     "lat": 50.8867988,
-    "lng": 4.6682439
+    "lng": 4.6682439,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Dendermonde",
@@ -585,9 +599,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Dendermonde (Oost-Vlaanderen).",
     "lat": 51.0325023,
-    "lng": 4.1101357
+    "lng": 4.1101357,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Schoten",
@@ -608,9 +623,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Schoten (Antwerpen).",
     "lat": 51.2587269,
-    "lng": 4.465568
+    "lng": 4.465568,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Maasmechelen",
@@ -631,9 +647,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Maasmechelen (Limburg (BE)).",
     "lat": 50.9877925,
-    "lng": 5.7037199
+    "lng": 5.7037199,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Middelkerke",
@@ -654,9 +671,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Middelkerke (West-Vlaanderen).",
     "lat": 51.1941824,
-    "lng": 2.8423362
+    "lng": 2.8423362,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Borsbeek",
@@ -677,9 +695,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Borsbeek (Antwerpen).",
     "lat": 51.1931917,
-    "lng": 4.4757561
+    "lng": 4.4757561,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Tienen",
@@ -700,9 +719,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Tienen (Vlaams-Brabant).",
     "lat": 50.8133299,
-    "lng": 4.9317686
+    "lng": 4.9317686,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Roeselare",
@@ -723,9 +743,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Roeselare (West-Vlaanderen).",
     "lat": 50.9706426,
-    "lng": 3.1204323
+    "lng": 3.1204323,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Lier",
@@ -746,9 +767,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Lier (Antwerpen).",
     "lat": 51.1255216,
-    "lng": 4.5513893
+    "lng": 4.5513893,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Turnhout",
@@ -769,9 +791,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Turnhout (Antwerpen).",
     "lat": 51.3125497,
-    "lng": 4.9481447
+    "lng": 4.9481447,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Waver (Bierges)",
@@ -792,9 +815,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Bierges (Waver) (Waals-Brabant).",
     "lat": 50.7108132,
-    "lng": 4.6052077
+    "lng": 4.6052077,
+    "_info_auto": true
   },
   {
     "naam": "Auto5 Doornik (Froyennes)",
@@ -816,8 +840,9 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-verkoper. gevestigd in Froyennes (Doornik) (Henegouwen).",
     "lat": 50.6260391,
-    "lng": 3.3697198
+    "lng": 3.3697198,
+    "_info_auto": true
   }
 ]

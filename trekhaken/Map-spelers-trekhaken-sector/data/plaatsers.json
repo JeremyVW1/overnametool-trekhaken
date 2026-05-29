@@ -407,11 +407,12 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Wilrijk (Antwerpen) (Antwerpen).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1551501,
-    "lng": 4.3823968
+    "lng": 4.3823968,
+    "_info_auto": true
   },
   {
     "naam": "Trekhaakpunt",
@@ -432,11 +433,12 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Pure trekhaak-specialist. gevestigd in Lommel (Limburg (BE)).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2290842,
-    "lng": 5.3778855
+    "lng": 5.3778855,
+    "_info_auto": true
   },
   {
     "naam": "Patjes Trekhakencenter",
@@ -491,9 +493,10 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Antwerpen (mobiel, <30km) (Antwerpen).",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "_info_auto": true
   },
   {
     "naam": "Autex",
@@ -515,7 +518,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Geel (Antwerpen). 53+ jaar bedrijf (sinds 1973).",
     "btw": "BE0412.930.186",
     "cw_brutomarge": 194063,
     "cw_winst": 46280,
@@ -526,7 +529,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1454135,
-    "lng": 4.9995635
+    "lng": 4.9995635,
+    "_info_auto": true
   },
   {
     "naam": "Trekhakencenter Limburg / DS Trekhaken",
@@ -547,11 +551,12 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Bocholt (Limburg (BE)).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1843176,
-    "lng": 5.5770205
+    "lng": 5.5770205,
+    "_info_auto": true
   },
   {
     "naam": "Breese Trekhaakcenter",
@@ -573,7 +578,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Pure trekhaak-specialist. gevestigd in Bree (Limburg (BE)). opgericht 2021.",
     "btw": "BE0761.833.248",
     "cw_fte": 0,
     "oprichting": "2021",
@@ -581,7 +586,8 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1404034,
-    "lng": 5.5597557
+    "lng": 5.5597557,
+    "_info_auto": true
   },
   {
     "naam": "Garage Goetmaekere",
@@ -604,7 +610,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Garage met trekhaak-installatie. gevestigd in Gentbrugge (Gent) (Oost-Vlaanderen). opgericht 2011.",
     "btw": "BE0832.621.175",
     "oprichting": "2011",
     "financials_bron": "pappers.be",
@@ -616,7 +622,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0280407,
-    "lng": 3.7649557
+    "lng": 3.7649557,
+    "_info_auto": true
   },
   {
     "naam": "Autoparts De Smet",
@@ -638,7 +645,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Gent (Oost-Vlaanderen). 30 jaar bedrijf (sinds 1996).",
     "btw": "BE0459.365.373",
     "cw_brutomarge": 240413,
     "cw_winst": 90767,
@@ -649,7 +656,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0669492,
-    "lng": 3.722865
+    "lng": 3.722865,
+    "_info_auto": true
   },
   {
     "naam": "Tecno-Parts",
@@ -671,7 +679,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Merelbeke (Oost-Vlaanderen). 39 jaar bedrijf (sinds 1987).",
     "btw": "BE0432.090.260",
     "cw_brutomarge": 19827,
     "cw_winst": 9673,
@@ -682,7 +690,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.994186,
-    "lng": 3.7446777
+    "lng": 3.7446777,
+    "_info_auto": true
   },
   {
     "naam": "Eurauto",
@@ -704,7 +713,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in De Pinte (Nazareth) (Oost-Vlaanderen). 50+ jaar bedrijf (sinds 1976).",
     "btw": "BE0416.276.191",
     "cw_brutomarge": 9386,
     "cw_winst": 7952,
@@ -715,7 +724,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9967974,
-    "lng": 3.6584439
+    "lng": 3.6584439,
+    "_info_auto": true
   },
   {
     "naam": "Debackere Pieter Johan",
@@ -743,11 +753,12 @@
       "GDW",
       "Thule"
     ],
-    "info": "",
+    "info": "Erkende installateur (Bosal/GDW/Thule). gevestigd in Kachtem (Izegem) (West-Vlaanderen).",
     "is_specialist": true,
     "specialist_reason": "voert_oem_merk",
     "lat": 50.9306472,
-    "lng": 3.1870727
+    "lng": 3.1870727,
+    "_info_auto": true
   },
   {
     "naam": "Auto Parts Stekelorum",
@@ -769,7 +780,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Izegem (West-Vlaanderen). 43 jaar bedrijf (sinds 1983).",
     "btw": "BE0423.834.570",
     "cw_brutomarge": 1133650,
     "cw_winst": 458798,
@@ -781,7 +792,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.924199,
-    "lng": 3.1885842
+    "lng": 3.1885842,
+    "_info_auto": true
   },
   {
     "naam": "Garage Naeyaert",
@@ -806,11 +818,12 @@
     "merken_gevoerd": [
       "Brink"
     ],
-    "info": "",
+    "info": "Erkende installateur (Brink). gevestigd in Izegem (West-Vlaanderen).",
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9192171,
-    "lng": 3.1882934
+    "lng": 3.1882934,
+    "_info_auto": true
   },
   {
     "naam": "Alfa Auto Shop",
@@ -862,11 +875,12 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Wilrijk (Antwerpen) (Antwerpen).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1757857,
-    "lng": 4.3893043
+    "lng": 4.3893043,
+    "_info_auto": true
   },
   {
     "naam": "CAN Solutions / Trekhaakdokter",
@@ -887,11 +901,12 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Pure trekhaak-specialist. gevestigd in Beerse (Antwerpen).",
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.3030503,
-    "lng": 4.8348223
+    "lng": 4.8348223,
+    "_info_auto": true
   },
   {
     "naam": "Roca Parts",
@@ -913,7 +928,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Oevel (Westerlo) (Antwerpen). 25 jaar bedrijf (sinds 2001).",
     "btw": "BE0771.251.453",
     "cw_fte": 0,
     "oprichting": "2001",
@@ -921,7 +936,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1395883,
-    "lng": 4.9007852
+    "lng": 4.9007852,
+    "_info_auto": true
   },
   {
     "naam": "CARLOMA",
@@ -943,7 +959,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Wommelgem (Antwerpen) (Antwerpen). 58+ jaar bedrijf (sinds 1968).",
     "btw": "BE0404.078.640",
     "cw_brutomarge": 568050,
     "cw_winst": 283600,
@@ -955,7 +971,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2055972,
-    "lng": 4.4875155
+    "lng": 4.4875155,
+    "_info_auto": true
   },
   {
     "naam": "Noyen Class",
@@ -977,7 +994,7 @@
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "",
+    "info": "Trekhaak-plaatser. gevestigd in Westmalle (Malle) (Antwerpen). opgericht 2015.",
     "btw": "BE0606.979.181",
     "cw_brutomarge": 53163,
     "cw_winst": 38058,
@@ -988,7 +1005,8 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.285502,
-    "lng": 4.7094898
+    "lng": 4.7094898,
+    "_info_auto": true
   },
   {
     "naam": "ATB (Antwerps Trekhaken Bedrijf)",
@@ -1105,7 +1123,9 @@
     "lng": 3.1021565,
     "adres": "Ropswalle 11, 8930 Menen",
     "telefoon": "+32 56 51 34 00",
-    "website": "interpartseuropeautoonderdelen.be"
+    "website": "interpartseuropeautoonderdelen.be",
+    "info": "Trekhaak-plaatser. gevestigd in Menen (West-Vlaanderen). 38 jaar bedrijf (sinds 1988).",
+    "_info_auto": true
   },
   {
     "naam": "Vlb Cars (Autocrew VLB Cars)",
@@ -1165,7 +1185,9 @@
     "lat": 50.8805701,
     "lng": 3.4122067,
     "adres": "Hoogmolenwegel 21, 8790 Waregem",
-    "telefoon": "+32 56 60 42 12"
+    "telefoon": "+32 56 60 42 12",
+    "info": "Trekhaak-plaatser. gevestigd in Waregem (West-Vlaanderen). opgericht 2023.",
+    "_info_auto": true
   },
   {
     "naam": "AANHANGWAGENS SUPERMARKT FRANK VERMEIR",
@@ -1194,7 +1216,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9585802,
-    "lng": 4.7708845
+    "lng": 4.7708845,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Wezemaal (Vlaams-Brabant). 26 jaar bedrijf (sinds 2000).",
+    "_info_auto": true
   },
   {
     "naam": "Les Attaches Hennuyeres",
@@ -1222,7 +1246,9 @@
     "oprichting": "2006",
     "financials_bron": "pappers.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lodelinsart (Henegouwen). 20 jaar bedrijf (sinds 2006).",
+    "_info_auto": true
   },
   {
     "naam": "RSC Car Parts",
@@ -1269,7 +1295,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4218556,
-    "lng": 3.9586164
+    "lng": 3.9586164,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Mons (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "REMORQUES DECKERS",
@@ -1306,7 +1334,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6440865,
-    "lng": 5.5943297
+    "lng": 5.5943297,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Liege (Luik). 28 jaar bedrijf (sinds 1998).",
+    "_info_auto": true
   },
   {
     "naam": "RTS Trailer",
@@ -1327,7 +1357,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6566291,
-    "lng": 5.6244652
+    "lng": 5.6244652,
+    "info": "Trekhaak-plaatser. gevestigd in Herstal (Luik).",
+    "_info_auto": true
   },
   {
     "naam": "Attache Remorque Vito",
@@ -1355,7 +1387,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6513291,
-    "lng": 5.5924494
+    "lng": 5.5924494,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Liege (Luik). opgericht 2017.",
+    "_info_auto": true
   },
   {
     "naam": "REMORQUES BECKERS",
@@ -1421,7 +1455,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.2907261,
-    "lng": 5.7981824
+    "lng": 5.7981824,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lierneux (Luik). opgericht 2009.",
+    "_info_auto": true
   },
   {
     "naam": "RD Attache-Remorque",
@@ -1475,7 +1511,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.2576897,
-    "lng": 4.9703611
+    "lng": 4.9703611,
+    "info": "Garage met trekhaak-installatie. gevestigd in Sorinnes (Namen).",
+    "_info_auto": true
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -1496,7 +1534,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5485637,
-    "lng": 4.6597369
+    "lng": 4.6597369,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Corroy-le-Chateau (Namen).",
+    "_info_auto": true
   },
   {
     "naam": "Remorque Californie Bastogne",
@@ -1517,7 +1557,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.9946843,
-    "lng": 5.7270317
+    "lng": 5.7270317,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Bastogne (Luxemburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "NOISET Remorques-Automobiles Fauvillers",
@@ -1544,7 +1586,9 @@
     "oprichting": "1973",
     "financials_bron": "pappers.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Fauvillers (Luxemburg (BE)). 53+ jaar bedrijf (sinds 1973).",
+    "_info_auto": true
   },
   {
     "naam": "Remorques Noiset Arlon",
@@ -1565,7 +1609,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.6975549,
-    "lng": 5.8091669
+    "lng": 5.8091669,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Arlon (Luxemburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Ronny",
@@ -1586,7 +1632,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0182613,
-    "lng": 4.4687314
+    "lng": 4.4687314,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens & Trekhaken Maillard",
@@ -1607,7 +1655,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.7576337,
-    "lng": 4.2032812
+    "lng": 4.2032812,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Halle (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "DN Trailers",
@@ -1720,7 +1770,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6731063,
-    "lng": 3.4486534
+    "lng": 3.4486534,
+    "info": "Trekhaak-plaatser. gevestigd in Velaines (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Accu&Co",
@@ -1741,7 +1793,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0183203,
-    "lng": 4.9491741
+    "lng": 4.9491741,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Testelt (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "VMV Group BVBA",
@@ -1761,7 +1815,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "info": "Erkende installateur (Brink). gevestigd in Haaltert (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Garage Alain",
@@ -1784,7 +1840,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9185705,
-    "lng": 3.9942062
+    "lng": 3.9942062,
+    "info": "Erkende installateur (Brink). gevestigd in Aalst (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Vanhulle Menen bvba",
@@ -1807,7 +1865,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8074432,
-    "lng": 3.1229164
+    "lng": 3.1229164,
+    "info": "Erkende installateur (Brink). gevestigd in Menen (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Autoservice Geuens",
@@ -1830,7 +1890,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2285378,
-    "lng": 5.3790787
+    "lng": 5.3790787,
+    "info": "Erkende installateur (Brink). gevestigd in Pelt (Limburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Schrooten Autotechnics",
@@ -1853,7 +1915,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1210488,
-    "lng": 5.5916573
+    "lng": 5.5916573,
+    "info": "Erkende installateur (Brink). gevestigd in Bree (Limburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Boone Tom",
@@ -1876,7 +1940,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8188534,
-    "lng": 3.8471159
+    "lng": 3.8471159,
+    "info": "Erkende installateur (Brink). gevestigd in Lierde (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar MC Motors NV",
@@ -1899,7 +1965,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0464582,
-    "lng": 4.4169254
+    "lng": 4.4169254,
+    "info": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Bariseau Mottrie",
@@ -1922,7 +1990,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.975549,
-    "lng": 3.1201307
+    "lng": 3.1201307,
+    "info": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Cremers",
@@ -1945,7 +2015,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8731545,
-    "lng": 5.3671829
+    "lng": 5.3671829,
+    "info": "Erkende installateur (Brink). gevestigd in Kortessem (Limburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Pashuysen NV (HQ Aarschot)",
@@ -1991,7 +2063,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1591548,
-    "lng": 3.0545367
+    "lng": 3.0545367,
+    "info": "Erkende installateur (Brink). gevestigd in Bekegem (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar 4all cars bvba",
@@ -2014,7 +2088,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2275695,
-    "lng": 4.0895287
+    "lng": 4.0895287,
+    "info": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Peelaerts bv",
@@ -2037,7 +2113,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9623206,
-    "lng": 4.6034196
+    "lng": 4.6034196,
+    "info": "Erkende installateur (Brink). gevestigd in Boortmeerbeek (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Van Humbeeck",
@@ -2060,7 +2138,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9304979,
-    "lng": 4.2691213
+    "lng": 4.2691213,
+    "info": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Luc De Thaey BVBA",
@@ -2083,7 +2163,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0633541,
-    "lng": 4.0233443
+    "lng": 4.0233443,
+    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Dumarey",
@@ -2106,7 +2188,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0819597,
-    "lng": 3.1111808
+    "lng": 3.1111808,
+    "info": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Vervoort",
@@ -2129,7 +2213,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2113452,
-    "lng": 4.5963325
+    "lng": 4.5963325,
+    "info": "Erkende installateur (Brink). gevestigd in Oelegem (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Koen de Maeyer",
@@ -2152,7 +2238,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1448178,
-    "lng": 4.2842254
+    "lng": 4.2842254,
+    "info": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Thomaco Services BV",
@@ -2174,7 +2262,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9952334,
-    "lng": 3.0342703
+    "lng": 3.0342703,
+    "info": "Erkende installateur (Brink). gevestigd in Hooglede (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Cartronic Maaseik BV",
@@ -2197,7 +2287,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1022819,
-    "lng": 5.7498422
+    "lng": 5.7498422,
+    "info": "Erkende installateur (Brink). gevestigd in Maaseik (Limburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Lavrijsen NV",
@@ -2220,7 +2312,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1651977,
-    "lng": 5.0315127
+    "lng": 5.0315127,
+    "info": "Erkende installateur (Brink). gevestigd in Geel (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar Preumont",
@@ -2243,7 +2337,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.0503677,
-    "lng": 4.4511862
+    "lng": 4.4511862,
+    "info": "Erkende installateur (Brink). gevestigd in Couvin (Namen).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar D.N. Cars",
@@ -2266,7 +2362,9 @@
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 49.99781,
-    "lng": 5.6902087
+    "lng": 5.6902087,
+    "info": "Erkende installateur (Brink). gevestigd in Bastogne (Luxemburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "Eurorepar FL Motor",
@@ -2287,7 +2385,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "info": "Erkende installateur (Brink). gevestigd in Florenville (Luxemburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "AANHANGWAGEN STOCK",
@@ -2314,7 +2414,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2129531,
-    "lng": 2.9612287
+    "lng": 2.9612287,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Oostende (West-Vlaanderen). opgericht 2013.",
+    "_info_auto": true
   },
   {
     "naam": "DROWA AANHANGWAGENS",
@@ -2395,7 +2497,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8528517,
-    "lng": 3.0191999
+    "lng": 3.0191999,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonnebeke (West-Vlaanderen). opgericht 2009.",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Peter",
@@ -2420,7 +2524,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0398238,
-    "lng": 4.6190298
+    "lng": 4.6190298,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Putte (Antwerpen). opgericht 2019.",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Ronny (Pire Ronald)",
@@ -2447,7 +2553,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0182613,
-    "lng": 4.4687314
+    "lng": 4.4687314,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen). opgericht 2014.",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Servaes",
@@ -2472,7 +2580,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9986523,
-    "lng": 4.1723149
+    "lng": 4.1723149,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Buggenhout (Oost-Vlaanderen). opgericht 2024.",
+    "_info_auto": true
   },
   {
     "naam": "BAETENS Aanhangwagens",
@@ -2497,7 +2607,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9896571,
-    "lng": 3.7989404
+    "lng": 3.7989404,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Melle (Oost-Vlaanderen). opgericht 2012.",
+    "_info_auto": true
   },
   {
     "naam": "Carr. Brugghemans (VAG Aanhangwagens)",
@@ -2552,7 +2664,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9049268,
-    "lng": 3.2436607
+    "lng": 3.2436607,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Ingelmunster (West-Vlaanderen). opgericht 2024.",
+    "_info_auto": true
   },
   {
     "naam": "DECAL AANHANGWAGENS",
@@ -2579,7 +2693,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1108986,
-    "lng": 3.6657736
+    "lng": 3.6657736,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Evergem (Oost-Vlaanderen). pas opgericht (2025).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens antoon",
@@ -2603,7 +2719,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0108553,
-    "lng": 5.3932247
+    "lng": 5.3932247,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Zonhoven (Limburg (BE)). pas opgericht (2025).",
+    "_info_auto": true
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -2630,7 +2748,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5485637,
-    "lng": 4.6597369
+    "lng": 4.6597369,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gembloux (Namen). opgericht 2009.",
+    "_info_auto": true
   },
   {
     "naam": "BRUXELLES-REMORQUES",
@@ -2683,7 +2803,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5514915,
-    "lng": 5.228311
+    "lng": 5.228311,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Wanze (Luik). opgericht 2019.",
+    "_info_auto": true
   },
   {
     "naam": "PTS AANHANGWAGENS-REMORQUES",
@@ -2734,7 +2856,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.1668109,
-    "lng": 4.1848221
+    "lng": 4.1848221,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry-Rance (Henegouwen). opgericht 2011.",
+    "_info_auto": true
   },
   {
     "naam": "MONS REMORQUE",
@@ -2759,7 +2883,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Frameries (Henegouwen). opgericht 2021.",
+    "_info_auto": true
   },
   {
     "naam": "P-V REMORQUE & FILS",
@@ -2785,7 +2911,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.7319185,
-    "lng": 3.6867905
+    "lng": 3.6867905,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Ellezelles (Henegouwen). opgericht 2024.",
+    "_info_auto": true
   },
   {
     "naam": "REMORQUE VL (Laurent Vincent)",
@@ -2806,7 +2934,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5254484,
-    "lng": 4.6061174
+    "lng": 4.6061174,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sombreffe (Namen). opgericht 2015.",
+    "_info_auto": true
   },
   {
     "naam": "CL Remorques (Laurent Carine)",
@@ -2831,7 +2961,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5246818,
-    "lng": 4.6130295
+    "lng": 4.6130295,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sombreffe (Namen). pas opgericht (2025).",
+    "_info_auto": true
   },
   {
     "naam": "Angelo la bonne remorque",
@@ -2855,7 +2987,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4411553,
-    "lng": 4.666067
+    "lng": 4.666067,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Jemeppe-sur-Sambre (Namen). opgericht 2020.",
+    "_info_auto": true
   },
   {
     "naam": "GGM REMORQUE",
@@ -2875,7 +3009,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.9844362,
-    "lng": 4.9787078
+    "lng": 4.9787078,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gedinne (Namen). opgericht 2023.",
+    "_info_auto": true
   },
   {
     "naam": "GARAGE DJOU",
@@ -2959,7 +3095,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.3277428,
-    "lng": 4.8822276
+    "lng": 4.8822276,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Yvoir (Namen). opgericht 2019.",
+    "_info_auto": true
   },
   {
     "naam": "Mathieu Kerckhofs Trailers",
@@ -3167,7 +3305,7 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Aanhangwagen dealer.",
+    "info": "Aanhangwagen dealer. | Erkende installateur (multi-merk). gevestigd in Lokeren (Oost-Vlaanderen).",
     "bron": [
       "atec_dealer",
       "branche_niche_2026_05_29"
@@ -3175,7 +3313,8 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.1122339,
-    "lng": 3.9326602
+    "lng": 3.9326602,
+    "_info_auto": true
   },
   {
     "naam": "VDV Trailers",
@@ -3202,7 +3341,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.6818649,
-    "lng": 4.0314399
+    "lng": 4.0314399,
+    "info": "Erkende installateur (Eduard/Ifor Williams). gevestigd in Enghien (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "JS Trailers (Schutyser)",
@@ -3227,7 +3368,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.9685568,
-    "lng": 3.7110036
+    "lng": 3.7110036,
+    "info": "Erkende installateur (Ifor Williams). gevestigd in Merelbeke (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Delvan Aanhangwagens",
@@ -3250,7 +3393,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Merchtem (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "Remorques Moreau",
@@ -3273,7 +3418,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lives-sur-Meuse (Namen).",
+    "_info_auto": true
   },
   {
     "naam": "LOJI Trailers & Van Solutions",
@@ -3297,7 +3444,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.140654,
-    "lng": 5.6138162
+    "lng": 5.6138162,
+    "info": "Erkende installateur (Eduard). gevestigd in Bree (Limburg (BE)).",
+    "_info_auto": true
   },
   {
     "naam": "VAG Aanhangwagens",
@@ -3321,7 +3470,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0546513,
-    "lng": 4.45828
+    "lng": 4.45828,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Vincent Lavaert",
@@ -3345,7 +3496,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.794932,
-    "lng": 3.178242
+    "lng": 3.178242,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Menen (West-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Alle Aanhangwagens Sint-Gillis-Waas",
@@ -3369,7 +3522,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2160126,
-    "lng": 4.1027604
+    "lng": 4.1027604,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "Aanhangwagens Van Hoecke",
@@ -3393,7 +3548,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0274948,
-    "lng": 4.020684
+    "lng": 4.020684,
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Berlare (Oost-Vlaanderen).",
+    "_info_auto": true
   },
   {
     "naam": "DC Remorques SPRL",
@@ -3417,7 +3574,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.167055,
-    "lng": 4.1755492
+    "lng": 4.1755492,
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Sivry (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "Cargo Trailer Villers-le-Bouillet",
@@ -3441,7 +3600,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5829901,
-    "lng": 5.2657896
+    "lng": 5.2657896,
+    "info": "Erkende installateur (Eduard). gevestigd in Villers-le-Bouillet (Luik).",
+    "_info_auto": true
   },
   {
     "naam": "TACK Aanhangwagens NV",
@@ -3488,7 +3649,9 @@
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.848485,
-    "lng": 4.8211717
+    "lng": 4.8211717,
+    "info": "Erkende installateur (Ifor Williams). gevestigd in Boutersem (Vlaams-Brabant).",
+    "_info_auto": true
   },
   {
     "naam": "Trekhaakcentrum Geel (Autex)",
@@ -3529,7 +3692,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Gosselies (Henegouwen).",
+    "_info_auto": true
   },
   {
     "naam": "Motor Service Huy (Les Remorques de Huy)",
