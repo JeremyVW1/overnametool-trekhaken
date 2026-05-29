@@ -3,7 +3,10 @@
     "naam": "Rameder Benelux",
     "land": "BE",
     "provincie": "ant",
-    "categorieen": ["verkoper", "distributeur"],
+    "categorieen": [
+      "verkoper",
+      "distributeur"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Groot",
     "lat": 51.2194,
@@ -13,13 +16,18 @@
     "website": "rameder.be",
     "webshop": "Ja",
     "info": "Europese marktleider online. ~320.000 trekhaken/jaar.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaken.com (AAS)",
     "land": "NL",
     "provincie": "nb",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Middelgroot",
     "lat": 51.5719,
@@ -28,60 +36,89 @@
     "plaats": "Breda",
     "website": "trekhaken.com",
     "webshop": "Ja",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "info": "Specialist NL, Brink/Bosal info + webshop.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaken.nl",
     "land": "NL",
     "provincie": "ut",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Middelgroot",
     "lat": 52.0907,
     "lng": 5.1214,
     "website": "trekhaken.nl",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "Algemene NL trekhaak-specialist.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaken.be",
     "land": "BE",
     "provincie": "ovl",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Middelgroot",
     "lat": 51.0543,
     "lng": 3.7174,
     "website": "trekhaken.be",
-    "nace": ["45.32"],
+    "nace": [
+      "45.32"
+    ],
     "webshop": "Ja",
     "info": "Belgische webshop voor trekhaken en aanhangwagenonderdelen.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaakdiscounter.nl",
     "land": "NL",
     "provincie": "gl",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Klein",
     "lat": 51.9851,
     "lng": 5.8987,
     "website": "trekhaakdiscounter.nl",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "Prijsgericht, BE+NL markten.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Auto5 (HQ)",
     "land": "BE",
     "provincie": "bru",
-    "categorieen": ["verkoper", "garage"],
+    "categorieen": [
+      "verkoper",
+      "garage"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Groot",
     "lat": 50.8503,
@@ -89,69 +126,630 @@
     "adres": "Brussel",
     "plaats": "Brussel",
     "website": "auto5.be",
-    "nace": ["45.32"],
+    "nace": [
+      "45.32"
+    ],
     "webshop": "Ja",
     "info": "Norauto-keten. 80+ vestigingen BE. Retail auto-onderdelen + trekhaken.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Autodoc NL/BE",
     "land": "NL",
     "provincie": "nh",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Groot",
     "lat": 52.3676,
     "lng": 4.9041,
     "website": "autodoc.nl",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "Grote Europese webshop auto-onderdelen incl. trekhaken-categorie.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Norauto Benelux",
     "land": "BE",
     "provincie": "ant",
-    "categorieen": ["verkoper", "plaatser"],
+    "categorieen": [
+      "verkoper",
+      "plaatser"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Groot",
     "lat": 51.2194,
     "lng": 4.4025,
     "website": "norauto.be",
-    "nace": ["45.32"],
+    "nace": [
+      "45.32"
+    ],
     "webshop": "Ja",
     "info": "Retailketen Benelux. Brink + eigen Norauto-merk trekhaken.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Halfords NL",
     "land": "NL",
     "provincie": "gl",
-    "categorieen": ["verkoper"],
+    "categorieen": [
+      "verkoper"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Groot",
-    "lat": 52.1000,
-    "lng": 5.6500,
+    "lat": 52.1,
+    "lng": 5.65,
     "website": "halfords.nl",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "Fietsen + auto-accessoires. Trekhaak-accessoires.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "DK Autoparts",
     "land": "BE",
     "provincie": "ovl",
-    "categorieen": ["verkoper", "distributeur"],
+    "categorieen": [
+      "verkoper",
+      "distributeur"
+    ],
     "primaire_categorie": "verkoper",
     "grootte": "Middelgroot",
     "lat": 51.0543,
     "lng": 3.7174,
     "website": "dk-autoparts.be",
-    "nace": ["45.32", "46.77"],
+    "nace": [
+      "45.32",
+      "46.77"
+    ],
     "webshop": "Ja",
     "info": "Online + B2B groothandel. Brede range trekhaken.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
+  },
+  {
+    "naam": "Auto5 Oostakker",
+    "plaats": "Gent (Oostakker)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Herman Teirlinckstraat 4, 9041 Oostakker",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Sint-Denijs-Westrem",
+    "plaats": "Gent (Sint-Denijs-Westrem)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Kortrijksesteenweg 1030, 9051 Sint-Denijs-Westrem",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Brugge (B-Park)",
+    "plaats": "Brugge",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Blankenbergse Steenweg 390, 8000 Brugge",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Bierbeek",
+    "plaats": "Korbeek-Lo (Bierbeek)",
+    "land": "BE",
+    "provincie": "vbr",
+    "adres": "Vlinderlaan 1, 3360 Korbeek-Lo",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Zwijndrecht",
+    "plaats": "Burcht (Zwijndrecht)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Zwijndrechtsestraat 151, 2070 Burcht",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Waregem",
+    "plaats": "Sint-Eloois-Vijve (Waregem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Gentseweg 612, 8793 Sint-Eloois-Vijve",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Diest",
+    "plaats": "Diest",
+    "land": "BE",
+    "provincie": "vbr",
+    "adres": "Leuvensesteenweg 110, 3290 Diest",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Hasselt",
+    "plaats": "Hasselt",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Herkenrodesingel 2, 3500 Hasselt",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Genk",
+    "plaats": "Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Evence Coppéelaan 13, 3600 Genk",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Mechelen",
+    "plaats": "Mechelen",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Zemstbaan 242, 2800 Mechelen",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Ninove",
+    "plaats": "Ninove",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Albertlaan 30, 9400 Ninove",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Wilrijk (Antwerpen)",
+    "plaats": "Wilrijk (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Jules Moretuslei 435, 2610 Wilrijk",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Geel",
+    "plaats": "Geel",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Antwerpseweg 81c, 2440 Geel",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Herent",
+    "plaats": "Herent",
+    "land": "BE",
+    "provincie": "vbr",
+    "adres": "Brusselsesteenweg 18, 3020 Herent",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Dendermonde",
+    "plaats": "Dendermonde",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Kroonveldlaan 9, 9200 Dendermonde",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Schoten",
+    "plaats": "Schoten",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Bredabaan 967, 2900 Schoten",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Maasmechelen",
+    "plaats": "Maasmechelen",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Nijverheidslaan 1, 3630 Maasmechelen",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Middelkerke",
+    "plaats": "Middelkerke",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Oostendelaan 302, 8430 Middelkerke",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Borsbeek",
+    "plaats": "Borsbeek",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "de Robianostraat 155, 2150 Borsbeek",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Tienen",
+    "plaats": "Tienen",
+    "land": "BE",
+    "provincie": "vbr",
+    "adres": "Albertvest 15, 3300 Tienen",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Roeselare",
+    "plaats": "Roeselare",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Brugsesteenweg 500, 8800 Roeselare",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Lier",
+    "plaats": "Lier",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Lintsesteenweg 4, 2500 Lier",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Turnhout",
+    "plaats": "Turnhout",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Parklaan 80-82, 2300 Turnhout",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Waver (Bierges)",
+    "plaats": "Bierges (Waver)",
+    "land": "BE",
+    "provincie": "bwa",
+    "adres": "Boulevard de l'Europe 3, 1301 Bierges",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto5 Doornik (Froyennes)",
+    "plaats": "Froyennes (Doornik)",
+    "land": "BE",
+    "provincie": "hai",
+    "adres": "Rue de Maire 6, 7503 Froyennes",
+    "telefoon": null,
+    "website": "auto5.be",
+    "categorieen": [
+      "verkoper"
+    ],
+    "primaire_categorie": "verkoper",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
   }
 ]

@@ -27,6 +27,7 @@
     { key: "cw_winst",       label: "Winst",       sortable: true,  align: "right" },
     { key: "cw_fte",         label: "FTE",         sortable: true,  align: "right" },
     { key: "adres",          label: "Adres",       sortable: true,  filter: "text" },
+    { key: "telefoon",       label: "Telefoon",    sortable: true,  filter: "text" },
     { key: "btw_kvk",        label: "BTW/KvK",     sortable: true,  filter: "text" },
     { key: "website",        label: "Website",     sortable: true,  filter: "text" },
     { key: "bron",           label: "Bron",        sortable: false },
@@ -307,7 +308,37 @@
     const fmt = v => (typeof v === "number" ? (window.fmtK ? window.fmtK(v) : v) : (v == null || v === "" ? "—" : v));
     const prov = window.PROV_LABELS?.[b.provincie] || b.provincie || "";
     const land = window.LAND_LABELS?.[b.land] || b.land || "";
-    const btwKvk = b.btw || b.kvk || "";
+
+    // ─── Adres → Google Maps link ───
+    const adresHtml = b.adres
+      ? `<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(b.adres + ", " + (b.land === "BE" ? "België" : "Nederland"))}" target="_blank" rel="noopener" title="Open in Google Maps">📍 ${escapeHtml(b.adres)}</a>`
+      : "—";
+
+    // ─── Telefoon → tel: link ───
+    const telefoonHtml = b.telefoon
+      ? `<a href="tel:${String(b.telefoon).replace(/[^+\d]/g, "")}" title="Bellen">📞 ${escapeHtml(b.telefoon)}</a>`
+      : "—";
+
+    // ─── BTW/KvK → CompanyWeb (BE) of KvK.nl (NL) link ───
+    let btwKvkHtml = "—";
+    if (b.btw) {
+      const num = String(b.btw).replace(/[^0-9]/g, "");
+      const csNum = num.replace(/^0+/, "");
+      btwKvkHtml = `<a href="https://www.companyweb.be/nl/${num}" target="_blank" rel="noopener" title="CompanyWeb"><code>${escapeHtml(b.btw)}</code></a>`
+        + ` <a href="https://app.creditsafe.com/companies/BE-X-${csNum}" target="_blank" rel="noopener" class="cs-link" title="Creditsafe">CS</a>`
+        + ` <a href="https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=${num}" target="_blank" rel="noopener" class="cs-link" title="KBO">KBO</a>`;
+    } else if (b.kvk) {
+      const num = String(b.kvk).replace(/[^0-9]/g, "");
+      btwKvkHtml = `<a href="https://www.kvk.nl/orderstraat/bedrijfsprofiel/?kvknummer=${num}" target="_blank" rel="noopener" title="KvK"><code>${escapeHtml(b.kvk)}</code></a>`;
+    } else if (b.land === "BE" && b.naam) {
+      // Geen BTW bekend → KBO zoek-link op naam
+      btwKvkHtml = `<a href="https://kbopub.economie.fgov.be/kbopub/zoekwoordenform.html?searchWord=${encodeURIComponent(b.naam)}" target="_blank" rel="noopener" class="cs-link" title="Zoek BTW op KBO">🔎 KBO zoek</a>`;
+    }
+
+    // ─── Website → externe link ───
+    const websiteHtml = b.website
+      ? `<a href="${b.website.startsWith("http") ? b.website : "https://" + b.website}" target="_blank" rel="noopener">🌐 ${escapeHtml(b.website)}</a>`
+      : "—";
 
     return `
       <tr>
@@ -321,9 +352,10 @@
         <td style="text-align:right">${fmt(b.bizzy_ebitda)}</td>
         <td style="text-align:right">${fmt(b.cw_winst)}</td>
         <td style="text-align:right">${b.cw_fte ?? "—"}</td>
-        <td>${escapeHtml(b.adres || "")}</td>
-        <td><code>${escapeHtml(btwKvk)}</code></td>
-        <td>${b.website ? `<a href="${b.website.startsWith("http") ? b.website : "https://" + b.website}" target="_blank" rel="noopener">${escapeHtml(b.website)}</a>` : "—"}</td>
+        <td>${adresHtml}</td>
+        <td>${telefoonHtml}</td>
+        <td>${btwKvkHtml}</td>
+        <td>${websiteHtml}</td>
         <td>${(b.bron || []).join(", ")}</td>
       </tr>
     `;

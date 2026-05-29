@@ -3,7 +3,11 @@
     "naam": "Carloma",
     "land": "BE",
     "provincie": "ant",
-    "categorieen": ["plaatser", "verkoper", "distributeur"],
+    "categorieen": [
+      "plaatser",
+      "verkoper",
+      "distributeur"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Groot",
     "lat": 51.2125,
@@ -12,68 +16,108 @@
     "plaats": "Deurne (Antwerpen)",
     "btw": "BE0428.245.815",
     "website": "carloma.be",
-    "nace": ["45.32", "45.20"],
-    "merken_gevoerd": ["Westfalia", "GDW", "Brink", "Bosal", "Sawiko", "Al-Ko", "Yakima"],
+    "nace": [
+      "45.32",
+      "45.20"
+    ],
+    "merken_gevoerd": [
+      "Westfalia",
+      "GDW",
+      "Brink",
+      "Bosal",
+      "Sawiko",
+      "Al-Ko",
+      "Yakima"
+    ],
     "webshop": "Ja",
     "oprichting": "1968",
     "info": "Importeur Westfalia + grootste trekhaken-plaatser BE. 1000+ modellen op voorraad.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaakdokter",
     "land": "BE",
     "provincie": "ant",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
     "lat": 51.3138,
-    "lng": 4.8540,
+    "lng": 4.854,
     "adres": "Beerse",
     "plaats": "Beerse",
     "website": "trekhaakdokter.be",
-    "nace": ["45.32", "45.20"],
+    "nace": [
+      "45.32",
+      "45.20"
+    ],
     "oprichting": "2009",
     "webshop": "Ja",
     "info": "B2B-gericht (voor garages), codering + montage. Oprichter Steven Peeters.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhakencenter Limburg",
     "land": "BE",
     "provincie": "lim",
-    "categorieen": ["plaatser", "verkoper"],
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
-    "lat": 51.1700,
-    "lng": 5.5800,
+    "lat": 51.17,
+    "lng": 5.58,
     "adres": "Bocholt",
     "plaats": "Bocholt",
     "website": "trekhakencenterlimburg.be",
-    "nace": ["45.32", "45.20"],
+    "nace": [
+      "45.32",
+      "45.20"
+    ],
     "webshop": "Ja",
     "info": "Regionaal specialist Limburg (BE).",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaakcenter Midlim",
     "land": "BE",
     "provincie": "lim",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
     "lat": 51.1416,
     "lng": 5.5917,
     "adres": "Bree",
     "plaats": "Bree",
-    "nace": ["45.32"],
+    "nace": [
+      "45.32"
+    ],
     "info": "Regionaal specialist Limburg (BE).",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Encase Limburg",
     "land": "NL",
     "provincie": "li",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
     "lat": 50.8514,
@@ -81,42 +125,66 @@
     "adres": "Limburg (NL)",
     "plaats": "Limburg (NL)",
     "website": "encaselimburg.nl",
-    "sbi": ["4532", "4520"],
+    "sbi": [
+      "4532",
+      "4520"
+    ],
     "info": "Partner van Trekhaakcentrum.nl.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaak Punt",
     "land": "BE",
     "provincie": "ovl",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
-    "lat": 51.0500,
-    "lng": 3.7000,
+    "lat": 51.05,
+    "lng": 3.7,
     "website": "trekhaakpunt.be",
-    "nace": ["45.32"],
+    "nace": [
+      "45.32"
+    ],
     "info": "Meerdere locaties BE. Montage vanaf 369 EUR.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Luc Auto (Lucar bvba)",
     "land": "BE",
     "provincie": "ovl",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
     "lat": 51.0428,
     "lng": 3.6388,
-    "nace": ["45.32", "45.20"],
+    "nace": [
+      "45.32",
+      "45.20"
+    ],
     "info": "25+ jaar ervaring, voordelig tarief.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaakcentrum.nl (HQ)",
     "land": "NL",
     "provincie": "nb",
-    "categorieen": ["plaatser", "verkoper"],
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Groot",
     "lat": 51.6978,
@@ -124,16 +192,25 @@
     "adres": "'s-Hertogenbosch",
     "plaats": "Den Bosch",
     "website": "trekhaakcentrum.nl",
-    "sbi": ["4532", "4520"],
+    "sbi": [
+      "4532",
+      "4520"
+    ],
     "webshop": "Ja",
     "info": "Grootste franchise-netwerk NL — 100+ vestigingen, 15+ jaar, lifetime garantie.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Trekhaken.nu",
     "land": "NL",
     "provincie": "ut",
-    "categorieen": ["plaatser", "verkoper"],
+    "categorieen": [
+      "plaatser",
+      "verkoper"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Groot",
     "lat": 52.0907,
@@ -141,16 +218,24 @@
     "adres": "Utrecht",
     "plaats": "Utrecht",
     "website": "trekhaken.nu",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "Brink-specialist sinds 2001. Nationaal partner-installateur netwerk NL.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Burghof Trekhaken",
     "land": "NL",
     "provincie": "gl",
-    "categorieen": ["plaatser", "distributeur"],
+    "categorieen": [
+      "plaatser",
+      "distributeur"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
     "lat": 51.9249,
@@ -158,16 +243,25 @@
     "adres": "Industrieweg, Elst",
     "plaats": "Elst (NL)",
     "website": "burghoftrekhaken.nl",
-    "sbi": ["4532", "4520"],
+    "sbi": [
+      "4532",
+      "4520"
+    ],
     "webshop": "Ja",
     "info": "Speciaalzaak + 66 montage-partners BE+NL.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "KwikFit Nederland (HQ)",
     "land": "NL",
     "provincie": "ut",
-    "categorieen": ["plaatser", "garage"],
+    "categorieen": [
+      "plaatser",
+      "garage"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Groot",
     "lat": 52.0907,
@@ -175,39 +269,1972 @@
     "adres": "Hoofdkantoor Utrecht",
     "plaats": "Utrecht",
     "website": "kwik-fit.nl",
-    "sbi": ["4520", "4532"],
+    "sbi": [
+      "4520",
+      "4532"
+    ],
     "webshop": "Ja",
     "info": "400+ vestigingen NL, trekhaken als nevendienst maar groot bereik.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Procar Tuning",
     "land": "NL",
     "provincie": "nh",
-    "categorieen": ["plaatser"],
+    "categorieen": [
+      "plaatser"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
     "lat": 52.3017,
     "lng": 4.8639,
     "adres": "Amstelveen",
     "plaats": "Amstelveen",
-    "sbi": ["4532"],
+    "sbi": [
+      "4532"
+    ],
     "info": "Regionaal specialist Amsterdam/Amstelveen.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
   },
   {
     "naam": "Clausehuis Groep",
     "land": "NL",
     "provincie": "zh",
-    "categorieen": ["plaatser", "garage"],
+    "categorieen": [
+      "plaatser",
+      "garage"
+    ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
     "lat": 52.0705,
     "lng": 4.3007,
     "adres": "Den Haag",
     "plaats": "Den Haag",
-    "sbi": ["4520", "4532"],
+    "sbi": [
+      "4520",
+      "4532"
+    ],
     "info": "BOVAG-garage 480m2, trekhaken + montage + dealer.",
-    "bron": ["marktresearch", "manual"]
+    "bron": [
+      "marktresearch",
+      "manual"
+    ]
+  },
+  {
+    "naam": "Garage Tim Crabbe",
+    "plaats": "Bornem",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": null,
+    "telefoon": "+32-471-112642",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "MV Custom",
+    "plaats": "Herk-de-Stad",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": null,
+    "telefoon": "+32-494-349909",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Jansens-Geerlink",
+    "plaats": "Turnhout",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": null,
+    "telefoon": "+32-14-453796",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Haverbeke",
+    "plaats": "Roeselare",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": null,
+    "telefoon": "+32-51-252544",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Reusch",
+    "plaats": "Recht (Sankt-Vith)",
+    "land": "BE",
+    "provincie": "lux",
+    "adres": null,
+    "telefoon": "+32-80-570567",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "ATB Trekhaken",
+    "plaats": "Wilrijk (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Boomsesteenweg 125-127, 2610 Wilrijk",
+    "telefoon": "03 237 38 24",
+    "website": "atbtrekhaken.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Trekhaakpunt",
+    "plaats": "Lommel",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Waterrijtstraat 19E, 3920 Lommel",
+    "telefoon": null,
+    "website": "trekhaakpunt.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Patjes Trekhakencenter",
+    "plaats": "Herzele",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Provincieweg 445/1, 9550 Herzele",
+    "telefoon": "09/346 66 70",
+    "website": "patjestrekhakencenter.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Van Vooren - Lucar bvba",
+    "plaats": "Oosteeklo",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Abdijstraat 14, 9968 Oosteeklo",
+    "telefoon": "09 373 80 30",
+    "website": "lucarbvba.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto Center Gent",
+    "plaats": "Gent",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": null,
+    "telefoon": "0487 54 58 42",
+    "website": "autocentergent.com",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "AAS Trekhaken",
+    "plaats": "Antwerpen (mobiel, <30km)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": null,
+    "telefoon": "0456 013 068",
+    "website": "trekhaken.com",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Autex",
+    "plaats": "Geel",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Winkelom 87 A3-A4, 2440 Geel",
+    "telefoon": "014 58 23 16",
+    "website": "autex.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Trekhakencenter Limburg / DS Trekhaken",
+    "plaats": "Bocholt",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Rademakersstraat 78B, 3950 Bocholt",
+    "telefoon": "+32 488 70 89 85",
+    "website": "trekhakencenterlimburg.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Breese Trekhaakcenter",
+    "plaats": "Bree",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Toekomststraat 6D, 3960 Bree",
+    "telefoon": "+32 493 04 95 33",
+    "website": "breesetrekhaakcenter.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Bosch Car Service Gavaro",
+    "plaats": "Antwerpen",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": null,
+    "telefoon": "035449436",
+    "website": "garagegavaro.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "BUROPORT",
+    "plaats": "Aalst",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Gentse steenweg 142, 9300 Aalst",
+    "telefoon": "+32 53 78 88 93",
+    "website": "carservice.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Goetmaekere",
+    "plaats": "Gentbrugge (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Jean Jaurèslaan 56, 9050 Gentbrugge",
+    "telefoon": "+32 9 230 30 40",
+    "website": "garage-goetmaekere.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Euro Car Center",
+    "plaats": "Gentbrugge (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Brusselsesteenweg 612, 9050 Gentbrugge",
+    "telefoon": null,
+    "website": "eurocarcenter.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Coppens Auto-Products",
+    "plaats": "Ledeberg (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Brusselsesteenweg 11, 9050 Ledeberg",
+    "telefoon": null,
+    "website": "coppens-auto-products-gent.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Dupontseel Guido",
+    "plaats": "Sint-Amandsberg (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Antwerpsesteenweg 1096, 9041 Sint-Amandsberg",
+    "telefoon": "+32 9 356 91 40",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Brittannia",
+    "plaats": "Sint-Amandsberg (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Antwerpsesteenweg 1116, 9041 Sint-Amandsberg",
+    "telefoon": "+32 9 355 51 99",
+    "website": "brittannia.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Bodemmakerij De Stoop en Co",
+    "plaats": "Sint-Amandsberg (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Land van Waaslaan 177, 9040 Sint-Amandsberg",
+    "telefoon": null,
+    "website": "autohandel-destoop.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto's Van Wassenhove",
+    "plaats": "Gontrode (Merelbeke)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Geraardsbergsesteenweg 84, 9090 Gontrode",
+    "telefoon": "+32 9 252 25 34",
+    "website": "vanwassenhove.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Autocrew VLB Cars",
+    "plaats": "Wetteren",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Zuidlaan 336, 9230 Wetteren",
+    "telefoon": "+32 9 369 17 41",
+    "website": "vlbcars.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "LO AUTO",
+    "plaats": "Lochristi",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Antwerpse Steenweg 11A, 9080 Lochristi",
+    "telefoon": "+32 9 355 97 92",
+    "website": "lo-auto.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Gent Motors",
+    "plaats": "Gent",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Zwijnaardsesteenweg 143, 9000 Gent",
+    "telefoon": null,
+    "website": "gentmotors.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Autoparts De Smet",
+    "plaats": "Gent",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Spaarstraat 13, 9000 Gent",
+    "telefoon": "+32 9 224 44 24",
+    "website": "autoparts-de-smet.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Tecno-Parts",
+    "plaats": "Merelbeke",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Kerkstraat 111, 9820 Merelbeke",
+    "telefoon": "+32 9 231 33 21",
+    "website": "tecnoparts.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Laureyns Tom Garage",
+    "plaats": "Wondelgem (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Logboekstraat 6, 9000 Wondelgem",
+    "telefoon": "+32 475 38 26 56",
+    "website": "garagetomlaureyns.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Sonny / Auto's Meganck-Haegeman",
+    "plaats": "Moortsele (Oosterzele)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Moortselestraat 74, 9860 Moortsele",
+    "telefoon": "+32 9 362 94 87",
+    "website": "autos-meganck-haegeman.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage De Pourcq",
+    "plaats": "Mariakerke (Gent)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Damstraat 15, 9030 Mariakerke",
+    "telefoon": "+32 9 226 15 23",
+    "website": "garagedepourcq.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Sylvain Sedeyn & Zoon",
+    "plaats": "Melsen (Merelbeke)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Gaversesteenweg 668, 9820 Melsen",
+    "telefoon": "+32 9 384 19 24",
+    "website": "garagesedeyn.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Eurauto",
+    "plaats": "De Pinte (Nazareth)",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Baron de Gieylaan 78, 9840 De Pinte",
+    "telefoon": "+32 9 282 78 09",
+    "website": "eurauto.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "The Camping Store",
+    "plaats": "Evergem",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Schoonstraat 242, 9940 Evergem",
+    "telefoon": "+32 9 226 69 64",
+    "website": "dewaelenv.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Hedin Automotive Sint-Martens-Latem",
+    "plaats": "Sint-Martens-Latem",
+    "land": "BE",
+    "provincie": "ovl",
+    "adres": "Kortrijksesteenweg 108, 9830 Sint-Martens-Latem",
+    "telefoon": "+32 9 242 41 11",
+    "website": "gent.mercedes-benz.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "KP Autoservice",
+    "plaats": "Lichtervelde",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Roeselarebaan 44, 8810 Lichtervelde",
+    "telefoon": "+32 51 48 48 10",
+    "website": "kpautoservice.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Salens Motors Roeselare",
+    "plaats": "Gits (Hooglede)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Bruggesteenweg 227, 8830 Gits",
+    "telefoon": "+32 50 39 72 41",
+    "website": "salensmotors.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "DP Auto",
+    "plaats": "Gits (Hooglede)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Bruggesteenweg 299, 8830 Gits",
+    "telefoon": "+32 494 89 89 80",
+    "website": "dpauto.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Triforce / Debussere",
+    "plaats": "Staden",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Sint Jansstraat 225, 8840 Staden",
+    "telefoon": "+32 51 27 28 00",
+    "website": "debussere.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Hans Depla",
+    "plaats": "Beveren (Roeselare)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Henri Jonckheerestraat 20, 8800 Beveren",
+    "telefoon": "+32 51 24 40 88",
+    "website": "byhansdepla.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Automobilia & Co Volvo",
+    "plaats": "Roeselare",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Kleine Weg 241, 8800 Roeselare",
+    "telefoon": "+32 51 31 13 34",
+    "website": "volvocars.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Heyndrickx Honda",
+    "plaats": "Rumbeke (Roeselare)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Hof ter Weze 9, 8800 Rumbeke",
+    "telefoon": "+32 51 20 22 08",
+    "website": "hondaroeselare.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "MCars",
+    "plaats": "Rumbeke (Roeselare)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Moorseelsesteenweg 16/B, 8800 Rumbeke",
+    "telefoon": "+32 51 21 19 91",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Dezutter West",
+    "plaats": "Esen (Diksmuide)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Esenweg 127/A, 8600 Esen",
+    "telefoon": "+32 51 50 36 35",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "D.C.V. Motors",
+    "plaats": "Eernegem (Ichtegem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Achterstraat 144, 8480 Eernegem",
+    "telefoon": "+32 59 29 06 66",
+    "website": "dcvmotors.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "JCS Cars",
+    "plaats": "Veldegem (Zedelgem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Torhoutsesteenweg 320, 8210 Veldegem",
+    "telefoon": "+32 50 27 66 00",
+    "website": "jcscars.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Pattyn-Arickx Dries",
+    "plaats": "Kachtem (Izegem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Hogestraat 35, 8870 Kachtem",
+    "telefoon": "+32 51 31 75 32",
+    "website": "pattyn-dries.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Mesure Frank",
+    "plaats": "Kachtem (Izegem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Ardooisestraat 237, 8870 Kachtem",
+    "telefoon": "+32 51 30 49 72",
+    "website": "autosmesure.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Debackere Pieter Johan",
+    "plaats": "Kachtem (Izegem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Lodewijk de Raetlaan 49, 8870 Kachtem",
+    "telefoon": "+32 51 30 21 05",
+    "website": "autoservicedebackere.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto Parts Stekelorum",
+    "plaats": "Izegem",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Oekensestraat 5, 8870 Izegem",
+    "telefoon": "+32 51 30 20 02",
+    "website": "autoparts.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "MyCar Zedelgem",
+    "plaats": "Zedelgem",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Schatting 13, 8210 Zedelgem",
+    "telefoon": "+32 50 40 61 70",
+    "website": "mycar.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Automobilia Trucks & Cars / Volvo-Nissan Pittem",
+    "plaats": "Pittem",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Posterijlaan 12, 8740 Pittem",
+    "telefoon": "+32 51 46 06 66",
+    "website": "automobilia.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Naeyaert",
+    "plaats": "Izegem",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Abelestraat 77, 8870 Izegem",
+    "telefoon": null,
+    "website": "garagenaeyaert.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Cappon Gerard",
+    "plaats": "Diksmuide",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Cardijnlaan 11, 8600 Diksmuide",
+    "telefoon": "+32 51 50 18 38",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Massenhove Marc",
+    "plaats": "Eernegem (Ichtegem)",
+    "land": "BE",
+    "provincie": "wvl",
+    "adres": "Westkerkestraat 139, 8480 Eernegem",
+    "telefoon": "+32 59 29 97 68",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Alfa Auto Shop",
+    "plaats": "Kuringen (Hasselt)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Kuringersteenweg 325, 3511 Kuringen",
+    "telefoon": "+32 11 22 45 12",
+    "website": "alfa-autoshop.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Autoservice Bilzen",
+    "plaats": "Bilzen",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Kapittelstraat 10, 3740 Bilzen",
+    "telefoon": "+32 89 65 80 64",
+    "website": "autoservice-bilzen.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Verheyen Joeri",
+    "plaats": "Neerglabbeek (Oudsbergen)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Tienderstraat 3, 3670 Neerglabbeek",
+    "telefoon": "+32 11 75 34 09",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto's Avni",
+    "plaats": "Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Gierensstraat 45, 3600 Genk",
+    "telefoon": "+32 89 23 82 39",
+    "website": "autosavni.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "NeoBouw",
+    "plaats": "Zonhoven",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Heuveneindeweg 111/A, 3520 Zonhoven",
+    "telefoon": "+32 11 41 22 11",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Bos Christiane / Bos Thonsport",
+    "plaats": "Houthalen",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Grote Baan 59/B, 3530 Houthalen",
+    "telefoon": "+32 11 52 66 18",
+    "website": "bosthonsport.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Diacar",
+    "plaats": "Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Paniswijerstraat 44A, 3600 Genk",
+    "telefoon": "+32 89 30 79 36",
+    "website": "diacar.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "NNP Automotive Group",
+    "plaats": "Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Henry Fordlaan 56, 3600 Genk",
+    "telefoon": "+32 89 77 76 01",
+    "website": "nnp.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Driesen",
+    "plaats": "Genk",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Henry Fordlaan 21, 3600 Genk",
+    "telefoon": "+32 89 62 38 50",
+    "website": "driesen.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "V.J.B. Motors",
+    "plaats": "Hasselt",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Prins-Bisschopssingel 56, 3500 Hasselt",
+    "telefoon": "+32 11 28 33 92",
+    "website": "vjbmotors.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Autoshop Van den Eynde",
+    "plaats": "Heusden (Heusden-Zolder)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Beringersteenweg 106, 3550 Heusden",
+    "telefoon": "+32 11 45 20 00",
+    "website": "autoshopvde.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "CarCenter Poelmans",
+    "plaats": "Koersel (Beringen)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Albert I laan 74, 3582 Koersel",
+    "telefoon": "+32 11 42 62 30",
+    "website": "carcenterpoelmans.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Winimotors",
+    "plaats": "Peer",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Steenweg Wijchmaal 67, 3990 Peer",
+    "telefoon": "+32 11 60 52 71",
+    "website": "winimotors.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Gofflo",
+    "plaats": "Gruitrode (Oudsbergen)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Boshovenstraat 2, 3670 Gruitrode",
+    "telefoon": "+32 89 46 33 61",
+    "website": "josgofflo.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Claes Pierre en Eddy / Mercedes Claes",
+    "plaats": "Wijer (Nieuwerkerken)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Grotestraat 221, 3850 Wijer",
+    "telefoon": "+32 11 31 29 09",
+    "website": "mercedes-claes.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Comhair Autohandel",
+    "plaats": "Werm (Bilzen)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Tongersesteenweg 107, 3730 Werm",
+    "telefoon": "+32 12 23 19 52",
+    "website": "autos-comhair.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto+ Maasmechelen",
+    "plaats": "Mechelen-aan-de-Maas (Maasmechelen)",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Boudewijnlaan 6, 3630 Mechelen-aan-de-Maas",
+    "telefoon": "+32 89 70 00 67",
+    "website": "auto-plus.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Limburgse Auto-onderdelen (LAO)",
+    "plaats": "Leopoldsburg",
+    "land": "BE",
+    "provincie": "lim",
+    "adres": "Antwerpsesteenweg 52, 3970 Leopoldsburg",
+    "telefoon": "+32 11 34 13 69",
+    "website": "LimburgseAuto-onderdelen.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "A.T.B. Trekhaken",
+    "plaats": "Wilrijk (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Boomsesteenweg 125, 2610 Wilrijk",
+    "telefoon": "+32 3 237 38 24",
+    "website": "atbtrekhaken.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Piessens Racing Shop",
+    "plaats": "Antwerpen",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Wittestraat 28, 2020 Antwerpen",
+    "telefoon": "+32 3 237 41 53",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Trentmotor Texaco",
+    "plaats": "Berchem (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Jan Moorkensstraat 15, 2600 Berchem",
+    "telefoon": "+32 3 219 44 82",
+    "website": "trentmotor.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Kenis Antwerpen (Renault)",
+    "plaats": "Antwerpen",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Noorderlaan 89, 2030 Antwerpen",
+    "telefoon": "+32 3 205 99 00",
+    "website": "renaultantwerpen.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "B & C BMW",
+    "plaats": "Merksem (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Van Heybeeckstraat 13, 2170 Merksem",
+    "telefoon": "+32 3 645 90 69",
+    "website": "garagebc.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Ataf Antwerpen",
+    "plaats": "Hoboken (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Sint-Bernardsesteenweg 827, 2660 Hoboken",
+    "telefoon": "+32 3 829 18 57",
+    "website": "atafantwerpen.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "VMF Deurne / Denayer",
+    "plaats": "Deurne (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Bisschoppenhoflaan 515, 2100 Deurne",
+    "telefoon": "+32 3 360 50 80",
+    "website": "denayer.net",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "CAN Solutions / Trekhaakdokter",
+    "plaats": "Beerse",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Ambachtstraat 7, 2340 Beerse",
+    "telefoon": "+32 14 73 10 82",
+    "website": "trekhaakdokter.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Roca Parts",
+    "plaats": "Oevel (Westerlo)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Mechelsestraat 24, 2260 Oevel",
+    "telefoon": "+32 13 52 27 65",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "CARLOMA",
+    "plaats": "Wommelgem (Antwerpen)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Autolei 119, 2160 Wommelgem",
+    "telefoon": "+32 3 366 16 80",
+    "website": "carloma.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Ludo Van de Peer",
+    "plaats": "Zandhoven",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Boutersemdreef 17D, 2240 Zandhoven",
+    "telefoon": "+32 3 484 43 36",
+    "website": "vandepeer.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Noyen Class",
+    "plaats": "Westmalle (Malle)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Delften 23/36, 2390 Westmalle",
+    "telefoon": "+32 14 45 03 11",
+    "website": "kegelsturnhout.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "A-Altra / Sevenhans",
+    "plaats": "Schilde",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Turnhoutsebaan 457, 2970 Schilde",
+    "telefoon": "+32 3 385 14 48",
+    "website": "sevenhans.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Auto's Tom Mertens",
+    "plaats": "Massenhoven (Zandhoven)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Liersebaan 255, 2240 Massenhoven",
+    "telefoon": "+32 3 233 92 09",
+    "website": "autostommertens.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Van Doninck Hans",
+    "plaats": "Herentals",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Herenthoutseweg 160, 2200 Herentals",
+    "telefoon": "+32 14 22 28 17",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Hedin Automotive Schilde (Mercedes)",
+    "plaats": "Schilde",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Turnhoutsebaan 16, 2970 Schilde",
+    "telefoon": "+32 3 353 22 24",
+    "website": "antwerpen.mercedes-benz.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Garage Daneels",
+    "plaats": "Herenthout",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Itegemse Steenweg 120, 2270 Herenthout",
+    "telefoon": "+32 14 51 37 81",
+    "website": null,
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
+  },
+  {
+    "naam": "Bandenservice Maco",
+    "plaats": "Sint-Lenaarts (Brecht)",
+    "land": "BE",
+    "provincie": "ant",
+    "adres": "Heiken 3A, 2960 Sint-Lenaarts",
+    "telefoon": "+32 3 313 54 55",
+    "website": "maco.be",
+    "categorieen": [
+      "plaatser"
+    ],
+    "primaire_categorie": "plaatser",
+    "bron": [
+      "agent_research_2026_05_29"
+    ],
+    "grootte": null,
+    "webshop": null,
+    "nace": [],
+    "merken_gevoerd": [],
+    "info": ""
   }
 ]
