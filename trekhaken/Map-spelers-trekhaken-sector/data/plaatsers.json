@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "naam": "Carloma",
     "land": "BE",
@@ -48,9 +48,9 @@
     ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
-    "lat": 51.3138,
-    "lng": 4.854,
-    "adres": "Beerse",
+    "lat": 51.3030503,
+    "lng": 4.8348223,
+    "adres": "Ambachtstraat 7, 2340 Beerse",
     "plaats": "Beerse",
     "website": "trekhaakdokter.be",
     "nace": [
@@ -72,7 +72,8 @@
     "cw_jaar": 2024,
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "telefoon": "+32 14 39 15 80"
   },
   {
     "naam": "Trekhakencenter Limburg",
@@ -84,9 +85,9 @@
     ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
-    "lat": 51.17,
-    "lng": 5.58,
-    "adres": "Bocholt",
+    "lat": 51.1843176,
+    "lng": 5.5770205,
+    "adres": "Rademakersstraat 78B, 3950 Bocholt",
     "plaats": "Bocholt",
     "website": "trekhakencenterlimburg.be",
     "nace": [
@@ -106,7 +107,8 @@
     "oprichting": "2024",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "telefoon": "+32 488 70 89 85"
   },
   {
     "naam": "Trekhaakcenter Midlim",
@@ -117,9 +119,9 @@
     ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
-    "lat": 51.1416,
-    "lng": 5.5917,
-    "adres": "Bree",
+    "lat": 51.1404034,
+    "lng": 5.5597557,
+    "adres": "Toekomststraat 6D, 3960 Bree",
     "plaats": "Bree",
     "nace": [
       "45.32"
@@ -130,7 +132,8 @@
       "manual"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "telefoon": "+32 493 04 95 33"
   },
   {
     "naam": "Encase Limburg",
@@ -167,8 +170,8 @@
     ],
     "primaire_categorie": "plaatser",
     "grootte": "Middelgroot",
-    "lat": 51.05,
-    "lng": 3.7,
+    "lat": 51.2290842,
+    "lng": 5.3778855,
     "website": "trekhaakpunt.be",
     "nace": [
       "45.32"
@@ -187,7 +190,9 @@
     "oprichting": "2016",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "adres": "Waterrijtstraat 19E, 3920 Lommel",
+    "telefoon": "+32 11 65 13 83"
   },
   {
     "naam": "Luc Auto (Lucar bvba)",
@@ -198,8 +203,8 @@
     ],
     "primaire_categorie": "plaatser",
     "grootte": "Klein",
-    "lat": 51.0428,
-    "lng": 3.6388,
+    "lat": 51.1869052,
+    "lng": 3.6834217,
     "nace": [
       "45.32",
       "45.20"
@@ -218,7 +223,9 @@
     "oprichting": "2014",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "adres": "Abdijstraat 14, 9968 Assenede",
+    "plaats": "Assenede"
   },
   {
     "naam": "Trekhaakcentrum.nl (HQ)",
@@ -402,7 +409,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1551501,
+    "lng": 4.3823968
   },
   {
     "naam": "Trekhaakpunt",
@@ -425,7 +434,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.2290842,
+    "lng": 5.3778855
   },
   {
     "naam": "Patjes Trekhakencenter",
@@ -457,7 +468,9 @@
     "btw": "BE0811.022.344",
     "oprichting": "2009",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8988844,
+    "lng": 3.8726479
   },
   {
     "naam": "AAS Trekhaken",
@@ -511,7 +524,9 @@
     "oprichting": "1973",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1454135,
+    "lng": 4.9995635
   },
   {
     "naam": "Trekhakencenter Limburg / DS Trekhaken",
@@ -534,7 +549,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1843176,
+    "lng": 5.5770205
   },
   {
     "naam": "Breese Trekhaakcenter",
@@ -562,7 +579,9 @@
     "oprichting": "2021",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1404034,
+    "lng": 5.5597557
   },
   {
     "naam": "Garage Goetmaekere",
@@ -595,7 +614,9 @@
     "cw_jaar": 2023,
     "bizzy_ebitda": 144100,
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0280407,
+    "lng": 3.7649557
   },
   {
     "naam": "Autoparts De Smet",
@@ -626,7 +647,9 @@
     "oprichting": "1996",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0669492,
+    "lng": 3.722865
   },
   {
     "naam": "Tecno-Parts",
@@ -657,7 +680,9 @@
     "oprichting": "1987",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.994186,
+    "lng": 3.7446777
   },
   {
     "naam": "Eurauto",
@@ -688,7 +713,9 @@
     "oprichting": "1976",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9967974,
+    "lng": 3.6584439
   },
   {
     "naam": "Debackere Pieter Johan",
@@ -718,7 +745,9 @@
     ],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "voert_oem_merk"
+    "specialist_reason": "voert_oem_merk",
+    "lat": 50.9306472,
+    "lng": 3.1870727
   },
   {
     "naam": "Auto Parts Stekelorum",
@@ -750,7 +779,9 @@
     "oprichting": "1983",
     "financials_bron": "companyweb.be+pappers.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.924199,
+    "lng": 3.1885842
   },
   {
     "naam": "Garage Naeyaert",
@@ -777,7 +808,9 @@
     ],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9192171,
+    "lng": 3.1882934
   },
   {
     "naam": "Alfa Auto Shop",
@@ -806,7 +839,9 @@
     "oprichting": "1990",
     "financials_bron": "pappers.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.939369,
+    "lng": 5.3094991
   },
   {
     "naam": "A.T.B. Trekhaken",
@@ -829,7 +864,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1757857,
+    "lng": 4.3893043
   },
   {
     "naam": "CAN Solutions / Trekhaakdokter",
@@ -852,7 +889,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.3030503,
+    "lng": 4.8348223
   },
   {
     "naam": "Roca Parts",
@@ -880,7 +919,9 @@
     "oprichting": "2001",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1395883,
+    "lng": 4.9007852
   },
   {
     "naam": "CARLOMA",
@@ -912,7 +953,9 @@
     "oprichting": "1968",
     "financials_bron": "pappers.be+companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2055972,
+    "lng": 4.4875155
   },
   {
     "naam": "Noyen Class",
@@ -943,34 +986,9 @@
     "oprichting": "2015",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
-  },
-  {
-    "naam": "GDW-Gent",
-    "land": "BE",
-    "provincie": "ovl",
-    "plaats": "Gent",
-    "categorieen": [
-      "plaatser",
-      "verkoper"
-    ],
-    "primaire_categorie": "plaatser",
-    "btw": "BE0808.505.886",
-    "bron": [
-      "financials_companyweb",
-      "agent_research_2026_05_29"
-    ],
-    "cw_omzet": 5700000,
-    "cw_brutomarge": 2487349,
-    "cw_winst": 705491,
-    "cw_fte": 28,
-    "cw_jaar": 2024,
-    "bizzy_ebitda": 900500,
-    "oprichting": "2008",
-    "info": "Plaatser+verkoper trekhaken, onderdeel GDW-netwerk. Omzet 2023 EUR5.7M.",
-    "financials_bron": "companyweb.be+pappers.be",
-    "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.285502,
+    "lng": 4.7094898
   },
   {
     "naam": "ATB (Antwerps Trekhaken Bedrijf)",
@@ -994,7 +1012,12 @@
     "info": "Trekhaken specialist Antwerpen.",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1757857,
+    "lng": 4.3893043,
+    "adres": "Boomsesteenweg 125, 2610 Wilrijk",
+    "telefoon": "+32 3 237 38 24",
+    "website": "atbtrekhaken.be"
   },
   {
     "naam": "Autoservice Bilzen (Fascomad)",
@@ -1019,7 +1042,12 @@
     "info": "Trekhaken + uitlaat + banden Bilzen.",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8717578,
+    "lng": 5.5302165,
+    "adres": "Kapittelstraat 10, 3740 Bilzen",
+    "telefoon": "+32 89 65 80 64",
+    "website": "autoservice-bilzen.be"
   },
   {
     "naam": "Lokerse Auto Service",
@@ -1043,7 +1071,12 @@
     "oprichting": "1999",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1111856,
+    "lng": 3.9840344,
+    "adres": "Bergendriesstraat 15, 9160 Lokeren",
+    "telefoon": "+32 9 348 22 28",
+    "info": "LIQUIDATIE 28/04/2025 — niet actief target."
   },
   {
     "naam": "Inter-Parts Europe",
@@ -1067,7 +1100,12 @@
     "oprichting": "1988",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.7878972,
+    "lng": 3.1021565,
+    "adres": "Ropswalle 11, 8930 Menen",
+    "telefoon": "+32 56 51 34 00",
+    "website": "interpartseuropeautoonderdelen.be"
   },
   {
     "naam": "Vlb Cars (Autocrew VLB Cars)",
@@ -1092,7 +1130,12 @@
     "info": "Garage + trekhaken Wetteren. Autocrew partner.",
     "financials_bron": "companyweb.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.986295,
+    "lng": 3.8459433,
+    "adres": "Zuidlaan 336, 9230 Wetteren",
+    "telefoon": "+32 9 369 17 41",
+    "website": "vlbcars.be"
   },
   {
     "naam": "GDW Group (holding)",
@@ -1118,7 +1161,11 @@
     "cw_winst": -482700,
     "bizzy_ebitda": 33800,
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8805701,
+    "lng": 3.4122067,
+    "adres": "Hoogmolenwegel 21, 8790 Waregem",
+    "telefoon": "+32 56 60 42 12"
   },
   {
     "naam": "AANHANGWAGENS SUPERMARKT FRANK VERMEIR",
@@ -1145,7 +1192,9 @@
     ],
     "oprichting": "2000",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.9585802,
+    "lng": 4.7708845
   },
   {
     "naam": "Les Attaches Hennuyeres",
@@ -1197,7 +1246,9 @@
     "financials_bron": "pappers.be",
     "info": "Geen jaarrekening publiek.",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.4630314,
+    "lng": 4.394083
   },
   {
     "naam": "BPS Attache Remorque",
@@ -1216,7 +1267,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.4218556,
+    "lng": 3.9586164
   },
   {
     "naam": "REMORQUES DECKERS",
@@ -1251,7 +1304,9 @@
     "bizzy_ebitda": 73400,
     "financials_bron": "pappers.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6440865,
+    "lng": 5.5943297
   },
   {
     "naam": "RTS Trailer",
@@ -1270,7 +1325,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6566291,
+    "lng": 5.6244652
   },
   {
     "naam": "Attache Remorque Vito",
@@ -1296,7 +1353,9 @@
     ],
     "oprichting": "2017",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6513291,
+    "lng": 5.5924494
   },
   {
     "naam": "REMORQUES BECKERS",
@@ -1331,7 +1390,9 @@
     "financials_bron": "pappers.be",
     "info": "SWEET SPOT - EBITDA EUR250K, 58% marge, schuldenvrij, 2 FTE. Henri-Chapelle (LUI).",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6765739,
+    "lng": 5.926079
   },
   {
     "naam": "Costo Remorques",
@@ -1358,7 +1419,9 @@
     "oprichting": "2009",
     "financials_bron": "pappers.be",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.2907261,
+    "lng": 5.7981824
   },
   {
     "naam": "RD Attache-Remorque",
@@ -1386,7 +1449,9 @@
     "oprichting": "1974",
     "info": "50+ jaar bedrijf, pure trekhaak-specialist Namur.",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.4363961,
+    "lng": 4.912731
   },
   {
     "naam": "M.J.S. Auto-Service",
@@ -1408,7 +1473,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.2576897,
+    "lng": 4.9703611
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -1427,7 +1494,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5485637,
+    "lng": 4.6597369
   },
   {
     "naam": "Remorque Californie Bastogne",
@@ -1446,7 +1515,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 49.9946843,
+    "lng": 5.7270317
   },
   {
     "naam": "NOISET Remorques-Automobiles Fauvillers",
@@ -1492,7 +1563,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 49.6975549,
+    "lng": 5.8091669
   },
   {
     "naam": "Aanhangwagens Ronny",
@@ -1511,7 +1584,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0182613,
+    "lng": 4.4687314
   },
   {
     "naam": "Aanhangwagens & Trekhaken Maillard",
@@ -1530,7 +1605,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.7576337,
+    "lng": 4.2032812
   },
   {
     "naam": "DN Trailers",
@@ -1558,7 +1635,9 @@
     "financials_bron": "pappers.be",
     "info": "Bijna sweet spot - EBITDA EUR144K, 2 FTE, clean balance, Temse (OVL).",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1287465,
+    "lng": 4.2453388
   },
   {
     "naam": "Trekhakencenter Kortrijk",
@@ -1585,7 +1664,9 @@
     "financials_bron": "pappers.be",
     "info": "Juridische naam: Aanhangwagenbouw Deblaere. Klein bedrijf.",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8301354,
+    "lng": 3.291536
   },
   {
     "naam": "De Schepper Aanhangwagens",
@@ -1613,7 +1694,9 @@
     "financials_bron": "pappers.be",
     "info": "SWEET SPOT TOP - EBITDA EUR566K (+62% in 2022), 7 FTE. Brugge (WVL). Voert Ifor Williams/Bosal/Brink/Westfalia/GDW/Thule.",
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.244991,
+    "lng": 3.2056617
   },
   {
     "naam": "RPV Vanpevenaeyge",
@@ -1635,7 +1718,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6731063,
+    "lng": 3.4486534
   },
   {
     "naam": "Aanhangwagens Accu&Co",
@@ -1654,7 +1739,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0183203,
+    "lng": 4.9491741
   },
   {
     "naam": "VMV Group BVBA",
@@ -1695,7 +1782,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9185705,
+    "lng": 3.9942062
   },
   {
     "naam": "Eurorepar Vanhulle Menen bvba",
@@ -1716,7 +1805,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8074432,
+    "lng": 3.1229164
   },
   {
     "naam": "Autoservice Geuens",
@@ -1737,7 +1828,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2285378,
+    "lng": 5.3790787
   },
   {
     "naam": "Schrooten Autotechnics",
@@ -1758,7 +1851,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1210488,
+    "lng": 5.5916573
   },
   {
     "naam": "Eurorepar Boone Tom",
@@ -1779,7 +1874,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8188534,
+    "lng": 3.8471159
   },
   {
     "naam": "Eurorepar MC Motors NV",
@@ -1800,7 +1897,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0464582,
+    "lng": 4.4169254
   },
   {
     "naam": "Eurorepar Bariseau Mottrie",
@@ -1821,7 +1920,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.975549,
+    "lng": 3.1201307
   },
   {
     "naam": "Eurorepar Cremers",
@@ -1842,7 +1943,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.8731545,
+    "lng": 5.3671829
   },
   {
     "naam": "Pashuysen NV (HQ Aarschot)",
@@ -1863,7 +1966,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9846649,
+    "lng": 4.8081811
   },
   {
     "naam": "Eurorepar Maene",
@@ -1884,7 +1989,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1591548,
+    "lng": 3.0545367
   },
   {
     "naam": "Eurorepar 4all cars bvba",
@@ -1905,7 +2012,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2275695,
+    "lng": 4.0895287
   },
   {
     "naam": "Eurorepar Peelaerts bv",
@@ -1926,7 +2035,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9623206,
+    "lng": 4.6034196
   },
   {
     "naam": "Eurorepar Van Humbeeck",
@@ -1947,7 +2058,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9304979,
+    "lng": 4.2691213
   },
   {
     "naam": "Eurorepar Luc De Thaey BVBA",
@@ -1968,7 +2081,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0633541,
+    "lng": 4.0233443
   },
   {
     "naam": "Eurorepar Dumarey",
@@ -1989,7 +2104,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.0819597,
+    "lng": 3.1111808
   },
   {
     "naam": "Eurorepar Vervoort",
@@ -2010,7 +2127,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.2113452,
+    "lng": 4.5963325
   },
   {
     "naam": "Eurorepar Koen de Maeyer",
@@ -2031,7 +2150,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1448178,
+    "lng": 4.2842254
   },
   {
     "naam": "Thomaco Services BV",
@@ -2051,7 +2172,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.9952334,
+    "lng": 3.0342703
   },
   {
     "naam": "Cartronic Maaseik BV",
@@ -2072,7 +2195,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1022819,
+    "lng": 5.7498422
   },
   {
     "naam": "Lavrijsen NV",
@@ -2093,7 +2218,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 51.1651977,
+    "lng": 5.0315127
   },
   {
     "naam": "Eurorepar Preumont",
@@ -2114,7 +2241,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 50.0503677,
+    "lng": 4.4511862
   },
   {
     "naam": "Eurorepar D.N. Cars",
@@ -2135,7 +2264,9 @@
       "brink_dealer_locator"
     ],
     "is_specialist": true,
-    "specialist_reason": "oem_dealer_bron"
+    "specialist_reason": "oem_dealer_bron",
+    "lat": 49.99781,
+    "lng": 5.6902087
   },
   {
     "naam": "Eurorepar FL Motor",
@@ -2181,7 +2312,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.2129531,
+    "lng": 2.9612287
   },
   {
     "naam": "DROWA AANHANGWAGENS",
@@ -2206,7 +2339,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1863015,
+    "lng": 4.1999828
   },
   {
     "naam": "AANHANGWAGENS LOUBEN",
@@ -2231,7 +2366,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.2099519,
+    "lng": 4.4925868
   },
   {
     "naam": "AANHANGWAGENS PATTYN STEFAAN",
@@ -2256,7 +2393,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8528517,
+    "lng": 3.0191999
   },
   {
     "naam": "Aanhangwagens Peter",
@@ -2279,7 +2418,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0398238,
+    "lng": 4.6190298
   },
   {
     "naam": "Aanhangwagens Ronny (Pire Ronald)",
@@ -2304,7 +2445,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0182613,
+    "lng": 4.4687314
   },
   {
     "naam": "Aanhangwagens Servaes",
@@ -2327,7 +2470,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.9986523,
+    "lng": 4.1723149
   },
   {
     "naam": "BAETENS Aanhangwagens",
@@ -2350,7 +2495,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.9896571,
+    "lng": 3.7989404
   },
   {
     "naam": "Carr. Brugghemans (VAG Aanhangwagens)",
@@ -2378,7 +2525,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0562285,
+    "lng": 4.4861818
   },
   {
     "naam": "De Bels Aanhangwagens",
@@ -2401,7 +2550,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.9049268,
+    "lng": 3.2436607
   },
   {
     "naam": "DECAL AANHANGWAGENS",
@@ -2426,7 +2577,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1108986,
+    "lng": 3.6657736
   },
   {
     "naam": "Aanhangwagens antoon",
@@ -2448,7 +2601,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0108553,
+    "lng": 5.3932247
   },
   {
     "naam": "Attache Remorque Coenen",
@@ -2473,7 +2628,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5485637,
+    "lng": 4.6597369
   },
   {
     "naam": "BRUXELLES-REMORQUES",
@@ -2498,7 +2655,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.813962,
+    "lng": 4.3199972
   },
   {
     "naam": "LES REMORQUES DE HUY",
@@ -2522,7 +2681,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5514915,
+    "lng": 5.228311
   },
   {
     "naam": "PTS AANHANGWAGENS-REMORQUES",
@@ -2545,7 +2706,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.7991227,
+    "lng": 5.2117428
   },
   {
     "naam": "D C REMORQUES",
@@ -2569,7 +2732,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.1668109,
+    "lng": 4.1848221
   },
   {
     "naam": "MONS REMORQUE",
@@ -2618,7 +2783,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.7319185,
+    "lng": 3.6867905
   },
   {
     "naam": "REMORQUE VL (Laurent Vincent)",
@@ -2637,7 +2804,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5254484,
+    "lng": 4.6061174
   },
   {
     "naam": "CL Remorques (Laurent Carine)",
@@ -2660,7 +2829,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5246818,
+    "lng": 4.6130295
   },
   {
     "naam": "Angelo la bonne remorque",
@@ -2682,7 +2853,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.4411553,
+    "lng": 4.666067
   },
   {
     "naam": "GGM REMORQUE",
@@ -2700,7 +2873,9 @@
       "kbo_naam_zoek"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 49.9844362,
+    "lng": 4.9787078
   },
   {
     "naam": "GARAGE DJOU",
@@ -2728,7 +2903,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.2887376,
+    "lng": 4.4427101
   },
   {
     "naam": "AWZ (A-Traction)",
@@ -2755,7 +2932,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.4869956,
+    "lng": 4.1521257
   },
   {
     "naam": "REMORQUES-FERRONNERIES",
@@ -2778,7 +2957,9 @@
       "pappers"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.3277428,
+    "lng": 4.8822276
   },
   {
     "naam": "Mathieu Kerckhofs Trailers",
@@ -2803,7 +2984,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1431748,
+    "lng": 5.632634
   },
   {
     "naam": "Aanhangwagencentrale Arendonk",
@@ -2830,7 +3013,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.3159403,
+    "lng": 5.0654734
   },
   {
     "naam": "KSA-Aanhangwagens",
@@ -2864,7 +3049,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1218892,
+    "lng": 4.9435291
   },
   {
     "naam": "Vandamme Aanhangwagens BV",
@@ -2894,7 +3081,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1015373,
+    "lng": 3.0268343
   },
   {
     "naam": "Aanhangwagencentrum Weelde",
@@ -2930,7 +3119,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.3932973,
+    "lng": 4.9394388
   },
   {
     "naam": "West Trailers",
@@ -2958,7 +3149,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8736578,
+    "lng": 3.3932308
   },
   {
     "naam": "Auman Dirk",
@@ -2980,7 +3173,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.1122339,
+    "lng": 3.9326602
   },
   {
     "naam": "VDV Trailers",
@@ -3005,7 +3200,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.6818649,
+    "lng": 4.0314399
   },
   {
     "naam": "JS Trailers (Schutyser)",
@@ -3028,7 +3225,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.9685568,
+    "lng": 3.7110036
   },
   {
     "naam": "Delvan Aanhangwagens",
@@ -3096,7 +3295,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.140654,
+    "lng": 5.6138162
   },
   {
     "naam": "VAG Aanhangwagens",
@@ -3118,7 +3319,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0546513,
+    "lng": 4.45828
   },
   {
     "naam": "Aanhangwagens Vincent Lavaert",
@@ -3140,7 +3343,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.794932,
+    "lng": 3.178242
   },
   {
     "naam": "Alle Aanhangwagens Sint-Gillis-Waas",
@@ -3162,7 +3367,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.2160126,
+    "lng": 4.1027604
   },
   {
     "naam": "Aanhangwagens Van Hoecke",
@@ -3184,7 +3391,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0274948,
+    "lng": 4.020684
   },
   {
     "naam": "DC Remorques SPRL",
@@ -3206,7 +3415,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.167055,
+    "lng": 4.1755492
   },
   {
     "naam": "Cargo Trailer Villers-le-Bouillet",
@@ -3228,7 +3439,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5829901,
+    "lng": 5.2657896
   },
   {
     "naam": "TACK Aanhangwagens NV",
@@ -3249,7 +3462,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.0038717,
+    "lng": 3.4118748
   },
   {
     "naam": "Clijsters Vans & Trailers",
@@ -3271,7 +3486,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.848485,
+    "lng": 4.8211717
   },
   {
     "naam": "Trekhaakcentrum Geel (Autex)",
@@ -3291,7 +3508,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 51.145264,
+    "lng": 4.9993958
   },
   {
     "naam": "GMC Remorques",
@@ -3333,7 +3552,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.5271642,
+    "lng": 5.2294822
   },
   {
     "naam": "Attache V-H Européenne",
@@ -3353,7 +3574,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8544614,
+    "lng": 4.3957077
   },
   {
     "naam": "BCM Remorques",
@@ -3375,6 +3598,8 @@
       "wave3_wallonie"
     ],
     "is_specialist": true,
-    "specialist_reason": "naam_website_info_bevat_trekhaak_term"
+    "specialist_reason": "naam_website_info_bevat_trekhaak_term",
+    "lat": 50.8408418,
+    "lng": 4.3281977
   }
 ]

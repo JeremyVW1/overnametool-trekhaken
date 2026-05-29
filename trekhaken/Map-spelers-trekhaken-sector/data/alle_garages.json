@@ -1,12 +1,12 @@
-﻿[
+[
   {
     "naam": "Garage Tim Crabbe",
     "plaats": "Bornem",
     "land": "BE",
     "provincie": "ant",
-    "adres": null,
+    "adres": "Lodderstraat 14N, 2880 Bornem",
     "telefoon": "+32-471-112642",
-    "website": null,
+    "website": "garagetimcrabbe.be",
     "categorieen": [
       "alle_garages"
     ],
@@ -20,7 +20,10 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0873388,
+    "lng": 4.2743393,
+    "btw": "BE0806.839.862"
   },
   {
     "naam": "MV Custom",
@@ -43,7 +46,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9406957,
+    "lng": 5.1659696
   },
   {
     "naam": "Jansens-Geerlink",
@@ -66,7 +71,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.328932,
+    "lng": 4.9299924
   },
   {
     "naam": "Garage Haverbeke",
@@ -89,7 +96,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9449511,
+    "lng": 3.1243935
   },
   {
     "naam": "Garage Reusch",
@@ -112,7 +121,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.3349273,
+    "lng": 6.0431296
   },
   {
     "naam": "Van Vooren - Lucar bvba",
@@ -135,7 +146,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1869052,
+    "lng": 3.6834217
   },
   {
     "naam": "Auto Center Gent",
@@ -158,7 +171,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0538286,
+    "lng": 3.7250121
   },
   {
     "naam": "Bosch Car Service Gavaro",
@@ -181,7 +196,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2211097,
+    "lng": 4.3997081
   },
   {
     "naam": "BUROPORT",
@@ -213,7 +230,9 @@
     "oprichting": "1991",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9386033,
+    "lng": 4.0210902
   },
   {
     "naam": "Euro Car Center",
@@ -236,7 +255,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0347902,
+    "lng": 3.7545452
   },
   {
     "naam": "Coppens Auto-Products",
@@ -259,7 +280,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0413676,
+    "lng": 3.7419932
   },
   {
     "naam": "Dupontseel Guido",
@@ -282,7 +305,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0778933,
+    "lng": 3.7822504
   },
   {
     "naam": "Brittannia",
@@ -305,7 +330,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0778933,
+    "lng": 3.7822504
   },
   {
     "naam": "Bodemmakerij De Stoop en Co",
@@ -328,7 +355,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0590127,
+    "lng": 3.7484706
   },
   {
     "naam": "Auto's Van Wassenhove",
@@ -351,7 +380,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9853589,
+    "lng": 3.7976663
   },
   {
     "naam": "Autocrew VLB Cars",
@@ -374,7 +405,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.986295,
+    "lng": 3.8459433
   },
   {
     "naam": "LO AUTO",
@@ -397,7 +430,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0925594,
+    "lng": 3.8210996
   },
   {
     "naam": "Gent Motors",
@@ -420,7 +455,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0334725,
+    "lng": 3.724989
   },
   {
     "naam": "Laureyns Tom Garage",
@@ -443,7 +480,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0787138,
+    "lng": 3.7183822
   },
   {
     "naam": "Sonny / Auto's Meganck-Haegeman",
@@ -466,7 +505,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.959009,
+    "lng": 3.7793859
   },
   {
     "naam": "Garage De Pourcq",
@@ -489,7 +530,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0766566,
+    "lng": 3.6932569
   },
   {
     "naam": "Garage Sylvain Sedeyn & Zoon",
@@ -512,7 +555,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9601689,
+    "lng": 3.6992058
   },
   {
     "naam": "The Camping Store",
@@ -535,7 +580,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.105691,
+    "lng": 3.6782417
   },
   {
     "naam": "Hedin Automotive Sint-Martens-Latem",
@@ -558,7 +605,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0107918,
+    "lng": 3.6358748
   },
   {
     "naam": "KP Autoservice",
@@ -582,7 +631,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0183803,
+    "lng": 3.1126116
   },
   {
     "naam": "Salens Motors Roeselare",
@@ -606,7 +657,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9930746,
+    "lng": 3.1175672
   },
   {
     "naam": "DP Auto",
@@ -629,7 +682,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9816261,
+    "lng": 3.1189294
   },
   {
     "naam": "Triforce / Debussere",
@@ -652,7 +707,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9613057,
+    "lng": 3.0444473
   },
   {
     "naam": "Garage Hans Depla",
@@ -675,7 +732,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9718183,
+    "lng": 3.1499633
   },
   {
     "naam": "Automobilia & Co Volvo",
@@ -698,7 +757,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9269805,
+    "lng": 3.110338
   },
   {
     "naam": "Heyndrickx Honda",
@@ -721,7 +782,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9246339,
+    "lng": 3.1185845
   },
   {
     "naam": "MCars",
@@ -744,7 +807,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9215569,
+    "lng": 3.1398323
   },
   {
     "naam": "Dezutter West",
@@ -767,7 +832,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0273251,
+    "lng": 2.8896183
   },
   {
     "naam": "D.C.V. Motors",
@@ -790,7 +857,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1215151,
+    "lng": 3.0342354
   },
   {
     "naam": "JCS Cars",
@@ -813,7 +882,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1121263,
+    "lng": 3.1408394
   },
   {
     "naam": "Pattyn-Arickx Dries",
@@ -836,7 +907,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9342746,
+    "lng": 3.1898363
   },
   {
     "naam": "Garage Mesure Frank",
@@ -859,7 +932,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.94448,
+    "lng": 3.2042729
   },
   {
     "naam": "MyCar Zedelgem",
@@ -882,7 +957,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1186546,
+    "lng": 3.1462956
   },
   {
     "naam": "Automobilia Trucks & Cars / Volvo-Nissan Pittem",
@@ -905,7 +982,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9899247,
+    "lng": 3.2485586
   },
   {
     "naam": "Cappon Gerard",
@@ -928,7 +1007,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0217655,
+    "lng": 2.8574615
   },
   {
     "naam": "Massenhove Marc",
@@ -951,7 +1032,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1370928,
+    "lng": 3.025148
   },
   {
     "naam": "Autoservice Bilzen",
@@ -974,7 +1057,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8717578,
+    "lng": 5.5302165
   },
   {
     "naam": "Verheyen Joeri",
@@ -997,7 +1082,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0881501,
+    "lng": 5.6187522
   },
   {
     "naam": "Auto's Avni",
@@ -1020,7 +1107,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9902441,
+    "lng": 5.4988959
   },
   {
     "naam": "NeoBouw",
@@ -1043,7 +1132,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9722176,
+    "lng": 5.3616657
   },
   {
     "naam": "Bos Christiane / Bos Thonsport",
@@ -1066,7 +1157,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0320619,
+    "lng": 5.3764316
   },
   {
     "naam": "Diacar",
@@ -1089,7 +1182,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9462144,
+    "lng": 5.4755679
   },
   {
     "naam": "NNP Automotive Group",
@@ -1112,7 +1207,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9273796,
+    "lng": 5.4801271
   },
   {
     "naam": "Driesen",
@@ -1135,7 +1232,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.917066,
+    "lng": 5.5026474
   },
   {
     "naam": "V.J.B. Motors",
@@ -1158,7 +1257,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9135045,
+    "lng": 5.3375684
   },
   {
     "naam": "Autoshop Van den Eynde",
@@ -1181,7 +1282,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0343503,
+    "lng": 5.250184
   },
   {
     "naam": "CarCenter Poelmans",
@@ -1204,7 +1307,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0564292,
+    "lng": 5.2615343
   },
   {
     "naam": "Winimotors",
@@ -1227,7 +1332,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1315527,
+    "lng": 5.4382434
   },
   {
     "naam": "Garage Gofflo",
@@ -1250,7 +1357,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1090226,
+    "lng": 5.5907373
   },
   {
     "naam": "Claes Pierre en Eddy / Mercedes Claes",
@@ -1273,7 +1382,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8974379,
+    "lng": 5.223689
   },
   {
     "naam": "Comhair Autohandel",
@@ -1296,7 +1407,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8341454,
+    "lng": 5.4759417
   },
   {
     "naam": "Auto+ Maasmechelen",
@@ -1319,7 +1432,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9603924,
+    "lng": 5.6941434
   },
   {
     "naam": "Limburgse Auto-onderdelen (LAO)",
@@ -1342,7 +1457,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1255068,
+    "lng": 5.2543518
   },
   {
     "naam": "Piessens Racing Shop",
@@ -1365,7 +1482,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1894487,
+    "lng": 4.3861626
   },
   {
     "naam": "Trentmotor Texaco",
@@ -1388,7 +1507,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1870422,
+    "lng": 4.4307284
   },
   {
     "naam": "Kenis Antwerpen (Renault)",
@@ -1411,7 +1532,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2575262,
+    "lng": 4.4190509
   },
   {
     "naam": "B & C BMW",
@@ -1434,7 +1557,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2482743,
+    "lng": 4.4505556
   },
   {
     "naam": "Ataf Antwerpen",
@@ -1458,7 +1583,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1699507,
+    "lng": 4.3638816
   },
   {
     "naam": "VMF Deurne / Denayer",
@@ -1481,7 +1608,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2353137,
+    "lng": 4.4727075
   },
   {
     "naam": "Ludo Van de Peer",
@@ -1505,7 +1634,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.208092,
+    "lng": 4.6618518
   },
   {
     "naam": "A-Altra / Sevenhans",
@@ -1528,7 +1659,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2531181,
+    "lng": 4.6131375
   },
   {
     "naam": "Auto's Tom Mertens",
@@ -1552,7 +1685,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1868786,
+    "lng": 4.6289087
   },
   {
     "naam": "Van Doninck Hans",
@@ -1575,7 +1710,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1620915,
+    "lng": 4.8213929
   },
   {
     "naam": "Hedin Automotive Schilde (Mercedes)",
@@ -1598,7 +1735,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2317213,
+    "lng": 4.5551418
   },
   {
     "naam": "Garage Daneels",
@@ -1621,7 +1760,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1291191,
+    "lng": 4.7606477
   },
   {
     "naam": "Bandenservice Maco",
@@ -1645,7 +1786,9 @@
     "merken_gevoerd": [],
     "info": "",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.3489215,
+    "lng": 4.6719127
   },
   {
     "naam": "PAUWELS BART",
@@ -1664,7 +1807,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9270128,
+    "lng": 4.6371681
   },
   {
     "naam": "Garage Danny",
@@ -1683,7 +1828,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.895185,
+    "lng": 4.6880129
   },
   {
     "naam": "PERK MOTORS",
@@ -1702,7 +1849,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9559175,
+    "lng": 4.4971995
   },
   {
     "naam": "ACB",
@@ -1721,7 +1870,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8493282,
+    "lng": 4.7195774
   },
   {
     "naam": "DE ROOVER EN ZONEN",
@@ -1740,7 +1891,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8677528,
+    "lng": 4.7391828
   },
   {
     "naam": "AUTO'S KOEN",
@@ -1759,7 +1912,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9241157,
+    "lng": 4.7214349
   },
   {
     "naam": "STAR REPAIR",
@@ -1778,7 +1933,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9745384,
+    "lng": 4.5624407
   },
   {
     "naam": "MAXEL 2004",
@@ -1797,7 +1954,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9512043,
+    "lng": 4.7119393
   },
   {
     "naam": "GARAGE FEYAERTS",
@@ -1816,7 +1975,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9797918,
+    "lng": 4.6394534
   },
   {
     "naam": "AUTOMOTIVE BELGIAN COMPANY",
@@ -1835,7 +1996,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9086819,
+    "lng": 4.4136973
   },
   {
     "naam": "S.E.T. TUNING",
@@ -1854,7 +2017,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9555316,
+    "lng": 4.4533021
   },
   {
     "naam": "Vilvoords Uitlaatcenter",
@@ -1873,7 +2038,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9348395,
+    "lng": 4.4263322
   },
   {
     "naam": "Garage Luytens Dirk",
@@ -1892,7 +2059,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.990897,
+    "lng": 4.5383505
   },
   {
     "naam": "GARAGE AMEEL",
@@ -1911,7 +2080,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8015497,
+    "lng": 4.4205139
   },
   {
     "naam": "Autocenter De Rudder",
@@ -1938,7 +2109,9 @@
     "oprichting": "2008",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7668597,
+    "lng": 4.4659445
   },
   {
     "naam": "FIRMA DE COCK",
@@ -1957,7 +2130,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8933265,
+    "lng": 4.7981636
   },
   {
     "naam": "BC MOTOR",
@@ -1984,7 +2159,9 @@
     "oprichting": "1980",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8408418,
+    "lng": 4.3281977
   },
   {
     "naam": "AUTO-IMMO JABBOUR",
@@ -2003,7 +2180,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8660119,
+    "lng": 4.2661809
   },
   {
     "naam": "Cardoen Vilvoorde",
@@ -2022,7 +2201,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9368543,
+    "lng": 4.4325359
   },
   {
     "naam": "Autopro",
@@ -2041,7 +2222,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4140305,
+    "lng": 4.160352
   },
   {
     "naam": "AJM FRAMERIES",
@@ -2060,7 +2243,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4130554,
+    "lng": 3.9271126
   },
   {
     "naam": "GARAGE PISCINA",
@@ -2098,7 +2283,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4570362,
+    "lng": 4.1210963
   },
   {
     "naam": "Sutera Cars",
@@ -2117,7 +2304,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4657958,
+    "lng": 4.202078
   },
   {
     "naam": "DYNA MOTORS",
@@ -2138,7 +2327,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.5726672,
+    "lng": 4.1745184
   },
   {
     "naam": "Caramanna Carmelo",
@@ -2157,7 +2348,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.3886084,
+    "lng": 3.7141503
   },
   {
     "naam": "Universal Pneu",
@@ -2176,7 +2369,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4680925,
+    "lng": 3.9576469
   },
   {
     "naam": "IMMOBAT.BE",
@@ -2195,7 +2390,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4287408,
+    "lng": 3.792023
   },
   {
     "naam": "Amsi",
@@ -2214,7 +2411,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4220349,
+    "lng": 4.1226312
   },
   {
     "naam": "MBE Auto Pieces Services",
@@ -2233,7 +2432,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4015528,
+    "lng": 4.478455
   },
   {
     "naam": "LOCAMAT-LOCASOL",
@@ -2252,7 +2453,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4050852,
+    "lng": 4.4982981
   },
   {
     "naam": "ETABLISSEMENTS PATER ET CIE",
@@ -2271,7 +2474,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4461886,
+    "lng": 4.3405671
   },
   {
     "naam": "AUTO KIT ABELOOS",
@@ -2290,7 +2495,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4069143,
+    "lng": 4.3199648
   },
   {
     "naam": "RADDIX",
@@ -2309,7 +2516,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.35972,
+    "lng": 4.2790327
   },
   {
     "naam": "Comptoir du Pneu Ghlin",
@@ -2328,7 +2537,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4765054,
+    "lng": 3.863676
   },
   {
     "naam": "Profile Tyrecenter Forrez",
@@ -2384,7 +2595,9 @@
     "oprichting": "1991",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7566623,
+    "lng": 3.1934305
   },
   {
     "naam": "Centrauto Sport",
@@ -2411,7 +2624,9 @@
     "oprichting": "1987",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6362113,
+    "lng": 5.5798327
   },
   {
     "naam": "Nadin Mathonet",
@@ -2439,7 +2654,9 @@
     "oprichting": "2015",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6302921,
+    "lng": 5.5820349
   },
   {
     "naam": "Attaches Consult",
@@ -2458,7 +2675,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.620382,
+    "lng": 5.830985
   },
   {
     "naam": "Carrera Cars Concept",
@@ -2486,7 +2705,9 @@
     "financials_bron": "pappers.be",
     "info": "SWEET SPOT TOP - EBITDA EUR737K op bovenrand, 15 FTE = max acceptabel.",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6572779,
+    "lng": 5.626338
   },
   {
     "naam": "GE.NI.CO",
@@ -2508,7 +2729,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6535733,
+    "lng": 5.6022003
   },
   {
     "naam": "Car Alliance Eupen",
@@ -2527,7 +2750,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6391649,
+    "lng": 6.015769
   },
   {
     "naam": "CM Auto",
@@ -2546,7 +2771,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.697397,
+    "lng": 5.970172
   },
   {
     "naam": "Autogamma Services",
@@ -2573,7 +2800,9 @@
     "oprichting": "2003",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6576115,
+    "lng": 5.5318057
   },
   {
     "naam": "Marrazza",
@@ -2592,7 +2821,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4400158,
+    "lng": 4.9083217
   },
   {
     "naam": "B.E.J. CAR",
@@ -2611,7 +2842,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.5026492,
+    "lng": 4.8682748
   },
   {
     "naam": "JTC",
@@ -2630,7 +2863,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.377924,
+    "lng": 4.8675695
   },
   {
     "naam": "Devillers Automobiles",
@@ -2649,7 +2884,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.5709197,
+    "lng": 4.8263786
   },
   {
     "naam": "B.M CARS",
@@ -2668,7 +2905,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4228343,
+    "lng": 4.6457793
   },
   {
     "naam": "ANHEE MOTOR SC",
@@ -2687,7 +2926,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.3084776,
+    "lng": 4.8804283
   },
   {
     "naam": "STEVENY",
@@ -2706,7 +2947,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.581922,
+    "lng": 4.7084448
   },
   {
     "naam": "Garage Coenen Serge",
@@ -2725,7 +2968,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.5485637,
+    "lng": 4.6597369
   },
   {
     "naam": "Pneus Mosan Erpent",
@@ -2744,7 +2989,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4458818,
+    "lng": 4.8979963
   },
   {
     "naam": "Pneus Mosan Bouge",
@@ -2771,7 +3018,9 @@
     "oprichting": "1968",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4701133,
+    "lng": 4.8994721
   },
   {
     "naam": "Carrosserie de la Famenne",
@@ -2790,7 +3039,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.2188347,
+    "lng": 5.3491126
   },
   {
     "naam": "AV MOTORSPORT",
@@ -2845,7 +3096,9 @@
     "financials_bron": "pappers.be",
     "info": "SWEET SPOT - EBITDA EUR305K, 44% marge, EUR735K kaspositie, 15 FTE. Waterloo (BWA).",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6888908,
+    "lng": 4.4058439
   },
   {
     "naam": "FLIES & CO WAVRE",
@@ -2864,7 +3117,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6836833,
+    "lng": 4.4014034
   },
   {
     "naam": "VANSPRINGEL AUTOMOBILES",
@@ -2892,7 +3147,9 @@
     "oprichting": "1983",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7202644,
+    "lng": 4.6244483
   },
   {
     "naam": "Pneu Vanhamme",
@@ -2911,7 +3168,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.72965,
+    "lng": 4.3982256
   },
   {
     "naam": "ACM GROUP",
@@ -2930,7 +3189,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6960222,
+    "lng": 4.3624679
   },
   {
     "naam": "PROCOTECH",
@@ -2957,7 +3218,9 @@
     "financials_bron": "pappers.be",
     "info": "INACTIEF/negatief eigen vermogen.",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.759963,
+    "lng": 4.3832512
   },
   {
     "naam": "AMEC",
@@ -2976,7 +3239,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7352317,
+    "lng": 4.3258955
   },
   {
     "naam": "Group Pashuysen Aarschot",
@@ -3004,7 +3269,9 @@
     "financials_bron": "pappers.be",
     "info": "BTW correctie: BE0428.293.404 = Elbicon Industries (NIET Group Pashuysen).",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9846649,
+    "lng": 4.8081811
   },
   {
     "naam": "Group Pashuysen Diest",
@@ -3023,7 +3290,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9804145,
+    "lng": 5.0478267
   },
   {
     "naam": "Group Pashuysen Leuven",
@@ -3042,7 +3311,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8988868,
+    "lng": 4.7075717
   },
   {
     "naam": "Group Pashuysen Tienen",
@@ -3061,7 +3332,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7998662,
+    "lng": 4.9621991
   },
   {
     "naam": "Group Pashuysen Sint-Truiden",
@@ -3080,7 +3353,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8141392,
+    "lng": 5.1604756
   },
   {
     "naam": "Group Pashuysen Genk",
@@ -3099,7 +3374,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9435401,
+    "lng": 5.4728238
   },
   {
     "naam": "GaragE HTC Hofstade",
@@ -3122,7 +3399,9 @@
     "financials_bron": "pappers.be",
     "info": "Geen jaarrekening publiek.",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9986522,
+    "lng": 4.4892798
   },
   {
     "naam": "Garage Pascal Autoservice Walem",
@@ -3150,7 +3429,9 @@
     "oprichting": "2013",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0650433,
+    "lng": 4.458494
   },
   {
     "naam": "A&M Car Services Mechelen",
@@ -3197,7 +3478,9 @@
     "oprichting": "1983",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0920292,
+    "lng": 4.1412757
   },
   {
     "naam": "AUTO-ONDERDELEN TAS LUC",
@@ -3225,7 +3508,9 @@
     "oprichting": "1980",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9440879,
+    "lng": 4.0345551
   },
   {
     "naam": "Garage Cornu",
@@ -3253,7 +3538,9 @@
     "oprichting": "1995",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.143803,
+    "lng": 4.1749363
   },
   {
     "naam": "Garage Van Buynder",
@@ -3280,7 +3567,9 @@
     "oprichting": "1986",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1717502,
+    "lng": 4.1253666
   },
   {
     "naam": "Willy Notenbaert & Zoon",
@@ -3308,7 +3597,9 @@
     "financials_bron": "pappers.be",
     "info": "SWEET SPOT - EBITDA EUR405K, 7 FTE, sterke groei 2024. Sint-Niklaas (OVL).",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1768508,
+    "lng": 4.1452604
   },
   {
     "naam": "Thibaut-Tech",
@@ -3327,7 +3618,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8191641,
+    "lng": 3.965528
   },
   {
     "naam": "Janssens-Geerinck",
@@ -3353,9 +3646,11 @@
     "bizzy_ebitda": 1300000,
     "oprichting": "1956",
     "financials_bron": "pappers.be",
-    "info": "Boven sweet spot - EBITDA EUR1.3M, 7 FTE, hoge marge. Turnhout (ANT).",
+    "info": "Boven sweet spot - EBITDA EUR1.3M, 7 FTE, hoge marge. Turnhout (ANT). | Naam adres bevestigd via website.",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.3261595,
+    "lng": 4.9672649
   },
   {
     "naam": "Snauwaert Autobedrijf",
@@ -3383,7 +3678,9 @@
     "oprichting": "2006",
     "financials_bron": "pappers.be",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.2298,
+    "lng": 3.2275446
   },
   {
     "naam": "DKW Caravans",
@@ -3412,7 +3709,9 @@
     "financials_bron": "pappers.be",
     "info": "Boven sweet spot - EBITDA EUR2.3M, 15 FTE. Wevelgem (WVL).",
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8247516,
+    "lng": 3.1728817
   },
   {
     "naam": "ECURIE ST-ELEUTHERE",
@@ -3431,7 +3730,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6288523,
+    "lng": 3.3046574
   },
   {
     "naam": "SMC Mechelen",
@@ -3450,7 +3751,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.0044787,
+    "lng": 4.4743375
   },
   {
     "naam": "CarProf CVF Charleroi",
@@ -3469,7 +3772,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.4168166,
+    "lng": 4.449374
   },
   {
     "naam": "Pneus Cointe",
@@ -3488,7 +3793,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6251493,
+    "lng": 5.5493805
   },
   {
     "naam": "DEBONNET",
@@ -3507,7 +3814,9 @@
       "agent_research_2026_05_29_wave2"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.7280808,
+    "lng": 3.4181398
   },
   {
     "naam": "Trahere & Vehicula",
@@ -3533,7 +3842,9 @@
       "pappers"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1234765,
+    "lng": 5.1878177
   },
   {
     "naam": "Palmaers Vakhandel NV",
@@ -3556,7 +3867,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.8612081,
+    "lng": 5.5034785
   },
   {
     "naam": "Mather Trading BVBA",
@@ -3577,7 +3890,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9774011,
+    "lng": 3.2187513
   },
   {
     "naam": "RPV Vanpevenaeyge SPRL",
@@ -3598,7 +3913,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.740164,
+    "lng": 3.5281137
   },
   {
     "naam": "ACT Mettet",
@@ -3619,7 +3936,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.2978776,
+    "lng": 4.6287971
   },
   {
     "naam": "Garage E42 Sankt-Vith",
@@ -3640,7 +3959,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.2703952,
+    "lng": 6.11678
   },
   {
     "naam": "Vercauteren Marcel",
@@ -3662,7 +3983,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 51.1535348,
+    "lng": 4.1113234
   },
   {
     "naam": "MDM Industrie",
@@ -3684,7 +4007,9 @@
       "branche_niche_2026_05_29"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.2958946,
+    "lng": 5.0880737
   },
   {
     "naam": "Centracar VW-Audi",
@@ -3704,7 +4029,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6391649,
+    "lng": 6.015769
   },
   {
     "naam": "Garage du Rocher-Falter",
@@ -3723,7 +4050,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6023433,
+    "lng": 5.8851059
   },
   {
     "naam": "Garage Carrosserie Martin",
@@ -3741,7 +4070,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 49.9860645,
+    "lng": 5.2527867
   },
   {
     "naam": "Garage Good Way",
@@ -3782,7 +4113,9 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.9086223,
+    "lng": 4.2936494
   },
   {
     "naam": "Mécanotoph",
@@ -3801,6 +4134,8 @@
       "wave3_wallonie"
     ],
     "is_specialist": false,
-    "classified_from": "plaatsers"
+    "classified_from": "plaatsers",
+    "lat": 50.6732474,
+    "lng": 3.957075
   }
 ]

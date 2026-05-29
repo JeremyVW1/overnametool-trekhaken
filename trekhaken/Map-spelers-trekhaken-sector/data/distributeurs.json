@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "naam": "Brink Group (HQ)",
     "land": "NL",
@@ -73,7 +73,7 @@
     "nace": [
       "46.69"
     ],
-    "info": "12+ miljoen trekhaken geproduceerd wereldwijd. Distributie BE+NL via importeurs.",
+    "info": "12+ miljoen trekhaken geproduceerd wereldwijd. Distributie BE+NL via importeurs. | Geen BE-entiteit (NL-bedrijf Drouwenermond). In BE via Carloma/Wommelgem.",
     "bron": [
       "marktresearch",
       "manual"
@@ -109,9 +109,9 @@
     ],
     "primaire_categorie": "distributeur",
     "grootte": "Middelgroot",
-    "lat": 50.8731,
-    "lng": 5.5172,
-    "adres": "Bilzen",
+    "lat": 50.9063647,
+    "lng": 5.5233805,
+    "adres": "Taunusweg 14, 3740 Bilzen",
     "plaats": "Bilzen",
     "website": "rsm.be",
     "nace": [
@@ -131,7 +131,8 @@
     "cw_fte": 3,
     "cw_jaar": 2024,
     "oprichting": "1980",
-    "financials_bron": "companyweb.be"
+    "financials_bron": "companyweb.be",
+    "telefoon": "+32 89 51 06 90"
   },
   {
     "naam": "Steinhof Benelux",
@@ -198,7 +199,12 @@
     "cw_jaar": 2024,
     "oprichting": "1954",
     "info": "Producent verenophanging/trekhaken zware voertuigen. VDL Group dochter.",
-    "financials_bron": "companyweb.be"
+    "financials_bron": "companyweb.be",
+    "lat": 50.8505813,
+    "lng": 2.7458129,
+    "adres": "Beneluxlaan 1-3, 8970 Poperinge",
+    "telefoon": "+32 57 34 62 00",
+    "website": "weweler.eu"
   },
   {
     "naam": "Truck & Trailer Industry",
@@ -220,7 +226,12 @@
     "cw_jaar": 2024,
     "oprichting": "1976",
     "info": "Trekhaken/koppelingen zwaar transport (VBG Group).",
-    "financials_bron": "companyweb.be"
+    "financials_bron": "companyweb.be",
+    "lat": 50.8507894,
+    "lng": 2.744199,
+    "adres": "Beneluxlaan 1, 8970 Poperinge",
+    "telefoon": "+32 57 34 62 00",
+    "website": "trucktrailer.be"
   },
   {
     "naam": "Limburgse Auto-onderdelen (L.A.O.)",
@@ -242,7 +253,12 @@
     "cw_jaar": 2024,
     "oprichting": "1978",
     "info": "Auto-onderdelen groothandel incl. trekhaken.",
-    "financials_bron": "companyweb.be"
+    "financials_bron": "companyweb.be",
+    "lat": 51.1255068,
+    "lng": 5.2543518,
+    "adres": "Antwerpsesteenweg 52, 3970 Leopoldsburg",
+    "telefoon": "+32 11 34 13 69",
+    "website": "laonv.be"
   },
   {
     "naam": "GDW Luingne",
@@ -259,7 +275,9 @@
     "primaire_categorie": "distributeur",
     "bron": [
       "agent_research_2026_05_29_wave2"
-    ]
+    ],
+    "lat": 50.7387931,
+    "lng": 3.2534324
   },
   {
     "naam": "Bosal Benelux",
@@ -276,7 +294,9 @@
     "primaire_categorie": "distributeur",
     "bron": [
       "agent_research_2026_05_29_wave2"
-    ]
+    ],
+    "lat": 51.1379631,
+    "lng": 4.9276963
   },
   {
     "naam": "Caravaning Center",
@@ -299,6 +319,8 @@
     "bron": [
       "spoor_c_caravan",
       "branche_niche_2026_05_29"
-    ]
+    ],
+    "lat": 50.9981547,
+    "lng": 4.3161645
   }
 ]

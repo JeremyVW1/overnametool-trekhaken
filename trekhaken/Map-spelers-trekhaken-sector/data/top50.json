@@ -73,18 +73,6 @@
   },
   {
     "rang": 7,
-    "naam": "GDW-Gent",
-    "score": 66,
-    "fte": 28,
-    "est_ebitda": "€900K",
-    "activiteit": "Plaatser + Verkoper",
-    "btw": "BE0808.505.886",
-    "plaats": "Gent",
-    "provincie": "ovl",
-    "notitie": "Plaatser+verkoper trekhaken, onderdeel GDW-netwerk. Omzet 2023 EUR5.7M."
-  },
-  {
-    "rang": 8,
     "naam": "Costo Remorques",
     "score": 65,
     "fte": 2,
@@ -96,7 +84,7 @@
     "notitie": "Brutomarge: 111900, Winst: 34100, FTE: 2"
   },
   {
-    "rang": 9,
+    "rang": 8,
     "naam": "GDW Group",
     "score": 63,
     "fte": 100,
@@ -108,7 +96,7 @@
     "notitie": "Belgische marktleider. ~31M EUR omzet (GDW nv). 5 productiesites in BE/FR/DK. Familie-bedrijf."
   },
   {
-    "rang": 10,
+    "rang": 9,
     "naam": "REMORQUES DECKERS",
     "score": 61,
     "fte": 7,
@@ -120,19 +108,19 @@
     "notitie": "Brutomarge: 287000, Winst: 47600, FTE: 7"
   },
   {
-    "rang": 11,
+    "rang": 10,
     "naam": "Trekhaak Punt",
     "score": 60,
     "fte": 1,
     "est_ebitda": "€596K (winst)",
     "activiteit": "Plaatser",
     "btw": "BE0649.616.621",
-    "plaats": "",
+    "plaats": "Waterrijtstraat 19E, 3920 Lommel",
     "provincie": "ovl",
     "notitie": "Meerdere locaties BE. Montage vanaf 369 EUR. | Innotex Invest BV."
   },
   {
-    "rang": 12,
+    "rang": 11,
     "naam": "Autoparts De Smet",
     "score": 60,
     "fte": 2,
@@ -144,7 +132,7 @@
     "notitie": "Brutomarge: 240413, Winst: 90767, FTE: 2"
   },
   {
-    "rang": 13,
+    "rang": 12,
     "naam": "Vlb Cars (Autocrew VLB Cars)",
     "score": 60,
     "fte": 1,
@@ -156,7 +144,7 @@
     "notitie": "Garage + trekhaken Wetteren. Autocrew partner."
   },
   {
-    "rang": 14,
+    "rang": 13,
     "naam": "Limburgse Auto-onderdelen (L.A.O.)",
     "score": 60,
     "fte": 2,
@@ -168,7 +156,7 @@
     "notitie": "Auto-onderdelen groothandel incl. trekhaken."
   },
   {
-    "rang": 15,
+    "rang": 14,
     "naam": "Autex",
     "score": 59,
     "fte": 2,
@@ -180,7 +168,7 @@
     "notitie": "Brutomarge: 194063, Winst: 46280, FTE: 2"
   },
   {
-    "rang": 16,
+    "rang": 15,
     "naam": "Les Attaches Hennuyeres",
     "score": 57,
     "fte": 2,
@@ -192,7 +180,7 @@
     "notitie": "Brutomarge: 50300, Winst: 2200, FTE: 2"
   },
   {
-    "rang": 17,
+    "rang": 16,
     "naam": "RSM Automaterialen",
     "score": 55,
     "fte": 3,
@@ -204,7 +192,7 @@
     "notitie": "Groothandel auto-onderdelen incl. GDW. 45 jaar actief."
   },
   {
-    "rang": 18,
+    "rang": 17,
     "naam": "Trekhaakdokter",
     "score": 53,
     "fte": 2,
@@ -216,19 +204,19 @@
     "notitie": "B2B-gericht (voor garages), codering + montage. Oprichter Steven Peeters. | Can Solutions BV."
   },
   {
-    "rang": 19,
+    "rang": 18,
     "naam": "DK Autoparts",
     "score": 51,
     "fte": 2,
     "est_ebitda": "€15K (winst)",
     "activiteit": "Verkoper + Distributeur",
     "btw": "BE0897.460.331",
-    "plaats": "",
+    "plaats": "Olen",
     "provincie": "ovl",
     "notitie": "Online + B2B groothandel. Brede range trekhaken."
   },
   {
-    "rang": 20,
+    "rang": 19,
     "naam": "Autoservice Bilzen (Fascomad)",
     "score": 48,
     "fte": 4,
@@ -240,7 +228,7 @@
     "notitie": "Trekhaken + uitlaat + banden Bilzen."
   },
   {
-    "rang": 21,
+    "rang": 20,
     "naam": "VDL Weweler-Colaert",
     "score": 47,
     "fte": 98,
@@ -252,7 +240,7 @@
     "notitie": "Producent verenophanging/trekhaken zware voertuigen. VDL Group dochter."
   },
   {
-    "rang": 22,
+    "rang": 21,
     "naam": "NOISET Remorques-Automobiles Fauvillers",
     "score": 41,
     "fte": 7,
@@ -264,7 +252,7 @@
     "notitie": "Brutomarge: None, Winst: -11100, FTE: 7"
   },
   {
-    "rang": 23,
+    "rang": 22,
     "naam": "Inter-Parts Europe",
     "score": 38,
     "fte": 1,
@@ -276,7 +264,7 @@
     "notitie": "Brutomarge: 11761, Winst: 113, FTE: 1"
   },
   {
-    "rang": 24,
+    "rang": 23,
     "naam": "Eurauto",
     "score": 37,
     "fte": 1,
@@ -288,7 +276,7 @@
     "notitie": "Brutomarge: 9386, Winst: 7952, FTE: 1"
   },
   {
-    "rang": 25,
+    "rang": 24,
     "naam": "Trekhakencenter Kortrijk",
     "score": 36,
     "fte": null,
@@ -300,7 +288,7 @@
     "notitie": "Juridische naam: Aanhangwagenbouw Deblaere. Klein bedrijf."
   },
   {
-    "rang": 26,
+    "rang": 25,
     "naam": "Truck & Trailer Industry",
     "score": 35,
     "fte": 1,
@@ -312,7 +300,7 @@
     "notitie": "Trekhaken/koppelingen zwaar transport (VBG Group)."
   },
   {
-    "rang": 27,
+    "rang": 26,
     "naam": "Lokerse Auto Service",
     "score": 28,
     "fte": 1,
@@ -321,10 +309,10 @@
     "btw": "BE0465.165.973",
     "plaats": "Lokeren",
     "provincie": "ovl",
-    "notitie": "Brutomarge: 12915, Winst: -5559, FTE: 1"
+    "notitie": "LIQUIDATIE 28/04/2025 — niet actief target."
   },
   {
-    "rang": 28,
+    "rang": 27,
     "naam": "GDW Group (holding)",
     "score": 26,
     "fte": 0,
@@ -336,19 +324,19 @@
     "notitie": "Brutomarge: 559300, Winst: -482700, FTE: 0"
   },
   {
-    "rang": 29,
+    "rang": 28,
     "naam": "Luc Auto (Lucar bvba)",
     "score": 20,
     "fte": 0,
     "est_ebitda": "€28K (winst)",
     "activiteit": "Plaatser",
     "btw": "BE0554.786.055",
-    "plaats": "",
+    "plaats": "Assenede",
     "provincie": "ovl",
     "notitie": "25+ jaar ervaring, voordelig tarief. | Trekhaken + Thule specialist."
   },
   {
-    "rang": 30,
+    "rang": 29,
     "naam": "Tecno-Parts",
     "score": 20,
     "fte": 0,
@@ -360,7 +348,7 @@
     "notitie": "Brutomarge: 19827, Winst: 9673, FTE: 0"
   },
   {
-    "rang": 31,
+    "rang": 30,
     "naam": "Noyen Class",
     "score": 20,
     "fte": 0,
@@ -372,7 +360,7 @@
     "notitie": "Brutomarge: 53163, Winst: 38058, FTE: 0"
   },
   {
-    "rang": 32,
+    "rang": 31,
     "naam": "ATB (Antwerps Trekhaken Bedrijf)",
     "score": 20,
     "fte": 0,
