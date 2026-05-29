@@ -129,11 +129,14 @@
     "info": "Regionaal specialist Limburg (BE).",
     "bron": [
       "marktresearch",
-      "manual"
+      "manual",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
-    "telefoon": "+32 493 04 95 33"
+    "telefoon": "+32 493 04 95 33",
+    "btw": "BE0761.833.248",
+    "website": "breesetrekhaakcenter.be"
   },
   {
     "naam": "Encase Limburg",
@@ -427,7 +430,8 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "btw_lookup_wave2"
     ],
     "grootte": null,
     "webshop": null,
@@ -438,7 +442,8 @@
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.2290842,
     "lng": 5.3778855,
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0649.616.621"
   },
   {
     "naam": "Patjes Trekhakencenter",
@@ -810,7 +815,8 @@
     "primaire_categorie": "plaatser",
     "bron": [
       "agent_research_2026_05_29",
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "grootte": null,
     "webshop": null,
@@ -823,7 +829,8 @@
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9192171,
     "lng": 3.1882934,
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0894.049.196"
   },
   {
     "naam": "Alfa Auto Shop",
@@ -1296,13 +1303,14 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.4218556,
     "lng": 3.9586164,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Mons (Henegouwen).",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Mons (Henegouwen). | BTW niet vindbaar (vermoedelijk micro-onderneming).",
     "_info_auto": true
   },
   {
@@ -1535,20 +1543,22 @@
     "adres": "Chaussee de Charleroi 282, 5032 Corroy-le-Chateau",
     "telefoon": "+3281614337",
     "website": "attacheremorquecoenen.eu",
-    "btw": null,
+    "btw": "BE0820.354.734",
     "categorieen": [
       "plaatser"
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.5485637,
     "lng": 4.6597369,
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Corroy-le-Chateau (Namen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "oprichting": "2009"
   },
   {
     "naam": "Remorque Californie Bastogne",
@@ -1610,19 +1620,20 @@
     "adres": "Route de Bastogne 319, 6700 Arlon",
     "telefoon": "+3263457595",
     "website": "remorques-noiset.be",
-    "btw": null,
+    "btw": "BE0412.917.617",
     "categorieen": [
       "plaatser"
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 49.6975549,
     "lng": 5.8091669,
-    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Arlon (Luxemburg (BE)).",
+    "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Arlon (Luxemburg (BE)). | Zelfde entiteit als Noiset Fauvillers (BE0412.917.617).",
     "_info_auto": true
   },
   {
@@ -1639,13 +1650,14 @@
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.0182613,
     "lng": 4.4687314,
-    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen).",
+    "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Mechelen (Antwerpen). | BTW niet vindbaar (vermoedelijk eenmanszaak).",
     "_info_auto": true
   },
   {
@@ -1656,20 +1668,22 @@
     "adres": "Lenniksesteenweg 552, 1500 Halle",
     "telefoon": "+3223561448",
     "website": "maillard.be",
-    "btw": null,
+    "btw": "BE0573.565.453",
     "categorieen": [
       "plaatser"
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.7576337,
     "lng": 4.2032812,
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Halle (Vlaams-Brabant).",
-    "_info_auto": true
+    "_info_auto": true,
+    "oprichting": "1974"
   },
   {
     "naam": "DN Trailers",
@@ -1800,14 +1814,15 @@
     "plaats": "Testelt",
     "adres": "Kattestraat 24a, 3272 Testelt",
     "telefoon": "+32495212502",
-    "website": "",
-    "btw": null,
+    "website": "accuco.be",
+    "btw": "BE0817.325.661",
     "categorieen": [
       "plaatser"
     ],
     "primaire_categorie": "plaatser",
     "bron": [
-      "agent_research_2026_05_29_wave2"
+      "agent_research_2026_05_29_wave2",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
@@ -1831,12 +1846,16 @@
       "plaatser"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "info": "Erkende installateur (Brink). gevestigd in Haaltert (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0684.543.549",
+    "lat": null,
+    "lng": null
   },
   {
     "naam": "Garage Alain",
@@ -1854,14 +1873,16 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9185705,
     "lng": 3.9942062,
-    "info": "Erkende installateur (Brink). gevestigd in Aalst (Oost-Vlaanderen).",
-    "_info_auto": true
+    "info": "Erkende installateur (Brink). gevestigd in Aalst (Oost-Vlaanderen). | BTW niet vindbaar in openbare bronnen (vermoedelijk eenmanszaak).",
+    "_info_auto": true,
+    "website": "garagealain.be"
   },
   {
     "naam": "Eurorepar Vanhulle Menen bvba",
@@ -1879,14 +1900,16 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8074432,
     "lng": 3.1229164,
     "info": "Erkende installateur (Brink). gevestigd in Menen (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0831.981.569"
   },
   {
     "naam": "Autoservice Geuens",
@@ -1904,14 +1927,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2285378,
     "lng": 5.3790787,
     "info": "Erkende installateur (Brink). gevestigd in Pelt (Limburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0874.554.473",
+    "oprichting": "2005"
   },
   {
     "naam": "Schrooten Autotechnics",
@@ -1929,14 +1955,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1210488,
     "lng": 5.5916573,
     "info": "Erkende installateur (Brink). gevestigd in Bree (Limburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0777.721.155",
+    "website": "schrooten-autotechnics.be"
   },
   {
     "naam": "Eurorepar Boone Tom",
@@ -1954,14 +1983,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8188534,
     "lng": 3.8471159,
     "info": "Erkende installateur (Brink). gevestigd in Lierde (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0862.438.579",
+    "website": "boonetom.be"
   },
   {
     "naam": "Eurorepar MC Motors NV",
@@ -1979,14 +2011,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0464582,
     "lng": 4.4169254,
     "info": "Erkende installateur (Brink). gevestigd in Mechelen (Antwerpen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0449.482.162",
+    "website": "euroreparmechelen.be"
   },
   {
     "naam": "Eurorepar Bariseau Mottrie",
@@ -2004,14 +2039,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.975549,
     "lng": 3.1201307,
     "info": "Erkende installateur (Brink). gevestigd in Roeselare (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0554.705.980",
+    "website": "bariseaumottrie.be"
   },
   {
     "naam": "Eurorepar Cremers",
@@ -2029,14 +2067,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.8731545,
     "lng": 5.3671829,
     "info": "Erkende installateur (Brink). gevestigd in Kortessem (Limburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0441.937.938",
+    "website": "garage-cremers.be"
   },
   {
     "naam": "Pashuysen NV (HQ Aarschot)",
@@ -2054,12 +2095,15 @@
     ],
     "info": "Brink-erkende dealer, 6 BE-vestigingen. NIET Elbicon Industries (andere entiteit).",
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9846649,
-    "lng": 4.8081811
+    "lng": 4.8081811,
+    "btw": "BE0416.578.970",
+    "website": "pashuysen.be"
   },
   {
     "naam": "Eurorepar Maene",
@@ -2077,14 +2121,18 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1591548,
     "lng": 3.0545367,
     "info": "Erkende installateur (Brink). gevestigd in Bekegem (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0879.733.778",
+    "website": "garage-maene.be",
+    "oprichting": "2006"
   },
   {
     "naam": "Eurorepar 4all cars bvba",
@@ -2102,14 +2150,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2275695,
     "lng": 4.0895287,
     "info": "Erkende installateur (Brink). gevestigd in Sint-Gillis-Waas (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0415.940.849",
+    "website": "4allcars.be"
   },
   {
     "naam": "Eurorepar Peelaerts bv",
@@ -2127,14 +2178,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9623206,
     "lng": 4.6034196,
     "info": "Erkende installateur (Brink). gevestigd in Boortmeerbeek (Vlaams-Brabant).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0894.603.482",
+    "website": "peelaerts.be"
   },
   {
     "naam": "Eurorepar Van Humbeeck",
@@ -2152,14 +2206,16 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9304979,
     "lng": 4.2691213,
     "info": "Erkende installateur (Brink). gevestigd in Brussegem (Vlaams-Brabant).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0420.036.229"
   },
   {
     "naam": "Eurorepar Luc De Thaey BVBA",
@@ -2177,14 +2233,16 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0633541,
     "lng": 4.0233443,
-    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen).",
-    "_info_auto": true
+    "info": "Erkende installateur (Brink). gevestigd in Zele (Oost-Vlaanderen). | GESLOTEN - eigenaar gepensioneerd. Geen target.",
+    "_info_auto": true,
+    "btw": "BE0870.526.795"
   },
   {
     "naam": "Eurorepar Dumarey",
@@ -2202,14 +2260,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.0819597,
     "lng": 3.1111808,
     "info": "Erkende installateur (Brink). gevestigd in Torhout (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0864.202.791",
+    "website": "citroendumarey.be"
   },
   {
     "naam": "Eurorepar Vervoort",
@@ -2227,14 +2288,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.2113452,
     "lng": 4.5963325,
     "info": "Erkende installateur (Brink). gevestigd in Oelegem (Antwerpen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0839.545.490",
+    "oprichting": "2011"
   },
   {
     "naam": "Eurorepar Koen de Maeyer",
@@ -2252,14 +2316,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1448178,
     "lng": 4.2842254,
     "info": "Erkende installateur (Brink). gevestigd in Bazel (Oost-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0464.072.348",
+    "website": "gar-demaeyer.be"
   },
   {
     "naam": "Thomaco Services BV",
@@ -2276,14 +2343,17 @@
       "plaatser"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.9952334,
     "lng": 3.0342703,
     "info": "Erkende installateur (Brink). gevestigd in Hooglede (West-Vlaanderen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0730.772.264",
+    "website": "thomaco-services.com"
   },
   {
     "naam": "Cartronic Maaseik BV",
@@ -2301,14 +2371,18 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1022819,
     "lng": 5.7498422,
     "info": "Erkende installateur (Brink). gevestigd in Maaseik (Limburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0462.826.986",
+    "website": "cartronic.be",
+    "oprichting": "1998"
   },
   {
     "naam": "Lavrijsen NV",
@@ -2326,14 +2400,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 51.1651977,
     "lng": 5.0315127,
     "info": "Erkende installateur (Brink). gevestigd in Geel (Antwerpen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0406.353.289",
+    "website": "lavrijsen-geel.be"
   },
   {
     "naam": "Eurorepar Preumont",
@@ -2351,14 +2428,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 50.0503677,
     "lng": 4.4511862,
     "info": "Erkende installateur (Brink). gevestigd in Couvin (Namen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0431.343.162",
+    "website": "garage-preumont.be"
   },
   {
     "naam": "Eurorepar D.N. Cars",
@@ -2376,14 +2456,16 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "lat": 49.99781,
     "lng": 5.6902087,
     "info": "Erkende installateur (Brink). gevestigd in Bastogne (Luxemburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0773.742.274"
   },
   {
     "naam": "Eurorepar FL Motor",
@@ -2401,12 +2483,17 @@
       "garage"
     ],
     "bron": [
-      "brink_dealer_locator"
+      "brink_dealer_locator",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "oem_dealer_bron",
     "info": "Erkende installateur (Brink). gevestigd in Florenville (Luxemburg (BE)).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0550.819.646",
+    "website": "flmotor.be",
+    "lat": null,
+    "lng": null
   },
   {
     "naam": "AANHANGWAGEN STOCK",
@@ -3376,12 +3463,14 @@
     "bron": [
       "ifor_williams_dealer",
       "atec_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.3932973,
-    "lng": 4.9394388
+    "lng": 4.9394388,
+    "btw": "BE0644.424.052"
   },
   {
     "naam": "West Trailers",
@@ -3519,12 +3608,16 @@
     ],
     "bron": [
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Aanhangwagen-dealer met trekhaak-service. gevestigd in Merchtem (Vlaams-Brabant).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0713.690.465",
+    "lat": null,
+    "lng": null
   },
   {
     "naam": "Remorques Moreau",
@@ -3544,12 +3637,17 @@
     ],
     "bron": [
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "info": "Trekhaak- en aanhangwagen-specialist. gevestigd in Lives-sur-Meuse (Namen).",
-    "_info_auto": true
+    "_info_auto": true,
+    "btw": "BE0474.258.041",
+    "oprichting": "2001",
+    "lat": null,
+    "lng": null
   },
   {
     "naam": "LOJI Trailers & Van Solutions",
@@ -3802,14 +3900,16 @@
       "plaatser",
       "verkoper"
     ],
-    "info": "Mogelijk gelinkt aan Autex Geel (zelfde adres).",
+    "info": "Mogelijk gelinkt aan Autex Geel (zelfde adres). | Onderdeel van Autex BV (zelfde BTW als Autex Geel).",
     "bron": [
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 51.145264,
-    "lng": 4.9993958
+    "lng": 4.9993958,
+    "btw": "BE0412.930.186"
   },
   {
     "naam": "GMC Remorques",
@@ -3878,15 +3978,18 @@
     "categorieen": [
       "plaatser"
     ],
-    "info": "Brussels pure trekhaak-specialist.",
+    "info": "Brussels pure trekhaak-specialist. | Familiezaak opgericht 1950, huidig rechtspersoon 2018.",
     "bron": [
       "google_maps",
-      "wave3_wallonie"
+      "wave3_wallonie",
+      "btw_lookup_wave2"
     ],
     "is_specialist": true,
     "specialist_reason": "naam_website_info_bevat_trekhaak_term",
     "lat": 50.8544614,
-    "lng": 4.3957077
+    "lng": 4.3957077,
+    "btw": "BE0715.571.077",
+    "oprichting": "2018"
   },
   {
     "naam": "BCM Remorques",
