@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "naam": "Brink Group (HQ)",
     "land": "NL",
@@ -235,15 +235,16 @@
     "bron": [
       "agent_research_2026_05_29",
       "financials_companyweb",
-      "wave6a_pagesdor"
+      "wave6a_pagesdor",
+      "financials_pappers_wave6"
     ],
-    "cw_brutomarge": 776,
-    "cw_winst": 4503,
+    "cw_brutomarge": 800,
+    "cw_winst": 4500,
     "cw_fte": 1,
     "cw_jaar": 2024,
     "oprichting": "1976",
-    "info": "Trekhaken/koppelingen zwaar transport (VBG Group).",
-    "financials_bron": "companyweb.be",
+    "info": "Trekhaken/koppelingen zwaar transport (VBG Group). | MICRO - brutomarge €775, winst €4.5K. Poperinge. Opgericht 1976. Feitelijk inactief of semi-actief. Niet relevant als overnamekandiaat.",
+    "financials_bron": "pappers.be",
     "lat": 50.8507894,
     "lng": 2.744199,
     "adres": "Beneluxlaan 1, 8970 Poperinge",
@@ -264,15 +265,16 @@
     "btw": "BE0417.842.346",
     "bron": [
       "financials_companyweb",
-      "agent_research_2026_05_29"
+      "agent_research_2026_05_29",
+      "financials_pappers_wave6"
     ],
-    "cw_brutomarge": 204070,
-    "cw_winst": 69209,
-    "cw_fte": 2,
+    "cw_brutomarge": 204100,
+    "cw_winst": 69200,
+    "cw_fte": 3,
     "cw_jaar": 2024,
     "oprichting": "1978",
-    "info": "Auto-onderdelen groothandel incl. trekhaken.",
-    "financials_bron": "companyweb.be",
+    "info": "Auto-onderdelen groothandel incl. trekhaken. | SWEET SPOT - brutomarge €204.1K, winst €69.2K (33.9% nettomarge). Leopoldsburg. 1-4 FTE. GM 47.96%. Opgericht 1978, stabiel bedrijf.",
+    "financials_bron": "pappers.be",
     "lat": 51.1255068,
     "lng": 5.2543518,
     "adres": "Antwerpsesteenweg 52, 3970 Leopoldsburg",

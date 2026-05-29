@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "naam": "Garage Tim Crabbe",
     "plaats": "Bornem",
@@ -158,7 +158,9 @@
     "bron": [
       "agent_research_2026_05_29",
       "wave6a_goudengids",
-      "wave6b_google_maps"
+      "wave6b_google_maps",
+      "btw_lookup_wave6",
+      "financials_pappers_wave6"
     ],
     "grootte": null,
     "webshop": null,
@@ -166,14 +168,21 @@
     "merken_gevoerd": [
       "Thule"
     ],
-    "info": "Thule specialist, trekhaken montage, 25 jaar ervaring, verhuur fietsendragers",
+    "info": "Thule specialist, trekhaken montage, 25 jaar ervaring, verhuur fietsendragers | Van Vooren-Lucar BV; opgericht 19/06/2014; NACE 46720 groothandel auto-onderdelen; Thule specialist | Klein bedrijf - brutomarge €59.6K, winst €23.5K. Bedrijfsnaam KBO: VanVooren-Lucar. Assenede. Jongste beschikbare jaar is 2022.",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1869052,
     "lng": 3.6834217,
     "google_maps_url": "https://maps.google.com/?q=Lucar+Abdijstraat+14+Oosteeklo",
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0554.786.055",
+    "oprichting": "2014",
+    "cw_brutomarge": 59600,
+    "cw_winst": 23500,
+    "cw_fte": 1,
+    "cw_jaar": 2022,
+    "financials_bron": "pappers.be"
   },
   {
     "naam": "Auto Center Gent",
@@ -189,20 +198,23 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "wave6b_google_maps"
+      "wave6b_google_maps",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "10 jaar ervaring, 2.700+ voertuigen. Diagnose, onderhoud, trekhaken, chiptuning. Zelfde dag op afspraak.",
+    "info": "10 jaar ervaring, 2.700+ voertuigen. Diagnose, onderhoud, trekhaken, chiptuning. Zelfde dag op afspraak. | Automobiel Center Gent NV; 32,2 FTE; omzet €51,9M; opgericht 27/12/1983; let op: KBO-adres Merelbeke verschilt van input Wondelgem",
     "is_specialist": false,
     "classified_from": "plaatsers",
-    "lat": 51.0538286,
-    "lng": 3.7250121,
+    "lat": 51.090259,
+    "lng": 3.6896476,
     "google_maps_url": "https://maps.google.com/?q=Autocenter+Gent+Industrieweg+122+Wondelgem",
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0425.070.925",
+    "oprichting": "1983"
   },
   {
     "naam": "Bosch Car Service Gavaro",
@@ -218,21 +230,23 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "wave6c_bosch_car_service"
+      "wave6c_bosch_car_service",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "Bosch Car Service dealer in BE-netwerk. Adres vereist vervolgonderzoek.",
+    "info": "Bosch Car Service dealer in BE-netwerk. Adres vereist vervolgonderzoek. | Gavaro SA; Antwerpen; jaarrekening 2024; Bosch Car Service franchise",
     "is_specialist": false,
     "classified_from": "plaatsers",
-    "lat": 51.2211097,
-    "lng": 4.3997081,
+    "lat": null,
+    "lng": null,
     "keten": "Bosch Car Service",
     "parent_brand": "Bosch Car Service Belgium",
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod"
+    "zekerheid_reden": "OEM dealer-locator bron of keten met bevestigd trekhaak-aanbod",
+    "btw": "BE0457.987.676"
   },
   {
     "naam": "BUROPORT",
@@ -690,13 +704,14 @@
     "bron": [
       "agent_research_2026_05_29",
       "goudengids_wvl_2026_05_29",
-      "wave6a_goudengids"
+      "wave6a_goudengids",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "Garage West-Vlaanderen met trekhaken service",
+    "info": "Garage West-Vlaanderen met trekhaken service | NIET GEVONDEN op companyweb/trendstop; mogelijk eenmanszaak",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.0183803,
@@ -1719,19 +1734,21 @@
     "bron": [
       "agent_research_2026_05_29",
       "goudengids_ant_2026_05_29",
-      "wave6a_pagesdor"
+      "wave6a_pagesdor",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "Garage met trekhaken als dienst",
+    "info": "Garage met trekhaken als dienst | Ataf Antwerpen SPRL; Hoboken; jaarrekening 2025",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1699507,
     "lng": 4.3638816,
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0864.965.133"
   },
   {
     "naam": "VMF Deurne / Denayer",
@@ -1775,19 +1792,21 @@
     "bron": [
       "agent_research_2026_05_29",
       "goudengids_ant_2026_05_29",
-      "wave6a_goudengids"
+      "wave6a_goudengids",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "Garage Zandhoven met trekhaken service",
+    "info": "Garage Zandhoven met trekhaken service | Ludo Van de Peer BVBA/BV; Zandhoven; jaarrekening 2025; NACE kleinhandel auto's",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.208092,
     "lng": 4.6618518,
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0441.119.574"
   },
   {
     "naam": "A-Altra / Sevenhans",
@@ -1803,13 +1822,14 @@
     "primaire_categorie": "alle_garages",
     "bron": [
       "agent_research_2026_05_29",
-      "wave6a_pagesdor"
+      "wave6a_pagesdor",
+      "btw_lookup_wave6"
     ],
     "grootte": null,
     "webshop": null,
     "nace": [],
     "merken_gevoerd": [],
-    "info": "Garage Schilde met trekhaak montage",
+    "info": "Garage Schilde met trekhaak montage | NIET GEVONDEN als A-Altra op companyweb; Tom Sevenhans auto's Schilde; aparte BTW-zoektocht nodig",
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.2531181,
@@ -2215,7 +2235,7 @@
     "adres": "Den Haeckstraat 3, 1800 Vilvoorde",
     "telefoon": "+3222521122",
     "website": "https://www.vilvoordsuitlaatcenter.be",
-    "btw": null,
+    "btw": "BE0432.255.952",
     "categorieen": [
       "alle_garages"
     ],
@@ -2223,16 +2243,18 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "wave6a_goudengids",
-      "wave6b_google_maps"
+      "wave6b_google_maps",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9348395,
     "lng": 4.4263322,
-    "info": "30 jaar specialist trekhaken en uitlaten Vilvoorde, plaatsen en vervangen",
+    "info": "30 jaar specialist trekhaken en uitlaten Vilvoorde, plaatsen en vervangen | Vilvoords Uitlaatcenter BVBA; opgericht 20/10/1987; Vilvoorde; adres bevestigd",
     "google_maps_url": "https://maps.google.com/?q=Vilvoords+Uitlaatcenter+Den+Haeckstraat+3+Vilvoorde",
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "oprichting": "1987"
   },
   {
     "naam": "Garage Luytens Dirk",
@@ -2922,7 +2944,7 @@
     "adres": "Rue de Battice 52, 4800 Petit-Rechain",
     "telefoon": "+3287338161",
     "website": "attachesconsult.be",
-    "btw": null,
+    "btw": "BE0560.713.250",
     "categorieen": [
       "alle_garages"
     ],
@@ -2930,13 +2952,14 @@
     "bron": [
       "agent_research_2026_05_29_wave2",
       "wave6a_pagesdor",
-      "wave6b_google_maps"
+      "wave6b_google_maps",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.620382,
     "lng": 5.830985,
-    "info": "Specialist verkoop en montage vast/afneembaar/intrekbaar, industriezone Verviers, 27 reviews 4.3/5",
+    "info": "Specialist verkoop en montage vast/afneembaar/intrekbaar, industriezone Verviers, 27 reviews 4.3/5 | Attaches Consult Services SRL; Herve (gemeente die Petit-Rechain omvat); ACEKO trailers + GDW attaches; adres wijkt iets af van input (Petit-Rechain is deelgemeente Herve)",
     "merken_gevoerd": [
       "GDW",
       "ACEKO",
@@ -4261,14 +4284,18 @@
     "bron": [
       "ifor_williams_dealer",
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.8612081,
     "lng": 5.5034785,
     "trekhaak_zekerheid": "midden",
-    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)",
+    "btw": "BE0449.866.501",
+    "website": "palmaersvakhandel.be",
+    "info": "Palmaers Vakhandel NV; 25,2 FTE; omzet €10,5M; Ifor Williams dealer; gereedschap/machines"
   },
   {
     "naam": "Mather Trading BVBA",
@@ -4287,15 +4314,17 @@
     "bron": [
       "branche_niche_2026_05_29",
       "eduard_dealer",
-      "wave6d_aanhangwagen"
+      "wave6d_aanhangwagen",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.9774011,
     "lng": 3.2187513,
-    "info": "Eduard dealer West-Vlaanderen regio Ardooie. Kleine aanhangwagen specialist.",
+    "info": "Eduard dealer West-Vlaanderen regio Ardooie. Kleine aanhangwagen specialist. | Mather Trading SRL; Ardooie; jaarrekening 2023",
     "trekhaak_zekerheid": "midden",
-    "zekerheid_reden": "aanhang/remorque/trailer term in naam"
+    "zekerheid_reden": "aanhang/remorque/trailer term in naam",
+    "btw": "BE0806.791.065"
   },
   {
     "naam": "RPV Vanpevenaeyge SPRL",
@@ -4340,14 +4369,18 @@
     ],
     "bron": [
       "eduard_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2978776,
     "lng": 4.6287971,
     "trekhaak_zekerheid": "midden",
-    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)",
+    "btw": "BE0440.424.441",
+    "website": "actmettet.be",
+    "info": "ACT SRL (Ateliers de Constructions Tubulaires); Mettet; 9,9 FTE; remorques + constructie; jaarrekening 2025"
   },
   {
     "naam": "Garage E42 Sankt-Vith",
@@ -4392,15 +4425,18 @@
     "bron": [
       "branche_niche_2026_05_29",
       "ifor_williams_dealer",
-      "wave6d_aanhangwagen"
+      "wave6d_aanhangwagen",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 51.1535348,
     "lng": 4.1113234,
-    "info": "Erkend Ifor Williams dealer regio Sint-Niklaas/Waasland. Kleine familiebedrijf.",
+    "info": "Erkend Ifor Williams dealer regio Sint-Niklaas/Waasland. Kleine familiebedrijf. | Traktoren en Landbouwmachines Marcel Vercauteren SRL; Sint-Niklaas (Belsele is deelgemeente); opgericht 21/02/1997",
     "trekhaak_zekerheid": "midden",
-    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)",
+    "btw": "BE0460.132.465",
+    "oprichting": "1997"
   },
   {
     "naam": "MDM Industrie",
@@ -4419,14 +4455,17 @@
     ],
     "bron": [
       "ifor_williams_dealer",
-      "branche_niche_2026_05_29"
+      "branche_niche_2026_05_29",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.2958946,
     "lng": 5.0880737,
     "trekhaak_zekerheid": "midden",
-    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)"
+    "zekerheid_reden": "voert aanhangwagen-merk (Ifor Williams/Eduard/Saris/...)",
+    "btw": "BE0443.178.053",
+    "info": "M.D.M. Industrie SA; Ciney; 12,7 FTE; adres bevestigd"
   },
   {
     "naam": "Centracar VW-Audi",
@@ -4579,15 +4618,17 @@
     "bron": [
       "pagesdor_silly",
       "wave3_wallonie",
-      "wave6a_pagesdor"
+      "wave6a_pagesdor",
+      "btw_lookup_wave6"
     ],
     "is_specialist": false,
     "classified_from": "plaatsers",
     "lat": 50.6732474,
     "lng": 3.957075,
-    "info": "Buurtgarage Henegouwen, onderhoud alle merken + pose attelage, open op zaterdag",
+    "info": "Buurtgarage Henegouwen, onderhoud alle merken + pose attelage, open op zaterdag | Nath & Toph SRL; Silly (Bassilly is deelgemeente); garagist Christophe Simon; trekhaken + banden",
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0787.827.961"
   },
   {
     "naam": "DK Cars",
@@ -4597,18 +4638,20 @@
     "adres": "Beigemsesteenweg 192, 1850 Grimbergen",
     "telefoon": "+32 2 268 82 40",
     "website": "https://www.dk-cars.be",
-    "info": "Autohandel Grimbergen met trekhaken service",
+    "info": "Autohandel Grimbergen met trekhaken service | DK Cars BVBA; Grimbergen; garage + tweedehands voertuigen; adres bevestigd via website",
     "bron": [
-      "wave6a_pagesdor"
+      "wave6a_pagesdor",
+      "btw_lookup_wave6"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.9452735,
+    "lng": 4.3656624,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
     ],
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0472.972.097"
   },
   {
     "naam": "Garage Haezebrouck & Zoon",
@@ -4618,21 +4661,24 @@
     "adres": "Roeselarestraat 423, 8560 Wevelgem",
     "telefoon": "+32 475 77 44 97",
     "website": "https://www.camionetten.be",
-    "info": "Bestelwagenspecialist met trekhakenmontage. Verkoop nieuwe en occasions bestelwagens. Polishing & detailing.",
+    "info": "Bestelwagenspecialist met trekhakenmontage. Verkoop nieuwe en occasions bestelwagens. Polishing & detailing. | Haezebrouck en Zoon SRL; Wevelgem; opgericht 1990; brutomarge €129K; trekhaken + bestelwagens",
     "google_maps_url": "https://maps.google.com/?q=Garage+Haezebrouck+Roeselarestraat+423+Wevelgem",
     "rating": null,
     "reviews_count": null,
     "bron": [
-      "wave6b_google_maps"
+      "wave6b_google_maps",
+      "btw_lookup_wave6"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.8254113,
+    "lng": 3.1731553,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
     ],
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0805.154.339",
+    "oprichting": "1990"
   },
   {
     "naam": "Campirama NV",
@@ -4652,8 +4698,8 @@
       "Bürstner",
       "Carado"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.9186737,
+    "lng": 3.1938021,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4679,8 +4725,8 @@
       "Weinsberg",
       "KABE"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.7758641,
+    "lng": 3.4815389,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4707,8 +4753,8 @@
       "T@B",
       "Weinsberg"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 51.0310775,
+    "lng": 5.1576904,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4736,8 +4782,8 @@
       "Dreamer",
       "Itineo"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.8485128,
+    "lng": 3.3699678,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4757,8 +4803,8 @@
     "bron": [
       "wave6d_caravan"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 51.1371068,
+    "lng": 4.1791855,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4782,8 +4828,8 @@
       "Pilote",
       "Adria"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 51.1245768,
+    "lng": 4.9435041,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4811,8 +4857,8 @@
       "Giottiline",
       "Caravelair"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.8521691,
+    "lng": 2.7450511,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4836,8 +4882,8 @@
       "Hobby",
       "Fendt"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 51.056042,
+    "lng": 5.7439616,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4860,8 +4906,8 @@
     "merken_gevoerd": [
       "Tabbert"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.7511172,
+    "lng": 3.6106252,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4891,8 +4937,8 @@
       "Malibu",
       "Caravelair"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.4760169,
+    "lng": 4.4415936,
     "primaire_categorie": "alle_garages",
     "categorieen": [
       "alle_garages"
@@ -4918,8 +4964,8 @@
     "bron": [
       "wave6e_ostbelgien"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.2796133,
+    "lng": 6.1304894,
     "trekhaak_zekerheid": "laag",
     "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
@@ -4949,8 +4995,8 @@
       "Possl",
       "Morelo"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.6478389,
+    "lng": 6.0025104,
     "trekhaak_zekerheid": "laag",
     "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
   },
@@ -4972,8 +5018,8 @@
     "bron": [
       "wave6e_ostbelgien"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.4420002,
+    "lng": 6.1955007,
     "trekhaak_zekerheid": "laag",
     "zekerheid_reden": "caravan/kampeerauto zonder trekhaak-signaal"
   },
@@ -5001,8 +5047,8 @@
       "Skoda",
       "Seat"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.3333318,
+    "lng": 6.4069082,
     "trekhaak_zekerheid": "laag",
     "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
@@ -5024,8 +5070,8 @@
     "bron": [
       "wave6e_ostbelgien"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.2311985,
+    "lng": 6.0812355,
     "trekhaak_zekerheid": "laag",
     "zekerheid_reden": "geen expliciete trekhaak-indicatie"
   },
@@ -5042,10 +5088,11 @@
       "alle_garage",
       "alle_garages"
     ],
-    "info": "Gespecialiseerd in onderhoud en reparatie van Duitse automerken. Karosseriewerk. Geen trekhaken expliciet vermeld.",
+    "info": "Gespecialiseerd in onderhoud en reparatie van Duitse automerken. Karosseriewerk. Geen trekhaken expliciet vermeld. | Garage Peter Arens SA; Amel; 14,5 FTE; jaarrekening 2025",
     "taal_origineel": "DE",
     "bron": [
-      "wave6e_ostbelgien"
+      "wave6e_ostbelgien",
+      "btw_lookup_wave6"
     ],
     "merken_gevoerd": [
       "BMW",
@@ -5053,9 +5100,10 @@
       "Audi",
       "Porsche"
     ],
-    "lat": null,
-    "lng": null,
+    "lat": 50.3513384,
+    "lng": 6.1766324,
     "trekhaak_zekerheid": "hoog",
-    "zekerheid_reden": "trekhaak-term in naam/website/info"
+    "zekerheid_reden": "trekhaak-term in naam/website/info",
+    "btw": "BE0439.620.628"
   }
 ]
