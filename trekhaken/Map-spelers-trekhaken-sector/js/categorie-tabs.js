@@ -343,7 +343,7 @@
     return `
       <tr>
         <td>${statusHtml}</td>
-        <td><strong>${escapeHtml(b.naam || "")}</strong></td>
+        <td><a class="open-detail" data-naam="${escapeHtml(b.naam || "")}" href="#" title="Toon details">${escapeHtml(b.naam || "")}</a></td>
         <td>${escapeHtml(land)}</td>
         <td>${escapeHtml(prov)}</td>
         <td>${escapeHtml(b.grootte || "")}</td>

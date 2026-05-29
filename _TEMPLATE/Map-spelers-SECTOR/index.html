@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="css/favorites.css"/>
   <link rel="stylesheet" href="css/edit.css"/>
   <link rel="stylesheet" href="css/categorie.css"/>
+  <link rel="stylesheet" href="css/detail-panel.css"/>
   <link rel="stylesheet" href="css/utilities.css"/>
 </head>
 <body>
@@ -218,6 +219,21 @@
     <div id="edit-content"></div>
   </div>
 
+  <!-- Detail-paneel (zijbalk rechts) -->
+  <div id="detail-panel" class="hidden" aria-hidden="true">
+    <div class="detail-overlay"></div>
+    <aside class="detail-content" role="dialog" aria-modal="true" aria-labelledby="detail-naam">
+      <header class="detail-header">
+        <div class="detail-cats" id="detail-cats"></div>
+        <h2 id="detail-naam">—</h2>
+        <button type="button" class="detail-close" id="detail-close" aria-label="Sluiten" title="Sluiten">×</button>
+      </header>
+      <div class="detail-body" id="detail-body">
+        <!-- Inhoud wordt door js/detail-panel.js gevuld -->
+      </div>
+    </aside>
+  </div>
+
   <!-- Scripts: Leaflet eerst, dan core modules, dan sector-bootstrap (LAATSTE) -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="js/config.js"></script>
@@ -228,6 +244,7 @@
   <script src="js/status.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/search.js"></script>
+  <script src="js/detail-panel.js"></script>
   <script src="js/categorie-tabs.js"></script>
   <script src="js/analyse.js"></script>
   <script src="js/edit.js"></script>
