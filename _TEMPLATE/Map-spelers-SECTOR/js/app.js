@@ -39,7 +39,12 @@ window.startApp = async function startApp() {
     // Default: alle landen + provincies + categorieën AAN
     if (window.activeLanden) cfg.scope_landen.forEach(l => activeLanden.add(l));
     if (window.activeRegios) Object.values(cfg.provincies || {}).flat().forEach(p => activeRegios.add(p.id));
-    if (window.activeCategorieen) cfg.categorieen.forEach(c => activeCategorieen.add(c.id));
+    if (window.activeCategorieen) {
+      cfg.categorieen.forEach(c => {
+        // Standaard: alle categorieen AAN, behalve 'alle_garages' (te veel records, ruis op de kaart)
+        if (c.id !== 'alle_garages') activeCategorieen.add(c.id);
+      });
+    }
 
     safe("syncFilterButtons",       () => syncFilterButtons());
     safe("render",                  () => render());
