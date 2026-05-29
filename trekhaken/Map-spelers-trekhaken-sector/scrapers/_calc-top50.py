@@ -12,17 +12,17 @@ Scoring (gewichten uit sector.config.json):
   - Digitaliseringspotentieel (geen webshop): 10 pt
 """
 import json, os, sys, io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8-sig')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
 
 
 def load(name):
-    with open(os.path.join(DATA, name), 'r', encoding='utf-8') as f:
+    with open(os.path.join(DATA, name), 'r', encoding='utf-8-sig') as f:
         return json.load(f)
 def save(name, data):
-    with open(os.path.join(DATA, name), 'w', encoding='utf-8') as f:
+    with open(os.path.join(DATA, name), 'w', encoding='utf-8-sig') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
@@ -76,7 +76,7 @@ def score(b, cfg):
 
 def main():
     # Sector-config laden
-    with open(os.path.join(ROOT, 'sector.config.json'), 'r', encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'sector.config.json'), 'r', encoding='utf-8-sig') as f:
         cfg = json.load(f)
 
     # Alle records (plaatsers + verkopers + distributeurs)

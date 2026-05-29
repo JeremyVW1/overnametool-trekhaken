@@ -15,7 +15,7 @@ Bij match: vul ontbrekende velden bij, voeg bron-tag toe.
 Bij geen match: nieuwe record, default categorie = 'plaatser' tenzij anders gemarkeerd.
 """
 import json, os, sys, io, re, glob
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8-sig')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
@@ -24,12 +24,12 @@ CACHE = os.path.join(DATA, '_bron-cache')
 
 def load_json(path, default=None):
     try:
-        with open(path, 'r', encoding='utf-8') as f:
+        with open(path, 'r', encoding='utf-8-sig') as f:
             return json.load(f)
     except FileNotFoundError:
         return default
 def save_json(path, data):
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8-sig') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def norm_name(s):

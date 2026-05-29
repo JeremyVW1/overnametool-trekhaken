@@ -15,7 +15,7 @@ Pure-specialist criteria (een record is specialist als ten minste 1 hit):
   6. Heeft >= 1 gevoerd-merk uit OEM-lijst (Brink/GDW/Westfalia/Bosal/...)
 """
 import json, os, sys, io, re
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8-sig')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
@@ -37,10 +37,10 @@ OEM_MERKEN = {'brink', 'gdw', 'westfalia', 'bosal', 'oris', 'acps', 'sawiko',
 
 
 def load(name):
-    with open(os.path.join(DATA, name), 'r', encoding='utf-8') as f:
+    with open(os.path.join(DATA, name), 'r', encoding='utf-8-sig') as f:
         return json.load(f)
 def save(name, data):
-    with open(os.path.join(DATA, name), 'w', encoding='utf-8') as f:
+    with open(os.path.join(DATA, name), 'w', encoding='utf-8-sig') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 

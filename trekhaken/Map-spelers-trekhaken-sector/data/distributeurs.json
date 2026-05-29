@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "naam": "Brink Group (HQ)",
     "land": "NL",
@@ -276,6 +276,29 @@
     "primaire_categorie": "distributeur",
     "bron": [
       "agent_research_2026_05_29_wave2"
+    ]
+  },
+  {
+    "naam": "Caravaning Center",
+    "land": "BE",
+    "provincie": "vbr",
+    "plaats": "Londerzeel",
+    "adres": "Autostrade 52, 1840 Londerzeel",
+    "telefoon": "+32 52 30 54 14",
+    "website": "caravaningcenter.be",
+    "merken_gevoerd": [
+      "Dethleffs",
+      "Sunlight"
+    ],
+    "primaire_categorie": "distributeur",
+    "categorieen": [
+      "distributeur",
+      "verkoper"
+    ],
+    "info": "Caravan dealer + exclusief BE-importeur Dethleffs/Sunlight.",
+    "bron": [
+      "spoor_c_caravan",
+      "branche_niche_2026_05_29"
     ]
   }
 ]
